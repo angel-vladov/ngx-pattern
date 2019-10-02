@@ -1,8 +1,24 @@
 {
   "name": "ngx-pattern",
-  "version": "0.0.1",
+  "version": "0.1.0",
+  "description": "Directive you can use to filter allowed input with RegEx",
+  "keywords": [
+    "angular",
+    "pattern",
+    "input"
+  ],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/angel-vladov/ngx-pattern"
+  },
   "peerDependencies": {
     "@angular/common": "^8.2.7",
     "@angular/core": "^8.2.7"
-  }
+  },
+  "license": "MIT",
+  "author": "Angel Vladov",
+  "bugs": {
+    "url": "https://github.com/angel-vladov/ngx-pattern/issues"
+  },
+  "homepage": "https://github.com/angel-vladov/ngx-pattern#readme"
 }

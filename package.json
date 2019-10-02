@@ -1,6 +1,7 @@
 {
   "name": "ngx-pattern",
-  "version": "0.1.0",
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
