@@ -17,7 +17,15 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "ngx-pattern": [
+        "dist/ngx-pattern"
+      ],
+      "ngx-pattern/*": [
+        "dist/ngx-pattern/*"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,

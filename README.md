@@ -1,27 +1,66 @@
-# NgxPattern
+# ngx-pattern
+![ngx-pattern](https://img.shields.io/badge/ngx--pattern-0.1.0-brightgreen.svg)
+[![License](http://img.shields.io/badge/License-MIT-blue.svg)](http://opensource.org/licenses/MIT)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.5.
+`ngx-pattern` is a small directive you can use to filter allowed input with regular expressions.
 
-## Development server
+### Installation
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+To use **ngx-pattern** in your project install it via:
 
-## Code scaffolding
+* NG
+    ```sh
+    ng add ngx-pattern
+    ```
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* NPM
+    ```sh
+    npm install ngx-pattern --save
+    ```
 
-## Build
+* Yarn
+    ```sh
+    yarn add ngx-pattern
+    ```
+  
+After installing, include `NgxPatternModule` in your application module like:
+  
+```ts
+  import { NgModule } from '@angular/core';
+  import { BrowserModule } from '@angular/platform-browser';
+  import { NgxDatatableModule } from 'ngx-pattern';
+  ​
+  import { AppComponent } from './app.component';
+  ​
+  @NgModule({
+    declarations: [AppComponent],
+    imports: [NgxPattern, BrowserModule],
+    bootstrap: [AppComponent]
+  })
+  export class AppModule { }
+```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+# Usage
 
-## Running unit tests
+* You can setup the pattern using a string
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+    ```html
+    <input type="text" [(ngModel)]="lowerCaseText" ngxPattern="[a-z]*">
+    <input type="text" [(ngModel)]="lowerCaseText" [ngxPattern]="'[a-z]*'">
+    ```
+ 
+* Or RegEx
 
-## Running end-to-end tests
+    ```html
+    numbersOnly = /^[0-9]*$/;
+  
+    ...
+  
+    <input type="text" [ngxPattern]="numbersOnly">
+    ```
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
+#### Changelog
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+##### 0.1.0
+* string and regex pattern support
