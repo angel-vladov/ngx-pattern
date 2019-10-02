@@ -1,5 +1,5 @@
 # ngx-pattern
-![ngx-pattern](https://img.shields.io/badge/ngx--pattern-0.1.0-brightgreen.svg)
+![ngx-pattern](https://img.shields.io/badge/ngx--pattern-0.1.2-brightgreen.svg)
 [![License](http://img.shields.io/badge/License-MIT-blue.svg)](http://opensource.org/licenses/MIT)
 
 `ngx-pattern` is a small directive you can use to filter allowed input with regular expressions.
@@ -7,11 +7,6 @@
 ### Installation
 
 To use **ngx-pattern** in your project install it via:
-
-* NG
-    ```sh
-    ng add ngx-pattern
-    ```
 
 * NPM
     ```sh
@@ -61,6 +56,10 @@ After installing, include `NgxPatternModule` in your application module like:
 
 
 #### Changelog
+
+
+##### 0.1.2
+* updated readme
 
 ##### 0.1.0
 * string and regex pattern support

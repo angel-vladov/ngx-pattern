@@ -6,9 +6,12 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
+    "build-pkg": "ng build ngx-pattern && npm run copy-files",
+    "copy-files": "cp README.md dist/ngx-pattern/README.md && cp LICENSE dist/ngx-pattern/LICENSE",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "publish": "npm publish dist/ngx-pattern"
   },
   "dependencies": {
     "@angular/animations": "~8.2.7",

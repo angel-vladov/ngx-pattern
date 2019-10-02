@@ -1,6 +1,6 @@
 {
   "name": "ngx-pattern",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Directive you can use to filter allowed input with RegEx",
   "keywords": [
     "angular",
