@@ -12,8 +12,8 @@
     "url" : "https://github.com/angel-vladov/ngx-pattern"
   },
   "peerDependencies": {
-    "@angular/common": "^8.2.7",
-    "@angular/core": "^8.2.7"
+    "@angular/common": "^6.0.0 || ^7.0.0 || ^8.0.0",
+    "@angular/core": "^6.0.0 || ^7.0.0 || ^8.0.0"
   },
   "license": "MIT",
   "author": "Angel Vladov",
