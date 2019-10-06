@@ -57,8 +57,10 @@
             "main": "projects/ngx-pattern-demo/src/main.ts",
             "polyfills": "projects/ngx-pattern-demo/src/polyfills.ts",
             "tsConfig": "projects/ngx-pattern-demo/tsconfig.app.json",
+            "baseHref": "/ngx-pattern/",
             "extractCss": true,
             "vendorChunk": false,
+            "deleteOutputPath": false,
             "aot": false,
             "assets": [
               "projects/ngx-pattern-demo/src/favicon.ico",

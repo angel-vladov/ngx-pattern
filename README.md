@@ -4,6 +4,8 @@
 
 `ngx-pattern` is a small directive you can use to filter allowed input with regular expressions.
 
+Check **[examples here](https://git.io/JeCwF)**.
+
 ### Installation
 
 To use **ngx-pattern** in your project install it via:
@@ -53,7 +55,6 @@ After installing, include `NgxPatternModule` in your application module like:
   
     <input type="text" [ngxPattern]="numbersOnly">
     ```
-
 
 #### Changelog
 
