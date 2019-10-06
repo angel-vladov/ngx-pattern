@@ -7,6 +7,7 @@ import { ToolbarComponent } from './shared/toolbar/toolbar.component';
 import { ForkMeRibbonComponent } from './shared/fork-me-ribbon/fork-me-ribbon.component';
 import { TerminalComponent } from './shared/terminal/terminal.component';
 import { CardComponent } from './shared/card/card.component';
+import { FormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -18,6 +19,7 @@ import { CardComponent } from './shared/card/card.component';
   ],
   imports: [
     BrowserModule,
+    FormsModule,
     NgxPatternModule,
   ],
   providers: [],

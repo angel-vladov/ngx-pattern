@@ -23,10 +23,34 @@
   margin-top: 16px;
 }
 
+.example-card {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: .75rem;
 
+  .control {
+    width: 220px;
+    max-width: 100%;
+    margin: 4px 8px 0 0;
+  }
 
-a:hover {
-  color: #125699;
+  .value {
+    width: 220px;
+    max-width: 100%;
+    margin: 4px 0 0 8px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    word-wrap: break-word;
+
+    &:empty::before {
+      content: "ngModel value";
+      color: #888;
+      letter-spacing: 0;
+      font-style: italic;
+      font-weight: 300;
+    }
+  }
 }
 
 svg#clouds {
