@@ -52,11 +52,13 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/ngx-pattern-demo",
+            "outputPath": "gh-pages",
             "index": "projects/ngx-pattern-demo/src/index.html",
             "main": "projects/ngx-pattern-demo/src/main.ts",
             "polyfills": "projects/ngx-pattern-demo/src/polyfills.ts",
             "tsConfig": "projects/ngx-pattern-demo/tsconfig.app.json",
+            "extractCss": true,
+            "vendorChunk": false,
             "aot": false,
             "assets": [
               "projects/ngx-pattern-demo/src/favicon.ico",

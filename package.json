@@ -11,7 +11,8 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "publish": "npm publish dist/ngx-pattern"
+    "publish": "npm run build-pkg && npm publish dist/ngx-pattern",
+    "gh-pages": "ng build ngx-pattern-demo"
   },
   "dependencies": {
     "@angular/animations": "~8.2.7",
