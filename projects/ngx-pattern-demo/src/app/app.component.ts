@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class AppComponent implements OnInit {
   title = 'ngx-pattern-demo';
-  activeInstall = 'ng';
+  activeInstall = 'npm';
 
   numbersOnly = /^[0-9]*$/;
   value1: string;

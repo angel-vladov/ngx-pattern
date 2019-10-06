@@ -5,9 +5,9 @@
   <p>Add to your project using ng, npm or yarn</p>
 
   <div class="card-container">
-    <app-card size="small" [active]="activeInstall === 'ng'" (click)="activeInstall = 'ng'">
+    <!--<app-card size="small" [active]="activeInstall === 'ng'" (click)="activeInstall = 'ng'">
       NG
-    </app-card>
+    </app-card>-->
     <app-card size="small" [active]="activeInstall === 'npm'" (click)="activeInstall = 'npm'">
       NPM
     </app-card>
@@ -17,9 +17,9 @@
   </div>
 
   <ng-container [ngSwitch]="activeInstall">
-    <app-terminal *ngSwitchCase="'ng'">
+    <!--<app-terminal *ngSwitchCase="'ng'">
       ng add ngx-pattern
-    </app-terminal>
+    </app-terminal>-->
     <app-terminal *ngSwitchCase="'npm'">
       npm install ngx-pattern --save
     </app-terminal>
