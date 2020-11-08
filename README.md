@@ -26,9 +26,9 @@ After installing, include `NgxPatternModule` in your application module like:
   import { NgModule } from '@angular/core';
   import { BrowserModule } from '@angular/platform-browser';
   import { NgxDatatableModule } from 'ngx-pattern';
-  ​
+
   import { AppComponent } from './app.component';
-  ​
+
   @NgModule({
     declarations: [AppComponent],
     imports: [NgxPattern, BrowserModule],
@@ -39,14 +39,14 @@ After installing, include `NgxPatternModule` in your application module like:
 
 # Usage
 
-* You can setup the pattern using a string
+* You can set up the pattern using a string
 
     ```html
     <input type="text" [(ngModel)]="lowerCaseText" ngxPattern="[a-z]*">
     <input type="text" [(ngModel)]="lowerCaseText" [ngxPattern]="'[a-z]*'">
     ```
  
-* Or RegEx
+* Or a RegEx
 
     ```html
     numbersOnly = /^[0-9]*$/;
@@ -58,6 +58,8 @@ After installing, include `NgxPatternModule` in your application module like:
 
 #### Changelog
 
+##### 0.1.3
+* support for Angular 10 and 11
 
 ##### 0.1.2
 * updated readme
