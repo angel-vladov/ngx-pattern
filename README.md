@@ -1,5 +1,5 @@
 # ngx-pattern
-![ngx-pattern](https://img.shields.io/badge/ngx--pattern-0.2.0-brightgreen.svg)
+![ngx-pattern](https://img.shields.io/badge/ngx--pattern-0.2.1-brightgreen.svg)
 [![License](http://img.shields.io/badge/License-MIT-blue.svg)](http://opensource.org/licenses/MIT)
 
 `ngx-pattern` is a small directive you can use to filter allowed input with regular expressions.
