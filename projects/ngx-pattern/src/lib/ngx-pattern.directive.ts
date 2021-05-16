@@ -29,11 +29,20 @@ export class NgxPatternDirective implements OnChanges {
   }
 
   @HostListener('keydown', ['$event'])
-  onKeyPress(e: KeyboardEvent) {
+  onKeyDown(e: KeyboardEvent) {
     if (this.regex && !e.ctrlKey && !isSpecialKey(e.key)) {
       if (!this.validWithChange(e.key)) {
         e.preventDefault();
       }
+    }
+  }
+
+  @HostListener('input', [])
+  onInput() {
+    if (!this.textIsValid(this.currentValue)) {
+      // Mobile browsers don't support keydown preventDefault and return
+      // Unidentified for the pressed key. We need to detect the change on input event and undo.
+      document.execCommand('undo');
     }
   }
 
@@ -55,6 +64,10 @@ export class NgxPatternDirective implements OnChanges {
     }
   }
 
+  get currentValue(): string {
+    return this.inputEl ? this.inputEl.value : undefined;
+  }
+
   private validWithChange(delta: string): boolean {
     const {
       value: current,
@@ -63,7 +76,11 @@ export class NgxPatternDirective implements OnChanges {
     } = this.inputEl;
 
     const updated = current.substring(0, selectionStart) + delta + current.substring(selectionEnd + 1);
-    const result = !updated || this.regex.test(updated);
+    return this.textIsValid(updated);
+  }
+
+  private textIsValid(text: string): boolean {
+    const result = !text || this.regex.test(text);
     this.regex.lastIndex = 0;
 
     return result;
