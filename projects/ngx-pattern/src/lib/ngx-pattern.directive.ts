@@ -1,7 +1,7 @@
 import {
   Directive,
   ElementRef,
-  HostListener,
+  HostListener, Inject,
   Input,
   OnChanges,
   SimpleChanges,
@@ -15,7 +15,7 @@ export class NgxPatternDirective implements OnChanges {
 
   private regex: RegExp;
 
-  constructor(private host: ElementRef) {
+  constructor(@Inject(ElementRef) private host: ElementRef) {
   }
 
   ngOnChanges(changes: SimpleChanges): void {
