@@ -107003,12 +107003,21 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
           }
         }
       }, {
-        key: "onKeyPress",
-        value: function onKeyPress(e) {
+        key: "onKeyDown",
+        value: function onKeyDown(e) {
           if (this.regex && !e.ctrlKey && !isSpecialKey(e.key)) {
             if (!this.validWithChange(e.key)) {
               e.preventDefault();
             }
+          }
+        }
+      }, {
+        key: "onInput",
+        value: function onInput() {
+          if (!this.textIsValid(this.currentValue)) {
+            // Mobile browsers don't support keydown preventDefault and return
+            // Unidentified for the pressed key. We need to detect the change on input event and undo.
+            document.execCommand('undo');
           }
         }
       }, {
@@ -107037,9 +107046,19 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
               selectionStart = _this$inputEl.selectionStart,
               selectionEnd = _this$inputEl.selectionEnd;
           var updated = current.substring(0, selectionStart) + delta + current.substring(selectionEnd + 1);
-          var result = !updated || this.regex.test(updated);
+          return this.textIsValid(updated);
+        }
+      }, {
+        key: "textIsValid",
+        value: function textIsValid(text) {
+          var result = !text || this.regex.test(text);
           this.regex.lastIndex = 0;
           return result;
+        }
+      }, {
+        key: "currentValue",
+        get: function get() {
+          return this.inputEl ? this.inputEl.value : undefined;
         }
       }, {
         key: "inputEl",
@@ -107061,7 +107080,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       hostBindings: function NgxPatternDirective_HostBindings(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("keydown", function NgxPatternDirective_keydown_HostBindingHandler($event) {
-            return ctx.onKeyPress($event);
+            return ctx.onKeyDown($event);
+          })("input", function NgxPatternDirective_input_HostBindingHandler() {
+            return ctx.onInput();
           })("paste", function NgxPatternDirective_paste_HostBindingHandler($event) {
             return ctx.onPaste($event);
           })("drop", function NgxPatternDirective_drop_HostBindingHandler($event) {
@@ -107090,9 +107111,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         ngxPattern: [{
           type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Input"]
         }],
-        onKeyPress: [{
+        onKeyDown: [{
           type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["HostListener"],
           args: ['keydown', ['$event']]
+        }],
+        onInput: [{
+          type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["HostListener"],
+          args: ['input', []]
         }],
         onPaste: [{
           type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["HostListener"],

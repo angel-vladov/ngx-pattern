@@ -73458,11 +73458,18 @@ class NgxPatternDirective {
             }
         }
     }
-    onKeyPress(e) {
+    onKeyDown(e) {
         if (this.regex && !e.ctrlKey && !isSpecialKey(e.key)) {
             if (!this.validWithChange(e.key)) {
                 e.preventDefault();
             }
+        }
+    }
+    onInput() {
+        if (!this.textIsValid(this.currentValue)) {
+            // Mobile browsers don't support keydown preventDefault and return
+            // Unidentified for the pressed key. We need to detect the change on input event and undo.
+            document.execCommand('undo');
         }
     }
     onPaste(e) {
@@ -73477,10 +73484,16 @@ class NgxPatternDirective {
             e.preventDefault();
         }
     }
+    get currentValue() {
+        return this.inputEl ? this.inputEl.value : undefined;
+    }
     validWithChange(delta) {
         const { value: current, selectionStart, selectionEnd, } = this.inputEl;
         const updated = current.substring(0, selectionStart) + delta + current.substring(selectionEnd + 1);
-        const result = !updated || this.regex.test(updated);
+        return this.textIsValid(updated);
+    }
+    textIsValid(text) {
+        const result = !text || this.regex.test(text);
         this.regex.lastIndex = 0;
         return result;
     }
@@ -73490,7 +73503,7 @@ class NgxPatternDirective {
 }
 NgxPatternDirective.ɵfac = function NgxPatternDirective_Factory(t) { return new (t || NgxPatternDirective)(_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_angular_core__WEBPACK_IMPORTED_MODULE_0__["ElementRef"])); };
 NgxPatternDirective.ɵdir = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineDirective"]({ type: NgxPatternDirective, selectors: [["", "ngxPattern", ""]], hostBindings: function NgxPatternDirective_HostBindings(rf, ctx) { if (rf & 1) {
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("keydown", function NgxPatternDirective_keydown_HostBindingHandler($event) { return ctx.onKeyPress($event); })("paste", function NgxPatternDirective_paste_HostBindingHandler($event) { return ctx.onPaste($event); })("drop", function NgxPatternDirective_drop_HostBindingHandler($event) { return ctx.onDrop($event); });
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("keydown", function NgxPatternDirective_keydown_HostBindingHandler($event) { return ctx.onKeyDown($event); })("input", function NgxPatternDirective_input_HostBindingHandler() { return ctx.onInput(); })("paste", function NgxPatternDirective_paste_HostBindingHandler($event) { return ctx.onPaste($event); })("drop", function NgxPatternDirective_drop_HostBindingHandler($event) { return ctx.onDrop($event); });
     } }, inputs: { ngxPattern: "ngxPattern" }, features: [_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵNgOnChangesFeature"]] });
 /*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](NgxPatternDirective, [{
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Directive"],
@@ -73499,9 +73512,12 @@ NgxPatternDirective.ɵdir = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefi
             }]
     }], function () { return [{ type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["ElementRef"] }]; }, { ngxPattern: [{
             type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Input"]
-        }], onKeyPress: [{
+        }], onKeyDown: [{
             type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["HostListener"],
             args: ['keydown', ['$event']]
+        }], onInput: [{
+            type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["HostListener"],
+            args: ['input', []]
         }], onPaste: [{
             type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["HostListener"],
             args: ['paste', ['$event']]
