@@ -1,24 +1,44 @@
 import {
   Directive,
   ElementRef,
-  HostListener, Inject,
+  HostListener,
+  Inject,
   Input,
   OnChanges,
-  SimpleChanges,
+  OnDestroy,
+  OnInit,
+  Optional
 } from '@angular/core';
+import { NgControl } from '@angular/forms';
 
 @Directive({
   selector: '[ngxPattern]'
 })
-export class NgxPatternDirective implements OnChanges {
+export class NgxPatternDirective implements OnChanges, OnInit, OnDestroy {
   @Input() ngxPattern: RegExp | string;
 
   private regex: RegExp;
+  private lastSelectionStart: number;
+  private lastSelectionEnd: number;
+  private lastValue: string;
+  onPasteHandler: (e: ClipboardEvent) => void;
+  onKeydownHandler: (e: KeyboardEvent) => void;
 
-  constructor(@Inject(ElementRef) private host: ElementRef) {
+  constructor(@Inject(ElementRef) private host: ElementRef, @Optional() private control: NgControl) {
   }
 
-  ngOnChanges(changes: SimpleChanges): void {
+  ngOnInit(): void {
+    this.onPasteHandler = (e: ClipboardEvent) => {
+      this.onPaste(e);
+    };
+    this.onKeydownHandler = (e: KeyboardEvent) => {
+      this.onKeyDown(e);
+    };
+    this.host.nativeElement.addEventListener('keydown', this.onKeydownHandler);
+    this.host.nativeElement.addEventListener('paste', this.onPasteHandler);
+  }
+
+  ngOnChanges(): void {
     if (this.ngxPattern) {
       if (typeof this.ngxPattern === 'string') {
         this.regex = new RegExp(`^${this.ngxPattern}$`, 'g');
@@ -28,9 +48,25 @@ export class NgxPatternDirective implements OnChanges {
     }
   }
 
-  @HostListener('keydown', ['$event'])
-  onKeyDown(e: KeyboardEvent) {
-    if (this.regex && !e.ctrlKey && !isSpecialKey(e.key)) {
+  ngOnDestroy(): void {
+    this.host.nativeElement.removeEventListener('keydown', this.onKeydownHandler);
+    this.host.nativeElement.removeEventListener('paste', this.onPasteHandler);
+  }
+
+  private onKeyDown(e?: KeyboardEvent): void {
+    const input = e?.currentTarget as HTMLInputElement;
+    this.lastValue = input.value || '';
+    const {
+      selectionStart,
+      selectionEnd,
+    } = this.inputEl;
+    if (selectionStart !== null) {
+      this.lastSelectionStart = selectionStart;
+    }
+    if (selectionEnd !== null) {
+      this.lastSelectionEnd = selectionEnd;
+    }
+    if (this.regex && e && !e.ctrlKey && !e.metaKey && !isSpecialKey(e.key)) {
       if (!this.validWithChange(e.key)) {
         e.preventDefault();
       }
@@ -38,33 +74,40 @@ export class NgxPatternDirective implements OnChanges {
   }
 
   @HostListener('input', [])
-  onInput() {
-    if (!this.textIsValid(this.currentValue)) {
+  onInput(): void {
+    if (this.currentValue && !this.textIsValid(this.currentValue)) {
       // Mobile browsers don't support keydown preventDefault and return
       // Unidentified for the pressed key. We need to detect the change on input event and undo.
       document.execCommand('undo');
     }
   }
 
-  @HostListener('paste', ['$event'])
-  onPaste(e: ClipboardEvent) {
-    const pastedInput = e.clipboardData.getData('text/plain');
-
-    if (!this.validWithChange(pastedInput)) {
-      e.preventDefault();
+  private onPaste(e?: ClipboardEvent): void {
+    const pastedInput = e?.clipboardData?.getData('text/plain');
+    if (pastedInput) {
+      e?.preventDefault();
+      if (this.validWithChange(pastedInput)) {
+        const text = this.lastValue.substring(0, this.lastSelectionStart) + pastedInput + this.lastValue.substring(this.lastSelectionEnd);
+        if (this.control) {
+          this.control.control?.setValue(text);
+        } else {
+          this.inputEl.value = text;
+        }
+        this.inputEl.setSelectionRange(this.lastSelectionEnd + pastedInput.length, this.lastSelectionStart + pastedInput.length);
+      }
     }
   }
 
   @HostListener('drop', ['$event'])
-  onDrop(e: DragEvent) {
-    const textData = e.dataTransfer.getData('text');
+  onDrop(e: DragEvent): void {
+    const textData = e.dataTransfer?.getData('text');
 
-    if (!this.validWithChange(textData)) {
+    if (textData && !this.validWithChange(textData)) {
       e.preventDefault();
     }
   }
 
-  get currentValue(): string {
+  get currentValue(): string | undefined {
     return this.inputEl ? this.inputEl.value : undefined;
   }
 
@@ -74,7 +117,9 @@ export class NgxPatternDirective implements OnChanges {
       selectionStart,
       selectionEnd,
     } = this.inputEl;
-
+    if (selectionEnd === null || selectionStart === null) {
+      return false;
+    }
     const updated = current.substring(0, selectionStart) + delta + current.substring(selectionEnd + 1);
     return this.textIsValid(updated);
   }
