@@ -18,13 +18,13 @@ export class NgxPatternDirective implements OnChanges, OnInit, OnDestroy {
   @Input() ngxPattern: RegExp | string;
 
   private regex: RegExp;
-  private lastSelectionStart: number;
-  private lastSelectionEnd: number;
-  private lastValue: string;
+  private lastSelectionStart = 0;
+  private lastSelectionEnd = 0;
+  private lastValue = '';
   onPasteHandler: (e: ClipboardEvent) => void;
   onKeydownHandler: (e: KeyboardEvent) => void;
 
-  constructor(@Inject(ElementRef) private host: ElementRef, @Optional() private control: NgControl) {
+  constructor(@Inject(ElementRef) private host: ElementRef, @Optional() @Inject(NgControl) private control: NgControl) {
   }
 
   ngOnInit(): void {
