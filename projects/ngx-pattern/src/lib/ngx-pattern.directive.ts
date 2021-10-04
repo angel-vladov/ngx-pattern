@@ -42,6 +42,13 @@ export class NgxPatternDirective implements OnChanges, OnInit, OnDestroy {
         tap((e: KeyboardEvent) => this.onKeyDown(e))
       )
       .subscribe();
+
+    fromEvent(this.host.nativeElement, 'touchend')
+      .pipe(
+        takeUntil(this.unsubscribeSubj),
+        tap((e: TouchEvent) => this.onClick(e))
+      )
+      .subscribe();
   }
 
   ngOnChanges(): void {
@@ -59,8 +66,7 @@ export class NgxPatternDirective implements OnChanges, OnInit, OnDestroy {
     this.unsubscribeSubj.unsubscribe();
   }
 
-  private onKeyDown(e?: KeyboardEvent): void {
-    const input = e?.currentTarget as HTMLInputElement;
+  private initSelectionValues(input: HTMLInputElement) {
     this.lastValue = input.value || '';
     const {
       selectionStart,
@@ -72,11 +78,20 @@ export class NgxPatternDirective implements OnChanges, OnInit, OnDestroy {
     if (selectionEnd !== null) {
       this.lastSelectionEnd = selectionEnd;
     }
+  }
+
+  private onKeyDown(e?: KeyboardEvent): void {
+    const input = e?.currentTarget as HTMLInputElement;
+    this.initSelectionValues(input);
     if (this.regex && e && !e.ctrlKey && !e.metaKey && !isSpecialKey(e.key)) {
       if (!this.validWithChange(e.key)) {
         e.preventDefault();
       }
     }
+  }
+
+  onClick(ev: Event): void {
+    this.initSelectionValues(ev.target as HTMLInputElement);
   }
 
   @HostListener('input', [])
