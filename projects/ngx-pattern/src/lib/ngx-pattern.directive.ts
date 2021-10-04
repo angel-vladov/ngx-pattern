@@ -46,7 +46,7 @@ export class NgxPatternDirective implements OnChanges, OnInit, OnDestroy {
     fromEvent(this.host.nativeElement, 'touchend')
       .pipe(
         takeUntil(this.unsubscribeSubj),
-        tap((e: TouchEvent) => this.onClick(e))
+        tap((e: TouchEvent) => this.onTouchEnd(e))
       )
       .subscribe();
   }
@@ -90,7 +90,7 @@ export class NgxPatternDirective implements OnChanges, OnInit, OnDestroy {
     }
   }
 
-  onClick(ev: Event): void {
+  onTouchEnd(ev: Event): void {
     this.initSelectionValues(ev.target as HTMLInputElement);
   }
 
