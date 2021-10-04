@@ -10,32 +10,38 @@ import {
   Optional
 } from '@angular/core';
 import { NgControl } from '@angular/forms';
+import { fromEvent, Subject } from 'rxjs';
+import { takeUntil, tap } from 'rxjs/operators';
 
 @Directive({
   selector: '[ngxPattern]'
 })
 export class NgxPatternDirective implements OnChanges, OnInit, OnDestroy {
+  private unsubscribeSubj: Subject<void> = new Subject<void>();
   @Input() ngxPattern: RegExp | string;
 
   private regex: RegExp;
   private lastSelectionStart = 0;
   private lastSelectionEnd = 0;
   private lastValue = '';
-  onPasteHandler: (e: ClipboardEvent) => void;
-  onKeydownHandler: (e: KeyboardEvent) => void;
 
   constructor(@Inject(ElementRef) private host: ElementRef, @Optional() @Inject(NgControl) private control: NgControl) {
   }
 
   ngOnInit(): void {
-    this.onPasteHandler = (e: ClipboardEvent) => {
-      this.onPaste(e);
-    };
-    this.onKeydownHandler = (e: KeyboardEvent) => {
-      this.onKeyDown(e);
-    };
-    this.host.nativeElement.addEventListener('keydown', this.onKeydownHandler);
-    this.host.nativeElement.addEventListener('paste', this.onPasteHandler);
+    fromEvent(this.host.nativeElement, 'paste')
+      .pipe(
+        takeUntil(this.unsubscribeSubj),
+        tap((e: ClipboardEvent) => this.onPaste(e))
+      )
+      .subscribe();
+
+    fromEvent(this.host.nativeElement, 'keydown')
+      .pipe(
+        takeUntil(this.unsubscribeSubj),
+        tap((e: KeyboardEvent) => this.onKeyDown(e))
+      )
+      .subscribe();
   }
 
   ngOnChanges(): void {
@@ -49,8 +55,8 @@ export class NgxPatternDirective implements OnChanges, OnInit, OnDestroy {
   }
 
   ngOnDestroy(): void {
-    this.host.nativeElement.removeEventListener('keydown', this.onKeydownHandler);
-    this.host.nativeElement.removeEventListener('paste', this.onPasteHandler);
+    this.unsubscribeSubj.next();
+    this.unsubscribeSubj.unsubscribe();
   }
 
   private onKeyDown(e?: KeyboardEvent): void {
