@@ -104,6 +104,17 @@
                   "maximumError": "10kb"
                 }
               ]
+            },
+            "local": {
+              "optimization": false,
+              "outputHashing": "all",
+              "sourceMap": true,
+              "extractCss": false,
+              "aot": false,
+              "namedChunks": false,
+              "extractLicenses": true,
+              "vendorChunk": false,
+              "buildOptimizer": false
             }
           }
         },
@@ -115,6 +126,13 @@
           "configurations": {
             "production": {
               "browserTarget": "ngx-pattern-demo:build:production"
+            },
+            "host": {
+              "browserTarget": "ngx-pattern-demo:build:local",
+              "port": 8080,
+              "open": true,
+              "host": "0.0.0.0",
+              "disableHostCheck": true
             }
           }
         },
@@ -167,6 +185,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ngx-pattern"
+    }
+  },
+  "defaultProject": "ngx-pattern",
+  "cli": {
+    "analytics": false
+  }
 }
