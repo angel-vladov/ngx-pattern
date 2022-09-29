@@ -56,6 +56,14 @@ After installing, include `NgxPatternModule` in your application module like:
     <input type="text" [ngxPattern]="numbersOnly">
     ```
 
+## FAQ
+
+#### Working on an older pre Angular 9 app or not using Ivy?
+
+Switch to version `0.2.1`
+
+Versions prior to `1.0.0` are compiled to work with the legacy ViewEngine 
+
 #### Changelog
 
 ##### 0.2.1

@@ -6,16 +6,23 @@ import {
   OnChanges,
   SimpleChanges,
 } from '@angular/core';
+import { DOCUMENT } from '@angular/common';
 
 @Directive({
   selector: '[ngxPattern]'
 })
 export class NgxPatternDirective implements OnChanges {
-  @Input() ngxPattern: RegExp | string;
+  @Input() ngxPattern?: RegExp | string;
 
-  private regex: RegExp;
+  private regex?: RegExp;
 
-  constructor(@Inject(ElementRef) private host: ElementRef) {
+  constructor(
+    @Inject(ElementRef) private host: ElementRef,
+    @Inject(DOCUMENT) private document: Document,
+  ) {}
+
+  get regExPattern(): RegExp | undefined {
+    return this.regex;
   }
 
   ngOnChanges(changes: SimpleChanges): void {
@@ -29,10 +36,10 @@ export class NgxPatternDirective implements OnChanges {
   }
 
   @HostListener('keydown', ['$event'])
-  onKeyDown(e: KeyboardEvent) {
-    if (this.regex && !e.ctrlKey && !isSpecialKey(e.key)) {
-      if (!this.validWithChange(e.key)) {
-        e.preventDefault();
+  onKeyDown(event: KeyboardEvent) {
+    if (this.regExPattern && !event.ctrlKey && !isSpecialKey(event.key)) {
+      if (!this.validWithChange(event.key)) {
+        event.preventDefault();
       }
     }
   }
@@ -42,51 +49,56 @@ export class NgxPatternDirective implements OnChanges {
     if (!this.textIsValid(this.currentValue)) {
       // Mobile browsers don't support keydown preventDefault and return
       // Unidentified for the pressed key. We need to detect the change on input event and undo.
-      document.execCommand('undo');
+      this.document.execCommand('undo');
     }
   }
 
   @HostListener('paste', ['$event'])
-  onPaste(e: ClipboardEvent) {
-    const pastedInput = e.clipboardData.getData('text/plain');
+  onPaste(event: ClipboardEvent) {
+    if (event.clipboardData) {
+      const pastedInput = event.clipboardData.getData('text/plain');
 
-    if (!this.validWithChange(pastedInput)) {
-      e.preventDefault();
+      if (!this.validWithChange(pastedInput)) {
+        event.preventDefault();
+      }
     }
   }
 
   @HostListener('drop', ['$event'])
-  onDrop(e: DragEvent) {
-    const textData = e.dataTransfer.getData('text');
+  onDrop(event: DragEvent) {
+    if (event.dataTransfer) {
+      const textData = event.dataTransfer.getData('text');
 
-    if (!this.validWithChange(textData)) {
-      e.preventDefault();
+      if (!this.validWithChange(textData)) {
+        event.preventDefault();
+      }
     }
   }
 
-  get currentValue(): string {
+  get currentValue(): string | undefined {
     return this.inputEl ? this.inputEl.value : undefined;
   }
 
   private validWithChange(delta: string): boolean {
-    const {
-      value: current,
-      selectionStart,
-      selectionEnd,
-    } = this.inputEl;
-
+    const current = this.inputEl.value;
+    const selectionStart = this.inputEl.selectionStart || 0;
+    const selectionEnd = this.inputEl.selectionEnd || 0;
     const updated = current.substring(0, selectionStart) + delta + current.substring(selectionEnd + 1);
     return this.textIsValid(updated);
   }
 
-  private textIsValid(text: string): boolean {
-    const result = !text || this.regex.test(text);
-    this.regex.lastIndex = 0;
+  private textIsValid(text: string | undefined): boolean {
+    if (this.regExPattern) {
+      const result = !text || this.regExPattern.test(text);
+      this.regExPattern.lastIndex = 0;
 
-    return result;
+      return result;
+    }
+
+    return true;
   }
 
-  get inputEl(): HTMLInputElement {
+  private get inputEl(): HTMLInputElement {
     return this.host.nativeElement;
   }
 }
