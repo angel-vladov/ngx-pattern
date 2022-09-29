@@ -10,11 +10,11 @@ export class AppComponent implements OnInit {
   activeInstall = 'npm';
 
   numbersOnly = /^[0-9]*$/;
-  value1: string;
-  value2: string;
-  value3: string;
-  value4: string;
-  value5: string;
+  value1?: string;
+  value2?: string;
+  value3?: string;
+  value4?: string;
+  value5?: string;
 
   ngOnInit(): void {
 

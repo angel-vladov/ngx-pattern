@@ -7,7 +7,7 @@ import { Component, HostBinding, Input, OnInit } from '@angular/core';
 })
 export class CardComponent implements OnInit {
   @HostBinding('class.active')
-  @Input() active: boolean;
+  @Input() active?: boolean;
   @Input() size = 'small';
 
   constructor() {
