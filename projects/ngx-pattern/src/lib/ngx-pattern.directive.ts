@@ -33,7 +33,7 @@ export class NgxPatternDirective implements OnChanges {
 
   @HostListener('keydown', ['$event'])
   onKeyDown(event: KeyboardEvent) {
-    if (this.regExPattern && !event.ctrlKey && !isSpecialKey(event.key)) {
+    if (this.regExPattern && noKeyFlags(event) && !isSpecialKey(event.key)) {
       if (!this.validWithChange(event.key)) {
         event.preventDefault();
       }
@@ -97,6 +97,10 @@ export class NgxPatternDirective implements OnChanges {
   private get inputEl(): HTMLInputElement {
     return this.host.nativeElement;
   }
+}
+
+function noKeyFlags(event: KeyboardEvent): boolean {
+  return !event.ctrlKey && !event.altKey && !event.metaKey;
 }
 
 /** @see https://developer.mozilla.org/bg/docs/Web/API/KeyboardEvent/key/Key_Values */
