@@ -14,23 +14,19 @@ import { DOCUMENT } from '@angular/common';
 export class NgxPatternDirective implements OnChanges {
   @Input() ngxPattern?: RegExp | string;
 
-  private regex?: RegExp;
+  regExPattern?: RegExp;
 
   constructor(
     @Inject(ElementRef) private host: ElementRef,
     @Inject(DOCUMENT) private document: Document,
   ) {}
 
-  get regExPattern(): RegExp | undefined {
-    return this.regex;
-  }
-
   ngOnChanges(changes: SimpleChanges): void {
     if (this.ngxPattern) {
       if (typeof this.ngxPattern === 'string') {
-        this.regex = new RegExp(`^${this.ngxPattern}$`, 'g');
+        this.regExPattern = new RegExp(`^${this.ngxPattern}$`, 'g');
       } else {
-        this.regex = this.ngxPattern;
+        this.regExPattern = this.ngxPattern;
       }
     }
   }
