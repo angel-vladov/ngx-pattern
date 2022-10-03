@@ -15,11 +15,14 @@ export class NgxPatternDirective implements OnChanges {
   @Input() ngxPattern?: RegExp | string;
 
   regExPattern?: RegExp;
+  private document!: Document;
 
   constructor(
     @Inject(ElementRef) private host: ElementRef,
-    @Inject(DOCUMENT) private document: Document,
-  ) {}
+    @Inject(DOCUMENT) document: any,
+  ) {
+    this.document = document as Document;
+  }
 
   ngOnChanges(changes: SimpleChanges): void {
     if (this.ngxPattern) {
