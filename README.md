@@ -1,5 +1,5 @@
 # ngx-pattern
-![ngx-pattern](https://img.shields.io/badge/ngx--pattern-1.0.0-brightgreen.svg)
+![ngx-pattern](https://img.shields.io/badge/ngx--pattern-2.0.0-brightgreen.svg)
 [![License](http://img.shields.io/badge/License-MIT-blue.svg)](http://opensource.org/licenses/MIT)
 
 `ngx-pattern` is a small directive you can use to filter allowed input with regular expressions.
@@ -14,7 +14,7 @@ The library has several versions compiled for different angular versions. Make s
 |-----------------|---------------------|-------------|
 | < 9             | <= 0.2.1            | View Engine |
 | >= 9  < 12      | ^1.0.0              | View Engine |
-| >= 12           | ^2.0.0              | Ivy-partial |
+| >= 12           | ^2.0.0              | Partial-Ivy |
 
 ### Installation
 
@@ -68,8 +68,12 @@ After installing, include `NgxPatternModule` in your application module like:
 
 ### Changelog
 
+##### 2.0.0
+* [Partial-Ivy](https://angular.io/guide/creating-libraries) compilation for better compatibility with modern Angular
+* Minimum Angular version changed to `12+`
+
 ##### 1.0.0
-* Changed supported Angular versions to `9+`
+* Minimum Angular version changed to `9+`
 * Update incorrect keydown handling of special keys
 * Improved unit tests coverage
 * Project switched to `strict` mode
