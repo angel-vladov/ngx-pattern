@@ -6,6 +6,8 @@
 
 Check **[examples here](https://git.io/JeCwF)**.
 
+Requires **Angular 9+**. _For Angular < 9 use version_ `0.2.1`.
+
 ### Installation
 
 To use **ngx-pattern** in your project install it via:
@@ -58,11 +60,10 @@ After installing, include `NgxPatternModule` in your application module like:
 
 ## FAQ
 
-#### Working on an older pre Angular 9 app or not using Ivy?
+#### Working on an older pre Angular 9?
 
-Switch to version `0.2.1`
-
-Versions prior to `1.0.0` are compiled to work with the legacy ViewEngine 
+* Switch to version `0.2.1`
+* Versions prior to `1.0.0` work with Angular < 9
 
 #### Changelog
 
