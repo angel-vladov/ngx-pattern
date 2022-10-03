@@ -6,7 +6,8 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent implements OnInit {
-  title = 'ngx-pattern-demo';
+  readonly title = 'ngx-pattern-demo';
+
   activeInstall = 'npm';
 
   numbersOnly = /^[0-9]*$/;

@@ -33,6 +33,15 @@
     width: 220px;
     max-width: 100%;
     margin: 4px 8px 0 0;
+    padding: .5em;
+    box-sizing: border-box;
+    border: 1px solid gray;
+    outline: 0 none;
+
+    &:focus {
+      border-color: #1976d2;
+      outline: 2px solid rgba(#1976d2, .25);
+    }
   }
 
   .value {
