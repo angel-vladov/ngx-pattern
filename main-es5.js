@@ -52,15 +52,15 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["main"], {
   /***/
-  "../../node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js":
-  /*!*************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js ***!
-    \*************************************************************************************************************/
+  "../../node_modules/@angular/common/fesm2015/common.js":
+  /*!**************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/@angular/common/fesm2015/common.js ***!
+    \**************************************************************************************************/
 
   /*! exports provided: APP_BASE_HREF, AsyncPipe, CommonModule, CurrencyPipe, DOCUMENT, DatePipe, DecimalPipe, FormStyle, FormatWidth, HashLocationStrategy, I18nPluralPipe, I18nSelectPipe, JsonPipe, KeyValuePipe, LOCATION_INITIALIZED, Location, LocationStrategy, LowerCasePipe, NgClass, NgComponentOutlet, NgForOf, NgForOfContext, NgIf, NgIfContext, NgLocaleLocalization, NgLocalization, NgPlural, NgPluralCase, NgStyle, NgSwitch, NgSwitchCase, NgSwitchDefault, NgTemplateOutlet, NumberFormatStyle, NumberSymbol, PathLocationStrategy, PercentPipe, PlatformLocation, Plural, SlicePipe, TitleCasePipe, TranslationWidth, UpperCasePipe, VERSION, ViewportScroller, WeekDay, formatCurrency, formatDate, formatNumber, formatPercent, getCurrencySymbol, getLocaleCurrencyCode, getLocaleCurrencyName, getLocaleCurrencySymbol, getLocaleDateFormat, getLocaleDateTimeFormat, getLocaleDayNames, getLocaleDayPeriods, getLocaleDirection, getLocaleEraNames, getLocaleExtraDayPeriodRules, getLocaleExtraDayPeriods, getLocaleFirstDayOfWeek, getLocaleId, getLocaleMonthNames, getLocaleNumberFormat, getLocaleNumberSymbol, getLocalePluralCase, getLocaleTimeFormat, getLocaleWeekEndRange, getNumberOfCurrencyDigits, isPlatformBrowser, isPlatformServer, isPlatformWorkerApp, isPlatformWorkerUi, registerLocaleData, ɵBrowserPlatformLocation, ɵDomAdapter, ɵNullViewportScroller, ɵPLATFORM_BROWSER_ID, ɵPLATFORM_SERVER_ID, ɵPLATFORM_WORKER_APP_ID, ɵPLATFORM_WORKER_UI_ID, ɵangular_packages_common_common_a, ɵangular_packages_common_common_b, ɵangular_packages_common_common_c, ɵangular_packages_common_common_d, ɵangular_packages_common_common_e, ɵangular_packages_common_common_f, ɵgetDOM, ɵparseCookieValue, ɵsetRootDomAdapter */
 
   /***/
-  function node_modulesAngularCommon__ivy_ngcc__Fesm2015CommonJs(module, __webpack_exports__, __webpack_require__) {
+  function node_modulesAngularCommonFesm2015CommonJs(module, __webpack_exports__, __webpack_require__) {
     "use strict";
 
     __webpack_require__.r(__webpack_exports__);
@@ -621,7 +621,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "../../node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
+    "../../node_modules/@angular/core/fesm2015/core.js");
     /**
      * @license Angular v9.1.12
      * (c) 2010-2020 Google LLC. https://angular.io/
@@ -9744,15 +9744,15 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
   },
 
   /***/
-  "../../node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js":
-  /*!*********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js ***!
-    \*********************************************************************************************************/
+  "../../node_modules/@angular/core/fesm2015/core.js":
+  /*!**********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/@angular/core/fesm2015/core.js ***!
+    \**********************************************************************************************/
 
   /*! exports provided: ANALYZE_FOR_ENTRY_COMPONENTS, APP_BOOTSTRAP_LISTENER, APP_ID, APP_INITIALIZER, ApplicationInitStatus, ApplicationModule, ApplicationRef, Attribute, COMPILER_OPTIONS, CUSTOM_ELEMENTS_SCHEMA, ChangeDetectionStrategy, ChangeDetectorRef, Compiler, CompilerFactory, Component, ComponentFactory, ComponentFactoryResolver, ComponentRef, ContentChild, ContentChildren, DEFAULT_CURRENCY_CODE, DebugElement, DebugEventListener, DebugNode, DefaultIterableDiffer, Directive, ElementRef, EmbeddedViewRef, ErrorHandler, EventEmitter, Host, HostBinding, HostListener, INJECTOR, Inject, InjectFlags, Injectable, InjectionToken, Injector, Input, IterableDiffers, KeyValueDiffers, LOCALE_ID, MissingTranslationStrategy, ModuleWithComponentFactories, NO_ERRORS_SCHEMA, NgModule, NgModuleFactory, NgModuleFactoryLoader, NgModuleRef, NgProbeToken, NgZone, Optional, Output, PACKAGE_ROOT_URL, PLATFORM_ID, PLATFORM_INITIALIZER, Pipe, PlatformRef, Query, QueryList, ReflectiveInjector, ReflectiveKey, Renderer2, RendererFactory2, RendererStyleFlags2, ResolvedReflectiveFactory, Sanitizer, SecurityContext, Self, SimpleChange, SkipSelf, SystemJsNgModuleLoader, SystemJsNgModuleLoaderConfig, TRANSLATIONS, TRANSLATIONS_FORMAT, TemplateRef, Testability, TestabilityRegistry, Type, VERSION, Version, ViewChild, ViewChildren, ViewContainerRef, ViewEncapsulation, ViewRef, WrappedValue, asNativeElements, assertPlatform, createPlatform, createPlatformFactory, defineInjectable, destroyPlatform, enableProdMode, forwardRef, getDebugNode, getModuleFactory, getPlatform, inject, isDevMode, platformCore, resolveForwardRef, setTestabilityGetter, ɵALLOW_MULTIPLE_PLATFORMS, ɵAPP_ID_RANDOM_PROVIDER, ɵChangeDetectorStatus, ɵCodegenComponentFactoryResolver, ɵCompiler_compileModuleAndAllComponentsAsync__POST_R3__, ɵCompiler_compileModuleAndAllComponentsSync__POST_R3__, ɵCompiler_compileModuleAsync__POST_R3__, ɵCompiler_compileModuleSync__POST_R3__, ɵComponentFactory, ɵConsole, ɵDEFAULT_LOCALE_ID, ɵEMPTY_ARRAY, ɵEMPTY_MAP, ɵINJECTOR_IMPL__POST_R3__, ɵINJECTOR_SCOPE, ɵLifecycleHooksFeature, ɵLocaleDataIndex, ɵNG_COMP_DEF, ɵNG_DIR_DEF, ɵNG_ELEMENT_ID, ɵNG_INJ_DEF, ɵNG_MOD_DEF, ɵNG_PIPE_DEF, ɵNG_PROV_DEF, ɵNOT_FOUND_CHECK_ONLY_ELEMENT_INJECTOR, ɵNO_CHANGE, ɵNgModuleFactory, ɵNoopNgZone, ɵReflectionCapabilities, ɵRender3ComponentFactory, ɵRender3ComponentRef, ɵRender3NgModuleRef, ɵSWITCH_CHANGE_DETECTOR_REF_FACTORY__POST_R3__, ɵSWITCH_COMPILE_COMPONENT__POST_R3__, ɵSWITCH_COMPILE_DIRECTIVE__POST_R3__, ɵSWITCH_COMPILE_INJECTABLE__POST_R3__, ɵSWITCH_COMPILE_NGMODULE__POST_R3__, ɵSWITCH_COMPILE_PIPE__POST_R3__, ɵSWITCH_ELEMENT_REF_FACTORY__POST_R3__, ɵSWITCH_IVY_ENABLED__POST_R3__, ɵSWITCH_RENDERER2_FACTORY__POST_R3__, ɵSWITCH_TEMPLATE_REF_FACTORY__POST_R3__, ɵSWITCH_VIEW_CONTAINER_REF_FACTORY__POST_R3__, ɵ_sanitizeHtml, ɵ_sanitizeStyle, ɵ_sanitizeUrl, ɵallowSanitizationBypassAndThrow, ɵand, ɵangular_packages_core_core_a, ɵangular_packages_core_core_b, ɵangular_packages_core_core_ba, ɵangular_packages_core_core_bb, ɵangular_packages_core_core_bc, ɵangular_packages_core_core_bd, ɵangular_packages_core_core_bf, ɵangular_packages_core_core_bg, ɵangular_packages_core_core_bh, ɵangular_packages_core_core_bi, ɵangular_packages_core_core_bj, ɵangular_packages_core_core_bk, ɵangular_packages_core_core_bl, ɵangular_packages_core_core_bm, ɵangular_packages_core_core_bn, ɵangular_packages_core_core_bp, ɵangular_packages_core_core_bq, ɵangular_packages_core_core_c, ɵangular_packages_core_core_d, ɵangular_packages_core_core_e, ɵangular_packages_core_core_f, ɵangular_packages_core_core_g, ɵangular_packages_core_core_h, ɵangular_packages_core_core_i, ɵangular_packages_core_core_j, ɵangular_packages_core_core_k, ɵangular_packages_core_core_l, ɵangular_packages_core_core_m, ɵangular_packages_core_core_n, ɵangular_packages_core_core_o, ɵangular_packages_core_core_p, ɵangular_packages_core_core_q, ɵangular_packages_core_core_r, ɵangular_packages_core_core_s, ɵangular_packages_core_core_t, ɵangular_packages_core_core_u, ɵangular_packages_core_core_v, ɵangular_packages_core_core_w, ɵangular_packages_core_core_x, ɵangular_packages_core_core_y, ɵangular_packages_core_core_z, ɵbypassSanitizationTrustHtml, ɵbypassSanitizationTrustResourceUrl, ɵbypassSanitizationTrustScript, ɵbypassSanitizationTrustStyle, ɵbypassSanitizationTrustUrl, ɵccf, ɵclearOverrides, ɵclearResolutionOfComponentResourcesQueue, ɵcmf, ɵcompileComponent, ɵcompileDirective, ɵcompileNgModule, ɵcompileNgModuleDefs, ɵcompileNgModuleFactory__POST_R3__, ɵcompilePipe, ɵcreateInjector, ɵcrt, ɵdefaultIterableDiffers, ɵdefaultKeyValueDiffers, ɵdetectChanges, ɵdevModeEqual, ɵdid, ɵeld, ɵfindLocaleData, ɵflushModuleScopingQueueAsMuchAsPossible, ɵgetComponentViewDefinitionFactory, ɵgetDebugNodeR2, ɵgetDebugNode__POST_R3__, ɵgetDirectives, ɵgetHostElement, ɵgetInjectableDef, ɵgetLContext, ɵgetLocaleCurrencyCode, ɵgetLocalePluralCase, ɵgetModuleFactory__POST_R3__, ɵgetSanitizationBypassType, ɵglobal, ɵinitServicesIfNeeded, ɵinlineInterpolate, ɵinterpolate, ɵisBoundToModule__POST_R3__, ɵisDefaultChangeDetectionStrategy, ɵisListLikeIterable, ɵisObservable, ɵisPromise, ɵivyEnabled, ɵlooseIdentical, ɵmakeDecorator, ɵmarkDirty, ɵmod, ɵmpd, ɵncd, ɵnov, ɵoverrideComponentView, ɵoverrideProvider, ɵpad, ɵpatchComponentDefWithScope, ɵpid, ɵpod, ɵppd, ɵprd, ɵpublishDefaultGlobalUtils, ɵpublishGlobalUtil, ɵqud, ɵregisterLocaleData, ɵregisterModuleFactory, ɵregisterNgModuleType, ɵrenderComponent, ɵresetCompiledComponents, ɵresetJitOptions, ɵresolveComponentResources, ɵsetClassMetadata, ɵsetCurrentInjector, ɵsetDocument, ɵsetLocaleId, ɵstore, ɵstringify, ɵted, ɵtransitiveScopesFor, ɵunregisterLocaleData, ɵunv, ɵunwrapSafeValue, ɵvid, ɵwhenRendered, ɵɵCopyDefinitionFeature, ɵɵInheritDefinitionFeature, ɵɵNgOnChangesFeature, ɵɵProvidersFeature, ɵɵadvance, ɵɵattribute, ɵɵattributeInterpolate1, ɵɵattributeInterpolate2, ɵɵattributeInterpolate3, ɵɵattributeInterpolate4, ɵɵattributeInterpolate5, ɵɵattributeInterpolate6, ɵɵattributeInterpolate7, ɵɵattributeInterpolate8, ɵɵattributeInterpolateV, ɵɵclassMap, ɵɵclassMapInterpolate1, ɵɵclassMapInterpolate2, ɵɵclassMapInterpolate3, ɵɵclassMapInterpolate4, ɵɵclassMapInterpolate5, ɵɵclassMapInterpolate6, ɵɵclassMapInterpolate7, ɵɵclassMapInterpolate8, ɵɵclassMapInterpolateV, ɵɵclassProp, ɵɵcomponentHostSyntheticListener, ɵɵcontentQuery, ɵɵdefaultStyleSanitizer, ɵɵdefineComponent, ɵɵdefineDirective, ɵɵdefineInjectable, ɵɵdefineInjector, ɵɵdefineNgModule, ɵɵdefinePipe, ɵɵdirectiveInject, ɵɵdisableBindings, ɵɵelement, ɵɵelementContainer, ɵɵelementContainerEnd, ɵɵelementContainerStart, ɵɵelementEnd, ɵɵelementStart, ɵɵenableBindings, ɵɵgetCurrentView, ɵɵgetFactoryOf, ɵɵgetInheritedFactory, ɵɵhostProperty, ɵɵi18n, ɵɵi18nApply, ɵɵi18nAttributes, ɵɵi18nEnd, ɵɵi18nExp, ɵɵi18nPostprocess, ɵɵi18nStart, ɵɵinject, ɵɵinjectAttribute, ɵɵinjectPipeChangeDetectorRef, ɵɵinvalidFactory, ɵɵinvalidFactoryDep, ɵɵlistener, ɵɵloadQuery, ɵɵnamespaceHTML, ɵɵnamespaceMathML, ɵɵnamespaceSVG, ɵɵnextContext, ɵɵpipe, ɵɵpipeBind1, ɵɵpipeBind2, ɵɵpipeBind3, ɵɵpipeBind4, ɵɵpipeBindV, ɵɵprojection, ɵɵprojectionDef, ɵɵproperty, ɵɵpropertyInterpolate, ɵɵpropertyInterpolate1, ɵɵpropertyInterpolate2, ɵɵpropertyInterpolate3, ɵɵpropertyInterpolate4, ɵɵpropertyInterpolate5, ɵɵpropertyInterpolate6, ɵɵpropertyInterpolate7, ɵɵpropertyInterpolate8, ɵɵpropertyInterpolateV, ɵɵpureFunction0, ɵɵpureFunction1, ɵɵpureFunction2, ɵɵpureFunction3, ɵɵpureFunction4, ɵɵpureFunction5, ɵɵpureFunction6, ɵɵpureFunction7, ɵɵpureFunction8, ɵɵpureFunctionV, ɵɵqueryRefresh, ɵɵreference, ɵɵresolveBody, ɵɵresolveDocument, ɵɵresolveWindow, ɵɵrestoreView, ɵɵsanitizeHtml, ɵɵsanitizeResourceUrl, ɵɵsanitizeScript, ɵɵsanitizeStyle, ɵɵsanitizeUrl, ɵɵsanitizeUrlOrResourceUrl, ɵɵselect, ɵɵsetComponentScope, ɵɵsetNgModuleScope, ɵɵstaticContentQuery, ɵɵstaticViewQuery, ɵɵstyleMap, ɵɵstyleMapInterpolate1, ɵɵstyleMapInterpolate2, ɵɵstyleMapInterpolate3, ɵɵstyleMapInterpolate4, ɵɵstyleMapInterpolate5, ɵɵstyleMapInterpolate6, ɵɵstyleMapInterpolate7, ɵɵstyleMapInterpolate8, ɵɵstyleMapInterpolateV, ɵɵstyleProp, ɵɵstylePropInterpolate1, ɵɵstylePropInterpolate2, ɵɵstylePropInterpolate3, ɵɵstylePropInterpolate4, ɵɵstylePropInterpolate5, ɵɵstylePropInterpolate6, ɵɵstylePropInterpolate7, ɵɵstylePropInterpolate8, ɵɵstylePropInterpolateV, ɵɵstyleSanitizer, ɵɵtemplate, ɵɵtemplateRefExtractor, ɵɵtext, ɵɵtextInterpolate, ɵɵtextInterpolate1, ɵɵtextInterpolate2, ɵɵtextInterpolate3, ɵɵtextInterpolate4, ɵɵtextInterpolate5, ɵɵtextInterpolate6, ɵɵtextInterpolate7, ɵɵtextInterpolate8, ɵɵtextInterpolateV, ɵɵupdateSyntheticHostBinding, ɵɵviewQuery */
 
   /***/
-  function node_modulesAngularCore__ivy_ngcc__Fesm2015CoreJs(module, __webpack_exports__, __webpack_require__) {
+  function node_modulesAngularCoreFesm2015CoreJs(module, __webpack_exports__, __webpack_require__) {
     "use strict";
 
     __webpack_require__.r(__webpack_exports__);
@@ -68838,15 +68838,15 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
   },
 
   /***/
-  "../../node_modules/@angular/forms/__ivy_ngcc__/fesm2015/forms.js":
-  /*!***********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/@angular/forms/__ivy_ngcc__/fesm2015/forms.js ***!
-    \***********************************************************************************************************/
+  "../../node_modules/@angular/forms/fesm2015/forms.js":
+  /*!************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/@angular/forms/fesm2015/forms.js ***!
+    \************************************************************************************************/
 
   /*! exports provided: AbstractControl, AbstractControlDirective, AbstractFormGroupDirective, COMPOSITION_BUFFER_MODE, CheckboxControlValueAccessor, CheckboxRequiredValidator, ControlContainer, DefaultValueAccessor, EmailValidator, FormArray, FormArrayName, FormBuilder, FormControl, FormControlDirective, FormControlName, FormGroup, FormGroupDirective, FormGroupName, FormsModule, MaxLengthValidator, MinLengthValidator, NG_ASYNC_VALIDATORS, NG_VALIDATORS, NG_VALUE_ACCESSOR, NgControl, NgControlStatus, NgControlStatusGroup, NgForm, NgModel, NgModelGroup, NgSelectOption, NumberValueAccessor, PatternValidator, RadioControlValueAccessor, RangeValueAccessor, ReactiveFormsModule, RequiredValidator, SelectControlValueAccessor, SelectMultipleControlValueAccessor, VERSION, Validators, ɵInternalFormsSharedModule, ɵNgNoValidate, ɵNgSelectMultipleOption, ɵangular_packages_forms_forms_a, ɵangular_packages_forms_forms_b, ɵangular_packages_forms_forms_ba, ɵangular_packages_forms_forms_bb, ɵangular_packages_forms_forms_bc, ɵangular_packages_forms_forms_bd, ɵangular_packages_forms_forms_be, ɵangular_packages_forms_forms_c, ɵangular_packages_forms_forms_d, ɵangular_packages_forms_forms_e, ɵangular_packages_forms_forms_f, ɵangular_packages_forms_forms_g, ɵangular_packages_forms_forms_h, ɵangular_packages_forms_forms_i, ɵangular_packages_forms_forms_j, ɵangular_packages_forms_forms_k, ɵangular_packages_forms_forms_l, ɵangular_packages_forms_forms_m, ɵangular_packages_forms_forms_n, ɵangular_packages_forms_forms_o, ɵangular_packages_forms_forms_p, ɵangular_packages_forms_forms_q, ɵangular_packages_forms_forms_r, ɵangular_packages_forms_forms_s, ɵangular_packages_forms_forms_t, ɵangular_packages_forms_forms_u, ɵangular_packages_forms_forms_v, ɵangular_packages_forms_forms_w, ɵangular_packages_forms_forms_x, ɵangular_packages_forms_forms_y, ɵangular_packages_forms_forms_z */
 
   /***/
-  function node_modulesAngularForms__ivy_ngcc__Fesm2015FormsJs(module, __webpack_exports__, __webpack_require__) {
+  function node_modulesAngularFormsFesm2015FormsJs(module, __webpack_exports__, __webpack_require__) {
     "use strict";
 
     __webpack_require__.r(__webpack_exports__);
@@ -69305,13 +69305,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "../../node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
+    "../../node_modules/@angular/core/fesm2015/core.js");
     /* harmony import */
 
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/common */
-    "../../node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
+    "../../node_modules/@angular/common/fesm2015/common.js");
     /* harmony import */
 
 
@@ -81392,15 +81392,15 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
   },
 
   /***/
-  "../../node_modules/@angular/platform-browser/__ivy_ngcc__/fesm2015/platform-browser.js":
-  /*!*********************************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/@angular/platform-browser/__ivy_ngcc__/fesm2015/platform-browser.js ***!
-    \*********************************************************************************************************************************/
+  "../../node_modules/@angular/platform-browser/fesm2015/platform-browser.js":
+  /*!**********************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/@angular/platform-browser/fesm2015/platform-browser.js ***!
+    \**********************************************************************************************************************/
 
   /*! exports provided: ɵgetDOM, BrowserModule, BrowserTransferStateModule, By, DomSanitizer, EVENT_MANAGER_PLUGINS, EventManager, HAMMER_GESTURE_CONFIG, HAMMER_LOADER, HammerGestureConfig, HammerModule, Meta, Title, TransferState, VERSION, disableDebugTools, enableDebugTools, makeStateKey, platformBrowser, ɵBROWSER_SANITIZATION_PROVIDERS, ɵBROWSER_SANITIZATION_PROVIDERS__POST_R3__, ɵBrowserDomAdapter, ɵBrowserGetTestability, ɵDomEventsPlugin, ɵDomRendererFactory2, ɵDomSanitizerImpl, ɵDomSharedStylesHost, ɵELEMENT_PROBE_PROVIDERS, ɵELEMENT_PROBE_PROVIDERS__POST_R3__, ɵHAMMER_PROVIDERS__POST_R3__, ɵHammerGesturesPlugin, ɵINTERNAL_BROWSER_PLATFORM_PROVIDERS, ɵKeyEventsPlugin, ɵNAMESPACE_URIS, ɵSharedStylesHost, ɵTRANSITION_ID, ɵangular_packages_platform_browser_platform_browser_a, ɵangular_packages_platform_browser_platform_browser_b, ɵangular_packages_platform_browser_platform_browser_c, ɵangular_packages_platform_browser_platform_browser_d, ɵangular_packages_platform_browser_platform_browser_e, ɵangular_packages_platform_browser_platform_browser_f, ɵangular_packages_platform_browser_platform_browser_g, ɵangular_packages_platform_browser_platform_browser_h, ɵangular_packages_platform_browser_platform_browser_i, ɵangular_packages_platform_browser_platform_browser_j, ɵangular_packages_platform_browser_platform_browser_k, ɵangular_packages_platform_browser_platform_browser_l, ɵangular_packages_platform_browser_platform_browser_m, ɵangular_packages_platform_browser_platform_browser_n, ɵangular_packages_platform_browser_platform_browser_o, ɵescapeHtml, ɵflattenStyles, ɵinitDomAdapter, ɵshimContentAttribute, ɵshimHostAttribute */
 
   /***/
-  function node_modulesAngularPlatformBrowser__ivy_ngcc__Fesm2015PlatformBrowserJs(module, __webpack_exports__, __webpack_require__) {
+  function node_modulesAngularPlatformBrowserFesm2015PlatformBrowserJs(module, __webpack_exports__, __webpack_require__) {
     "use strict";
 
     __webpack_require__.r(__webpack_exports__);
@@ -81739,13 +81739,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/common */
-    "../../node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
+    "../../node_modules/@angular/common/fesm2015/common.js");
     /* harmony import */
 
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/core */
-    "../../node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
+    "../../node_modules/@angular/core/fesm2015/core.js");
     /* harmony reexport (safe) */
 
 
@@ -86300,9 +86300,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/index.js":
-  /*!************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/index.js ***!
-    \************************************************************************************/
+  /*!**************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/index.js ***!
+    \**************************************************************************************/
 
   /*! exports provided: Observable, ConnectableObservable, GroupedObservable, observable, Subject, BehaviorSubject, ReplaySubject, AsyncSubject, asap, asapScheduler, async, asyncScheduler, queue, queueScheduler, animationFrame, animationFrameScheduler, VirtualTimeScheduler, VirtualAction, Scheduler, Subscription, Subscriber, Notification, NotificationKind, pipe, noop, identity, isObservable, ArgumentOutOfRangeError, EmptyError, ObjectUnsubscribedError, UnsubscriptionError, TimeoutError, bindCallback, bindNodeCallback, combineLatest, concat, defer, empty, forkJoin, from, fromEvent, fromEventPattern, generate, iif, interval, merge, never, of, onErrorResumeNext, pairs, partition, race, range, throwError, timer, using, zip, scheduled, EMPTY, NEVER, config */
 
@@ -87002,9 +87002,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/AsyncSubject.js":
-  /*!****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/AsyncSubject.js ***!
-    \****************************************************************************************************/
+  /*!******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/AsyncSubject.js ***!
+    \******************************************************************************************************/
 
   /*! exports provided: AsyncSubject */
 
@@ -87100,9 +87100,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/BehaviorSubject.js":
-  /*!*******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/BehaviorSubject.js ***!
-    \*******************************************************************************************************/
+  /*!*********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/BehaviorSubject.js ***!
+    \*********************************************************************************************************/
 
   /*! exports provided: BehaviorSubject */
 
@@ -87188,9 +87188,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/InnerSubscriber.js":
-  /*!*******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/InnerSubscriber.js ***!
-    \*******************************************************************************************************/
+  /*!*********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/InnerSubscriber.js ***!
+    \*********************************************************************************************************/
 
   /*! exports provided: InnerSubscriber */
 
@@ -87258,9 +87258,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/Notification.js":
-  /*!****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/Notification.js ***!
-    \****************************************************************************************************/
+  /*!******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/Notification.js ***!
+    \******************************************************************************************************/
 
   /*! exports provided: NotificationKind, Notification */
 
@@ -87407,9 +87407,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/Observable.js":
-  /*!**************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/Observable.js ***!
-    \**************************************************************************************************/
+  /*!****************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/Observable.js ***!
+    \****************************************************************************************************/
 
   /*! exports provided: Observable */
 
@@ -87606,9 +87606,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/Observer.js":
-  /*!************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/Observer.js ***!
-    \************************************************************************************************/
+  /*!**************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/Observer.js ***!
+    \**************************************************************************************************/
 
   /*! exports provided: empty */
 
@@ -87654,9 +87654,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/OuterSubscriber.js":
-  /*!*******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/OuterSubscriber.js ***!
-    \*******************************************************************************************************/
+  /*!*********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/OuterSubscriber.js ***!
+    \*********************************************************************************************************/
 
   /*! exports provided: OuterSubscriber */
 
@@ -87715,9 +87715,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/ReplaySubject.js":
-  /*!*****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/ReplaySubject.js ***!
-    \*****************************************************************************************************/
+  /*!*******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/ReplaySubject.js ***!
+    \*******************************************************************************************************/
 
   /*! exports provided: ReplaySubject */
 
@@ -87920,9 +87920,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/Scheduler.js":
-  /*!*************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/Scheduler.js ***!
-    \*************************************************************************************************/
+  /*!***************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/Scheduler.js ***!
+    \***************************************************************************************************/
 
   /*! exports provided: Scheduler */
 
@@ -87970,9 +87970,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/Subject.js":
-  /*!***********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/Subject.js ***!
-    \***********************************************************************************************/
+  /*!*************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/Subject.js ***!
+    \*************************************************************************************************/
 
   /*! exports provided: SubjectSubscriber, Subject, AnonymousSubject */
 
@@ -88253,9 +88253,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/SubjectSubscription.js":
-  /*!***********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/SubjectSubscription.js ***!
-    \***********************************************************************************************************/
+  /*!*************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/SubjectSubscription.js ***!
+    \*************************************************************************************************************/
 
   /*! exports provided: SubjectSubscription */
 
@@ -88327,9 +88327,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/Subscriber.js":
-  /*!**************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/Subscriber.js ***!
-    \**************************************************************************************************/
+  /*!****************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/Subscriber.js ***!
+    \****************************************************************************************************/
 
   /*! exports provided: Subscriber, SafeSubscriber */
 
@@ -88692,9 +88692,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/Subscription.js":
-  /*!****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/Subscription.js ***!
-    \****************************************************************************************************/
+  /*!******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/Subscription.js ***!
+    \******************************************************************************************************/
 
   /*! exports provided: Subscription */
 
@@ -88909,9 +88909,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/config.js":
-  /*!**********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/config.js ***!
-    \**********************************************************************************************/
+  /*!************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/config.js ***!
+    \************************************************************************************************/
 
   /*! exports provided: config */
 
@@ -88953,9 +88953,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/innerSubscribe.js":
-  /*!******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/innerSubscribe.js ***!
-    \******************************************************************************************************/
+  /*!********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/innerSubscribe.js ***!
+    \********************************************************************************************************/
 
   /*! exports provided: SimpleInnerSubscriber, ComplexInnerSubscriber, SimpleOuterSubscriber, ComplexOuterSubscriber, innerSubscribe */
 
@@ -89169,9 +89169,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/observable/ConnectableObservable.js":
-  /*!************************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/ConnectableObservable.js ***!
-    \************************************************************************************************************************/
+  /*!**************************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/ConnectableObservable.js ***!
+    \**************************************************************************************************************************/
 
   /*! exports provided: ConnectableObservable, connectableObservableDescriptor */
 
@@ -89460,9 +89460,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/observable/SubscribeOnObservable.js":
-  /*!************************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/SubscribeOnObservable.js ***!
-    \************************************************************************************************************************/
+  /*!**************************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/SubscribeOnObservable.js ***!
+    \**************************************************************************************************************************/
 
   /*! exports provided: SubscribeOnObservable */
 
@@ -89561,9 +89561,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/observable/bindCallback.js":
-  /*!***************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/bindCallback.js ***!
-    \***************************************************************************************************************/
+  /*!*****************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/bindCallback.js ***!
+    \*****************************************************************************************************************/
 
   /*! exports provided: bindCallback */
 
@@ -89736,9 +89736,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/observable/bindNodeCallback.js":
-  /*!*******************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/bindNodeCallback.js ***!
-    \*******************************************************************************************************************/
+  /*!*********************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/bindNodeCallback.js ***!
+    \*********************************************************************************************************************/
 
   /*! exports provided: bindNodeCallback */
 
@@ -89930,9 +89930,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/observable/combineLatest.js":
-  /*!****************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/combineLatest.js ***!
-    \****************************************************************************************************************/
+  /*!******************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/combineLatest.js ***!
+    \******************************************************************************************************************/
 
   /*! exports provided: combineLatest, CombineLatestOperator, CombineLatestSubscriber */
 
@@ -90122,9 +90122,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/observable/concat.js":
-  /*!*********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/concat.js ***!
-    \*********************************************************************************************************/
+  /*!***********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/concat.js ***!
+    \***********************************************************************************************************/
 
   /*! exports provided: concat */
 
@@ -90162,9 +90162,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/observable/defer.js":
-  /*!********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/defer.js ***!
-    \********************************************************************************************************/
+  /*!**********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/defer.js ***!
+    \**********************************************************************************************************/
 
   /*! exports provided: defer */
 
@@ -90220,9 +90220,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/observable/empty.js":
-  /*!********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/empty.js ***!
-    \********************************************************************************************************/
+  /*!**********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/empty.js ***!
+    \**********************************************************************************************************/
 
   /*! exports provided: EMPTY, empty */
 
@@ -90272,9 +90272,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/observable/forkJoin.js":
-  /*!***********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/forkJoin.js ***!
-    \***********************************************************************************************************/
+  /*!*************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/forkJoin.js ***!
+    \*************************************************************************************************************/
 
   /*! exports provided: forkJoin */
 
@@ -90407,9 +90407,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/observable/from.js":
-  /*!*******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/from.js ***!
-    \*******************************************************************************************************/
+  /*!*********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/from.js ***!
+    \*********************************************************************************************************/
 
   /*! exports provided: from */
 
@@ -90461,9 +90461,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/observable/fromArray.js":
-  /*!************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/fromArray.js ***!
-    \************************************************************************************************************/
+  /*!**************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/fromArray.js ***!
+    \**************************************************************************************************************/
 
   /*! exports provided: fromArray */
 
@@ -90511,9 +90511,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/observable/fromEvent.js":
-  /*!************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/fromEvent.js ***!
-    \************************************************************************************************************/
+  /*!**************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/fromEvent.js ***!
+    \**************************************************************************************************************/
 
   /*! exports provided: fromEvent */
 
@@ -90635,9 +90635,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/observable/fromEventPattern.js":
-  /*!*******************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/fromEventPattern.js ***!
-    \*******************************************************************************************************************/
+  /*!*********************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/fromEventPattern.js ***!
+    \*********************************************************************************************************************/
 
   /*! exports provided: fromEventPattern */
 
@@ -90718,9 +90718,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/observable/generate.js":
-  /*!***********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/generate.js ***!
-    \***********************************************************************************************************/
+  /*!*************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/generate.js ***!
+    \*************************************************************************************************************/
 
   /*! exports provided: generate */
 
@@ -90898,9 +90898,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/observable/iif.js":
-  /*!******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/iif.js ***!
-    \******************************************************************************************************/
+  /*!********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/iif.js ***!
+    \********************************************************************************************************/
 
   /*! exports provided: iif */
 
@@ -90942,9 +90942,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/observable/interval.js":
-  /*!***********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/interval.js ***!
-    \***********************************************************************************************************/
+  /*!*************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/interval.js ***!
+    \*************************************************************************************************************/
 
   /*! exports provided: interval */
 
@@ -91018,9 +91018,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/observable/merge.js":
-  /*!********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/merge.js ***!
-    \********************************************************************************************************/
+  /*!**********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/merge.js ***!
+    \**********************************************************************************************************/
 
   /*! exports provided: merge */
 
@@ -91093,9 +91093,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/observable/never.js":
-  /*!********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/never.js ***!
-    \********************************************************************************************************/
+  /*!**********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/never.js ***!
+    \**********************************************************************************************************/
 
   /*! exports provided: NEVER, never */
 
@@ -91141,9 +91141,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/observable/of.js":
-  /*!*****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/of.js ***!
-    \*****************************************************************************************************/
+  /*!*******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/of.js ***!
+    \*******************************************************************************************************/
 
   /*! exports provided: of */
 
@@ -91198,9 +91198,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/observable/onErrorResumeNext.js":
-  /*!********************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/onErrorResumeNext.js ***!
-    \********************************************************************************************************************/
+  /*!**********************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/onErrorResumeNext.js ***!
+    \**********************************************************************************************************************/
 
   /*! exports provided: onErrorResumeNext */
 
@@ -91277,9 +91277,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/observable/pairs.js":
-  /*!********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/pairs.js ***!
-    \********************************************************************************************************/
+  /*!**********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/pairs.js ***!
+    \**********************************************************************************************************/
 
   /*! exports provided: pairs, dispatch */
 
@@ -91374,9 +91374,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/observable/partition.js":
-  /*!************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/partition.js ***!
-    \************************************************************************************************************/
+  /*!**************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/partition.js ***!
+    \**************************************************************************************************************/
 
   /*! exports provided: partition */
 
@@ -91426,9 +91426,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/observable/race.js":
-  /*!*******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/race.js ***!
-    \*******************************************************************************************************/
+  /*!*********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/race.js ***!
+    \*********************************************************************************************************/
 
   /*! exports provided: race, RaceOperator, RaceSubscriber */
 
@@ -91586,9 +91586,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/observable/range.js":
-  /*!********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/range.js ***!
-    \********************************************************************************************************/
+  /*!**********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/range.js ***!
+    \**********************************************************************************************************/
 
   /*! exports provided: range, dispatch */
 
@@ -91683,9 +91683,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/observable/throwError.js":
-  /*!*************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/throwError.js ***!
-    \*************************************************************************************************************/
+  /*!***************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/throwError.js ***!
+    \***************************************************************************************************************/
 
   /*! exports provided: throwError */
 
@@ -91734,9 +91734,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/observable/timer.js":
-  /*!********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/timer.js ***!
-    \********************************************************************************************************/
+  /*!**********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/timer.js ***!
+    \**********************************************************************************************************/
 
   /*! exports provided: timer */
 
@@ -91824,9 +91824,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/observable/using.js":
-  /*!********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/using.js ***!
-    \********************************************************************************************************/
+  /*!**********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/using.js ***!
+    \**********************************************************************************************************/
 
   /*! exports provided: using */
 
@@ -91898,9 +91898,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/observable/zip.js":
-  /*!******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/zip.js ***!
-    \******************************************************************************************************/
+  /*!********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/observable/zip.js ***!
+    \********************************************************************************************************/
 
   /*! exports provided: zip, ZipOperator, ZipSubscriber */
 
@@ -92277,9 +92277,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/audit.js":
-  /*!*******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/audit.js ***!
-    \*******************************************************************************************************/
+  /*!*********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/audit.js ***!
+    \*********************************************************************************************************/
 
   /*! exports provided: audit */
 
@@ -92405,9 +92405,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/auditTime.js":
-  /*!***********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/auditTime.js ***!
-    \***********************************************************************************************************/
+  /*!*************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/auditTime.js ***!
+    \*************************************************************************************************************/
 
   /*! exports provided: auditTime */
 
@@ -92454,9 +92454,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/buffer.js":
-  /*!********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/buffer.js ***!
-    \********************************************************************************************************/
+  /*!**********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/buffer.js ***!
+    \**********************************************************************************************************/
 
   /*! exports provided: buffer */
 
@@ -92542,9 +92542,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/bufferCount.js":
-  /*!*************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/bufferCount.js ***!
-    \*************************************************************************************************************/
+  /*!***************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/bufferCount.js ***!
+    \***************************************************************************************************************/
 
   /*! exports provided: bufferCount */
 
@@ -92708,9 +92708,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/bufferTime.js":
-  /*!************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/bufferTime.js ***!
-    \************************************************************************************************************/
+  /*!**************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/bufferTime.js ***!
+    \**************************************************************************************************************/
 
   /*! exports provided: bufferTime */
 
@@ -92976,9 +92976,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/bufferToggle.js":
-  /*!**************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/bufferToggle.js ***!
-    \**************************************************************************************************************/
+  /*!****************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/bufferToggle.js ***!
+    \****************************************************************************************************************/
 
   /*! exports provided: bufferToggle */
 
@@ -93168,9 +93168,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/bufferWhen.js":
-  /*!************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/bufferWhen.js ***!
-    \************************************************************************************************************/
+  /*!**************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/bufferWhen.js ***!
+    \**************************************************************************************************************/
 
   /*! exports provided: bufferWhen */
 
@@ -93320,9 +93320,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/catchError.js":
-  /*!************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/catchError.js ***!
-    \************************************************************************************************************/
+  /*!**************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/catchError.js ***!
+    \**************************************************************************************************************/
 
   /*! exports provided: catchError */
 
@@ -93421,9 +93421,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/combineAll.js":
-  /*!************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/combineAll.js ***!
-    \************************************************************************************************************/
+  /*!**************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/combineAll.js ***!
+    \**************************************************************************************************************/
 
   /*! exports provided: combineAll */
 
@@ -93457,9 +93457,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/combineLatest.js":
-  /*!***************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/combineLatest.js ***!
-    \***************************************************************************************************************/
+  /*!*****************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/combineLatest.js ***!
+    \*****************************************************************************************************************/
 
   /*! exports provided: combineLatest */
 
@@ -93521,9 +93521,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/concat.js":
-  /*!********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/concat.js ***!
-    \********************************************************************************************************/
+  /*!**********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/concat.js ***!
+    \**********************************************************************************************************/
 
   /*! exports provided: concat */
 
@@ -93561,9 +93561,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/concatAll.js":
-  /*!***********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/concatAll.js ***!
-    \***********************************************************************************************************/
+  /*!*************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/concatAll.js ***!
+    \*************************************************************************************************************/
 
   /*! exports provided: concatAll */
 
@@ -93595,9 +93595,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/concatMap.js":
-  /*!***********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/concatMap.js ***!
-    \***********************************************************************************************************/
+  /*!*************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/concatMap.js ***!
+    \*************************************************************************************************************/
 
   /*! exports provided: concatMap */
 
@@ -93629,9 +93629,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/concatMapTo.js":
-  /*!*************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/concatMapTo.js ***!
-    \*************************************************************************************************************/
+  /*!***************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/concatMapTo.js ***!
+    \***************************************************************************************************************/
 
   /*! exports provided: concatMapTo */
 
@@ -93665,9 +93665,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/count.js":
-  /*!*******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/count.js ***!
-    \*******************************************************************************************************/
+  /*!*********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/count.js ***!
+    \*********************************************************************************************************/
 
   /*! exports provided: count */
 
@@ -93773,9 +93773,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/debounce.js":
-  /*!**********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/debounce.js ***!
-    \**********************************************************************************************************/
+  /*!************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/debounce.js ***!
+    \************************************************************************************************************/
 
   /*! exports provided: debounce */
 
@@ -93913,9 +93913,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/debounceTime.js":
-  /*!**************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/debounceTime.js ***!
-    \**************************************************************************************************************/
+  /*!****************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/debounceTime.js ***!
+    \****************************************************************************************************************/
 
   /*! exports provided: debounceTime */
 
@@ -94039,9 +94039,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/defaultIfEmpty.js":
-  /*!****************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/defaultIfEmpty.js ***!
-    \****************************************************************************************************************/
+  /*!******************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/defaultIfEmpty.js ***!
+    \******************************************************************************************************************/
 
   /*! exports provided: defaultIfEmpty */
 
@@ -94129,9 +94129,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/delay.js":
-  /*!*******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/delay.js ***!
-    \*******************************************************************************************************/
+  /*!*********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/delay.js ***!
+    \*********************************************************************************************************/
 
   /*! exports provided: delay */
 
@@ -94301,9 +94301,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/delayWhen.js":
-  /*!***********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/delayWhen.js ***!
-    \***********************************************************************************************************/
+  /*!*************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/delayWhen.js ***!
+    \*************************************************************************************************************/
 
   /*! exports provided: delayWhen */
 
@@ -94550,9 +94550,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/dematerialize.js":
-  /*!***************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/dematerialize.js ***!
-    \***************************************************************************************************************/
+  /*!*****************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/dematerialize.js ***!
+    \*****************************************************************************************************************/
 
   /*! exports provided: dematerialize */
 
@@ -94622,9 +94622,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/distinct.js":
-  /*!**********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/distinct.js ***!
-    \**********************************************************************************************************/
+  /*!************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/distinct.js ***!
+    \************************************************************************************************************/
 
   /*! exports provided: distinct, DistinctSubscriber */
 
@@ -94752,9 +94752,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/distinctUntilChanged.js":
-  /*!**********************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/distinctUntilChanged.js ***!
-    \**********************************************************************************************************************/
+  /*!************************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/distinctUntilChanged.js ***!
+    \************************************************************************************************************************/
 
   /*! exports provided: distinctUntilChanged */
 
@@ -94867,9 +94867,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/distinctUntilKeyChanged.js":
-  /*!*************************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/distinctUntilKeyChanged.js ***!
-    \*************************************************************************************************************************/
+  /*!***************************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/distinctUntilKeyChanged.js ***!
+    \***************************************************************************************************************************/
 
   /*! exports provided: distinctUntilKeyChanged */
 
@@ -94903,9 +94903,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/elementAt.js":
-  /*!***********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/elementAt.js ***!
-    \***********************************************************************************************************/
+  /*!*************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/elementAt.js ***!
+    \*************************************************************************************************************/
 
   /*! exports provided: elementAt */
 
@@ -94972,9 +94972,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/endWith.js":
-  /*!*********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/endWith.js ***!
-    \*********************************************************************************************************/
+  /*!***********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/endWith.js ***!
+    \***********************************************************************************************************/
 
   /*! exports provided: endWith */
 
@@ -95018,9 +95018,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/every.js":
-  /*!*******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/every.js ***!
-    \*******************************************************************************************************/
+  /*!*********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/every.js ***!
+    \*********************************************************************************************************/
 
   /*! exports provided: every */
 
@@ -95124,9 +95124,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/exhaust.js":
-  /*!*********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/exhaust.js ***!
-    \*********************************************************************************************************/
+  /*!***********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/exhaust.js ***!
+    \***********************************************************************************************************/
 
   /*! exports provided: exhaust */
 
@@ -95222,9 +95222,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/exhaustMap.js":
-  /*!************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/exhaustMap.js ***!
-    \************************************************************************************************************/
+  /*!**************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/exhaustMap.js ***!
+    \**************************************************************************************************************/
 
   /*! exports provided: exhaustMap */
 
@@ -95386,9 +95386,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/expand.js":
-  /*!********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/expand.js ***!
-    \********************************************************************************************************/
+  /*!**********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/expand.js ***!
+    \**********************************************************************************************************/
 
   /*! exports provided: expand, ExpandOperator, ExpandSubscriber */
 
@@ -95572,9 +95572,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/filter.js":
-  /*!********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/filter.js ***!
-    \********************************************************************************************************/
+  /*!**********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/filter.js ***!
+    \**********************************************************************************************************/
 
   /*! exports provided: filter */
 
@@ -95664,9 +95664,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/finalize.js":
-  /*!**********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/finalize.js ***!
-    \**********************************************************************************************************/
+  /*!************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/finalize.js ***!
+    \************************************************************************************************************/
 
   /*! exports provided: finalize */
 
@@ -95743,9 +95743,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/find.js":
-  /*!******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/find.js ***!
-    \******************************************************************************************************/
+  /*!********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/find.js ***!
+    \********************************************************************************************************/
 
   /*! exports provided: find, FindValueOperator, FindValueSubscriber */
 
@@ -95869,9 +95869,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/findIndex.js":
-  /*!***********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/findIndex.js ***!
-    \***********************************************************************************************************/
+  /*!*************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/findIndex.js ***!
+    \*************************************************************************************************************/
 
   /*! exports provided: findIndex */
 
@@ -95905,9 +95905,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/first.js":
-  /*!*******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/first.js ***!
-    \*******************************************************************************************************/
+  /*!*********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/first.js ***!
+    \*********************************************************************************************************/
 
   /*! exports provided: first */
 
@@ -95976,9 +95976,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/groupBy.js":
-  /*!*********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/groupBy.js ***!
-    \*********************************************************************************************************/
+  /*!***********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/groupBy.js ***!
+    \***********************************************************************************************************/
 
   /*! exports provided: groupBy, GroupedObservable */
 
@@ -96296,9 +96296,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/ignoreElements.js":
-  /*!****************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/ignoreElements.js ***!
-    \****************************************************************************************************************/
+  /*!******************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/ignoreElements.js ***!
+    \******************************************************************************************************************/
 
   /*! exports provided: ignoreElements */
 
@@ -96366,9 +96366,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/isEmpty.js":
-  /*!*********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/isEmpty.js ***!
-    \*********************************************************************************************************/
+  /*!***********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/isEmpty.js ***!
+    \***********************************************************************************************************/
 
   /*! exports provided: isEmpty */
 
@@ -96450,9 +96450,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/last.js":
-  /*!******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/last.js ***!
-    \******************************************************************************************************/
+  /*!********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/last.js ***!
+    \********************************************************************************************************/
 
   /*! exports provided: last */
 
@@ -96521,9 +96521,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/map.js":
-  /*!*****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/map.js ***!
-    \*****************************************************************************************************/
+  /*!*******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/map.js ***!
+    \*******************************************************************************************************/
 
   /*! exports provided: map, MapOperator */
 
@@ -96621,9 +96621,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/mapTo.js":
-  /*!*******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/mapTo.js ***!
-    \*******************************************************************************************************/
+  /*!*********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/mapTo.js ***!
+    \*********************************************************************************************************/
 
   /*! exports provided: mapTo */
 
@@ -96699,9 +96699,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/materialize.js":
-  /*!*************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/materialize.js ***!
-    \*************************************************************************************************************/
+  /*!***************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/materialize.js ***!
+    \***************************************************************************************************************/
 
   /*! exports provided: materialize */
 
@@ -96791,9 +96791,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/max.js":
-  /*!*****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/max.js ***!
-    \*****************************************************************************************************/
+  /*!*******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/max.js ***!
+    \*******************************************************************************************************/
 
   /*! exports provided: max */
 
@@ -96830,9 +96830,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/merge.js":
-  /*!*******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/merge.js ***!
-    \*******************************************************************************************************/
+  /*!*********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/merge.js ***!
+    \*********************************************************************************************************/
 
   /*! exports provided: merge */
 
@@ -96870,9 +96870,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/mergeAll.js":
-  /*!**********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/mergeAll.js ***!
-    \**********************************************************************************************************/
+  /*!************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/mergeAll.js ***!
+    \************************************************************************************************************/
 
   /*! exports provided: mergeAll */
 
@@ -96911,9 +96911,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/mergeMap.js":
-  /*!**********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/mergeMap.js ***!
-    \**********************************************************************************************************/
+  /*!************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/mergeMap.js ***!
+    \************************************************************************************************************/
 
   /*! exports provided: mergeMap, MergeMapOperator, MergeMapSubscriber, flatMap */
 
@@ -97105,9 +97105,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/mergeMapTo.js":
-  /*!************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/mergeMapTo.js ***!
-    \************************************************************************************************************/
+  /*!**************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/mergeMapTo.js ***!
+    \**************************************************************************************************************/
 
   /*! exports provided: mergeMapTo */
 
@@ -97153,9 +97153,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/mergeScan.js":
-  /*!***********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/mergeScan.js ***!
-    \***********************************************************************************************************/
+  /*!*************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/mergeScan.js ***!
+    \*************************************************************************************************************/
 
   /*! exports provided: mergeScan, MergeScanOperator, MergeScanSubscriber */
 
@@ -97321,9 +97321,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/min.js":
-  /*!*****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/min.js ***!
-    \*****************************************************************************************************/
+  /*!*******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/min.js ***!
+    \*******************************************************************************************************/
 
   /*! exports provided: min */
 
@@ -97360,9 +97360,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/multicast.js":
-  /*!***********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/multicast.js ***!
-    \***********************************************************************************************************/
+  /*!*************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/multicast.js ***!
+    \*************************************************************************************************************/
 
   /*! exports provided: multicast, MulticastOperator */
 
@@ -97441,9 +97441,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/observeOn.js":
-  /*!***********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/observeOn.js ***!
-    \***********************************************************************************************************/
+  /*!*************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/observeOn.js ***!
+    \*************************************************************************************************************/
 
   /*! exports provided: observeOn, ObserveOnOperator, ObserveOnSubscriber, ObserveOnMessage */
 
@@ -97583,9 +97583,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/onErrorResumeNext.js":
-  /*!*******************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/onErrorResumeNext.js ***!
-    \*******************************************************************************************************************/
+  /*!*********************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/onErrorResumeNext.js ***!
+    \*********************************************************************************************************************/
 
   /*! exports provided: onErrorResumeNext, onErrorResumeNextStatic */
 
@@ -97738,9 +97738,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/pairwise.js":
-  /*!**********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/pairwise.js ***!
-    \**********************************************************************************************************/
+  /*!************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/pairwise.js ***!
+    \************************************************************************************************************/
 
   /*! exports provided: pairwise */
 
@@ -97826,9 +97826,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/partition.js":
-  /*!***********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/partition.js ***!
-    \***********************************************************************************************************/
+  /*!*************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/partition.js ***!
+    \*************************************************************************************************************/
 
   /*! exports provided: partition */
 
@@ -97868,9 +97868,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/pluck.js":
-  /*!*******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/pluck.js ***!
-    \*******************************************************************************************************/
+  /*!*********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/pluck.js ***!
+    \*********************************************************************************************************/
 
   /*! exports provided: pluck */
 
@@ -97934,9 +97934,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/publish.js":
-  /*!*********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/publish.js ***!
-    \*********************************************************************************************************/
+  /*!***********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/publish.js ***!
+    \***********************************************************************************************************/
 
   /*! exports provided: publish */
 
@@ -97976,9 +97976,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/publishBehavior.js":
-  /*!*****************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/publishBehavior.js ***!
-    \*****************************************************************************************************************/
+  /*!*******************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/publishBehavior.js ***!
+    \*******************************************************************************************************************/
 
   /*! exports provided: publishBehavior */
 
@@ -98018,9 +98018,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/publishLast.js":
-  /*!*************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/publishLast.js ***!
-    \*************************************************************************************************************/
+  /*!***************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/publishLast.js ***!
+    \***************************************************************************************************************/
 
   /*! exports provided: publishLast */
 
@@ -98060,9 +98060,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/publishReplay.js":
-  /*!***************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/publishReplay.js ***!
-    \***************************************************************************************************************/
+  /*!*****************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/publishReplay.js ***!
+    \*****************************************************************************************************************/
 
   /*! exports provided: publishReplay */
 
@@ -98110,9 +98110,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/race.js":
-  /*!******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/race.js ***!
-    \******************************************************************************************************/
+  /*!********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/race.js ***!
+    \********************************************************************************************************/
 
   /*! exports provided: race */
 
@@ -98160,9 +98160,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/reduce.js":
-  /*!********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/reduce.js ***!
-    \********************************************************************************************************/
+  /*!**********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/reduce.js ***!
+    \**********************************************************************************************************/
 
   /*! exports provided: reduce */
 
@@ -98222,9 +98222,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/refCount.js":
-  /*!**********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/refCount.js ***!
-    \**********************************************************************************************************/
+  /*!************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/refCount.js ***!
+    \************************************************************************************************************/
 
   /*! exports provided: refCount */
 
@@ -98337,9 +98337,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/repeat.js":
-  /*!********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/repeat.js ***!
-    \********************************************************************************************************/
+  /*!**********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/repeat.js ***!
+    \**********************************************************************************************************/
 
   /*! exports provided: repeat */
 
@@ -98441,9 +98441,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/repeatWhen.js":
-  /*!************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/repeatWhen.js ***!
-    \************************************************************************************************************/
+  /*!**************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/repeatWhen.js ***!
+    \**************************************************************************************************************/
 
   /*! exports provided: repeatWhen */
 
@@ -98599,9 +98599,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/retry.js":
-  /*!*******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/retry.js ***!
-    \*******************************************************************************************************/
+  /*!*********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/retry.js ***!
+    \*********************************************************************************************************/
 
   /*! exports provided: retry */
 
@@ -98691,9 +98691,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/retryWhen.js":
-  /*!***********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/retryWhen.js ***!
-    \***********************************************************************************************************/
+  /*!*************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/retryWhen.js ***!
+    \*************************************************************************************************************/
 
   /*! exports provided: retryWhen */
 
@@ -98833,9 +98833,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/sample.js":
-  /*!********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/sample.js ***!
-    \********************************************************************************************************/
+  /*!**********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/sample.js ***!
+    \**********************************************************************************************************/
 
   /*! exports provided: sample */
 
@@ -98933,9 +98933,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/sampleTime.js":
-  /*!************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/sampleTime.js ***!
-    \************************************************************************************************************/
+  /*!**************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/sampleTime.js ***!
+    \**************************************************************************************************************/
 
   /*! exports provided: sampleTime */
 
@@ -99043,9 +99043,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/scan.js":
-  /*!******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/scan.js ***!
-    \******************************************************************************************************/
+  /*!********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/scan.js ***!
+    \********************************************************************************************************/
 
   /*! exports provided: scan */
 
@@ -99163,9 +99163,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/sequenceEqual.js":
-  /*!***************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/sequenceEqual.js ***!
-    \***************************************************************************************************************/
+  /*!*****************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/sequenceEqual.js ***!
+    \*****************************************************************************************************************/
 
   /*! exports provided: sequenceEqual, SequenceEqualOperator, SequenceEqualSubscriber */
 
@@ -99367,9 +99367,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/share.js":
-  /*!*******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/share.js ***!
-    \*******************************************************************************************************/
+  /*!*********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/share.js ***!
+    \*********************************************************************************************************/
 
   /*! exports provided: share */
 
@@ -99419,9 +99419,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/shareReplay.js":
-  /*!*************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/shareReplay.js ***!
-    \*************************************************************************************************************/
+  /*!***************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/shareReplay.js ***!
+    \***************************************************************************************************************/
 
   /*! exports provided: shareReplay */
 
@@ -99519,9 +99519,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/single.js":
-  /*!********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/single.js ***!
-    \********************************************************************************************************/
+  /*!**********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/single.js ***!
+    \**********************************************************************************************************/
 
   /*! exports provided: single */
 
@@ -99646,9 +99646,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/skip.js":
-  /*!******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/skip.js ***!
-    \******************************************************************************************************/
+  /*!********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/skip.js ***!
+    \********************************************************************************************************/
 
   /*! exports provided: skip */
 
@@ -99727,9 +99727,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/skipLast.js":
-  /*!**********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/skipLast.js ***!
-    \**********************************************************************************************************/
+  /*!************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/skipLast.js ***!
+    \************************************************************************************************************/
 
   /*! exports provided: skipLast */
 
@@ -99832,9 +99832,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/skipUntil.js":
-  /*!***********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/skipUntil.js ***!
-    \***********************************************************************************************************/
+  /*!*************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/skipUntil.js ***!
+    \*************************************************************************************************************/
 
   /*! exports provided: skipUntil */
 
@@ -99937,9 +99937,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/skipWhile.js":
-  /*!***********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/skipWhile.js ***!
-    \***********************************************************************************************************/
+  /*!*************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/skipWhile.js ***!
+    \*************************************************************************************************************/
 
   /*! exports provided: skipWhile */
 
@@ -100035,9 +100035,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/startWith.js":
-  /*!***********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/startWith.js ***!
-    \***********************************************************************************************************/
+  /*!*************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/startWith.js ***!
+    \*************************************************************************************************************/
 
   /*! exports provided: startWith */
 
@@ -100090,9 +100090,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/subscribeOn.js":
-  /*!*************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/subscribeOn.js ***!
-    \*************************************************************************************************************/
+  /*!***************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/subscribeOn.js ***!
+    \***************************************************************************************************************/
 
   /*! exports provided: subscribeOn */
 
@@ -100145,9 +100145,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/switchAll.js":
-  /*!***********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/switchAll.js ***!
-    \***********************************************************************************************************/
+  /*!*************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/switchAll.js ***!
+    \*************************************************************************************************************/
 
   /*! exports provided: switchAll */
 
@@ -100185,9 +100185,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/switchMap.js":
-  /*!***********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/switchMap.js ***!
-    \***********************************************************************************************************/
+  /*!*************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/switchMap.js ***!
+    \*************************************************************************************************************/
 
   /*! exports provided: switchMap */
 
@@ -100344,9 +100344,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/switchMapTo.js":
-  /*!*************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/switchMapTo.js ***!
-    \*************************************************************************************************************/
+  /*!***************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/switchMapTo.js ***!
+    \***************************************************************************************************************/
 
   /*! exports provided: switchMapTo */
 
@@ -100382,9 +100382,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/take.js":
-  /*!******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/take.js ***!
-    \******************************************************************************************************/
+  /*!********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/take.js ***!
+    \********************************************************************************************************/
 
   /*! exports provided: take */
 
@@ -100491,9 +100491,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/takeLast.js":
-  /*!**********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/takeLast.js ***!
-    \**********************************************************************************************************/
+  /*!************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/takeLast.js ***!
+    \************************************************************************************************************/
 
   /*! exports provided: takeLast */
 
@@ -100618,9 +100618,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/takeUntil.js":
-  /*!***********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/takeUntil.js ***!
-    \***********************************************************************************************************/
+  /*!*************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/takeUntil.js ***!
+    \*************************************************************************************************************/
 
   /*! exports provided: takeUntil */
 
@@ -100708,9 +100708,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/takeWhile.js":
-  /*!***********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/takeWhile.js ***!
-    \***********************************************************************************************************/
+  /*!*************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/takeWhile.js ***!
+    \*************************************************************************************************************/
 
   /*! exports provided: takeWhile */
 
@@ -100815,9 +100815,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/tap.js":
-  /*!*****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/tap.js ***!
-    \*****************************************************************************************************/
+  /*!*******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/tap.js ***!
+    \*******************************************************************************************************/
 
   /*! exports provided: tap */
 
@@ -100953,9 +100953,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/throttle.js":
-  /*!**********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/throttle.js ***!
-    \**********************************************************************************************************/
+  /*!************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/throttle.js ***!
+    \************************************************************************************************************/
 
   /*! exports provided: defaultThrottleConfig, throttle */
 
@@ -101117,9 +101117,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/throttleTime.js":
-  /*!**************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/throttleTime.js ***!
-    \**************************************************************************************************************/
+  /*!****************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/throttleTime.js ***!
+    \****************************************************************************************************************/
 
   /*! exports provided: throttleTime */
 
@@ -101265,9 +101265,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/throwIfEmpty.js":
-  /*!**************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/throwIfEmpty.js ***!
-    \**************************************************************************************************************/
+  /*!****************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/throwIfEmpty.js ***!
+    \****************************************************************************************************************/
 
   /*! exports provided: throwIfEmpty */
 
@@ -101373,9 +101373,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/timeInterval.js":
-  /*!**************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/timeInterval.js ***!
-    \**************************************************************************************************************/
+  /*!****************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/timeInterval.js ***!
+    \****************************************************************************************************************/
 
   /*! exports provided: timeInterval, TimeInterval */
 
@@ -101459,9 +101459,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/timeout.js":
-  /*!*********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/timeout.js ***!
-    \*********************************************************************************************************/
+  /*!***********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/timeout.js ***!
+    \***********************************************************************************************************/
 
   /*! exports provided: timeout */
 
@@ -101512,9 +101512,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/timeoutWith.js":
-  /*!*************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/timeoutWith.js ***!
-    \*************************************************************************************************************/
+  /*!***************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/timeoutWith.js ***!
+    \***************************************************************************************************************/
 
   /*! exports provided: timeoutWith */
 
@@ -101645,9 +101645,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/timestamp.js":
-  /*!***********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/timestamp.js ***!
-    \***********************************************************************************************************/
+  /*!*************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/timestamp.js ***!
+    \*************************************************************************************************************/
 
   /*! exports provided: timestamp, Timestamp */
 
@@ -101701,9 +101701,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/toArray.js":
-  /*!*********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/toArray.js ***!
-    \*********************************************************************************************************/
+  /*!***********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/toArray.js ***!
+    \***********************************************************************************************************/
 
   /*! exports provided: toArray */
 
@@ -101744,9 +101744,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/window.js":
-  /*!********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/window.js ***!
-    \********************************************************************************************************/
+  /*!**********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/window.js ***!
+    \**********************************************************************************************************/
 
   /*! exports provided: window */
 
@@ -101881,9 +101881,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/windowCount.js":
-  /*!*************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/windowCount.js ***!
-    \*************************************************************************************************************/
+  /*!***************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/windowCount.js ***!
+    \***************************************************************************************************************/
 
   /*! exports provided: windowCount */
 
@@ -102025,9 +102025,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/windowTime.js":
-  /*!************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/windowTime.js ***!
-    \************************************************************************************************************/
+  /*!**************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/windowTime.js ***!
+    \**************************************************************************************************************/
 
   /*! exports provided: windowTime */
 
@@ -102317,9 +102317,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/windowToggle.js":
-  /*!**************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/windowToggle.js ***!
-    \**************************************************************************************************************/
+  /*!****************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/windowToggle.js ***!
+    \****************************************************************************************************************/
 
   /*! exports provided: windowToggle */
 
@@ -102544,9 +102544,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/windowWhen.js":
-  /*!************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/windowWhen.js ***!
-    \************************************************************************************************************/
+  /*!**************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/windowWhen.js ***!
+    \**************************************************************************************************************/
 
   /*! exports provided: windowWhen */
 
@@ -102705,9 +102705,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/withLatestFrom.js":
-  /*!****************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/withLatestFrom.js ***!
-    \****************************************************************************************************************/
+  /*!******************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/withLatestFrom.js ***!
+    \******************************************************************************************************************/
 
   /*! exports provided: withLatestFrom */
 
@@ -102855,9 +102855,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/zip.js":
-  /*!*****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/zip.js ***!
-    \*****************************************************************************************************/
+  /*!*******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/zip.js ***!
+    \*******************************************************************************************************/
 
   /*! exports provided: zip */
 
@@ -102895,9 +102895,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/operators/zipAll.js":
-  /*!********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/zipAll.js ***!
-    \********************************************************************************************************/
+  /*!**********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/operators/zipAll.js ***!
+    \**********************************************************************************************************/
 
   /*! exports provided: zipAll */
 
@@ -102931,9 +102931,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/scheduled/scheduleArray.js":
-  /*!***************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduled/scheduleArray.js ***!
-    \***************************************************************************************************************/
+  /*!*****************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduled/scheduleArray.js ***!
+    \*****************************************************************************************************************/
 
   /*! exports provided: scheduleArray */
 
@@ -102987,9 +102987,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/scheduled/scheduleIterable.js":
-  /*!******************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduled/scheduleIterable.js ***!
-    \******************************************************************************************************************/
+  /*!********************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduled/scheduleIterable.js ***!
+    \********************************************************************************************************************/
 
   /*! exports provided: scheduleIterable */
 
@@ -103073,9 +103073,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/scheduled/scheduleObservable.js":
-  /*!********************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduled/scheduleObservable.js ***!
-    \********************************************************************************************************************/
+  /*!**********************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduled/scheduleObservable.js ***!
+    \**********************************************************************************************************************/
 
   /*! exports provided: scheduleObservable */
 
@@ -103143,9 +103143,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/scheduled/schedulePromise.js":
-  /*!*****************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduled/schedulePromise.js ***!
-    \*****************************************************************************************************************/
+  /*!*******************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduled/schedulePromise.js ***!
+    \*******************************************************************************************************************/
 
   /*! exports provided: schedulePromise */
 
@@ -103200,9 +103200,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/scheduled/scheduled.js":
-  /*!***********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduled/scheduled.js ***!
-    \***********************************************************************************************************/
+  /*!*************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduled/scheduled.js ***!
+    \*************************************************************************************************************/
 
   /*! exports provided: scheduled */
 
@@ -103288,9 +103288,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/scheduler/Action.js":
-  /*!********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduler/Action.js ***!
-    \********************************************************************************************************/
+  /*!**********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduler/Action.js ***!
+    \**********************************************************************************************************/
 
   /*! exports provided: Action */
 
@@ -103340,9 +103340,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/scheduler/AnimationFrameAction.js":
-  /*!**********************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduler/AnimationFrameAction.js ***!
-    \**********************************************************************************************************************/
+  /*!************************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduler/AnimationFrameAction.js ***!
+    \************************************************************************************************************************/
 
   /*! exports provided: AnimationFrameAction */
 
@@ -103421,9 +103421,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/scheduler/AnimationFrameScheduler.js":
-  /*!*************************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduler/AnimationFrameScheduler.js ***!
-    \*************************************************************************************************************************/
+  /*!***************************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduler/AnimationFrameScheduler.js ***!
+    \***************************************************************************************************************************/
 
   /*! exports provided: AnimationFrameScheduler */
 
@@ -103494,9 +103494,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/scheduler/AsapAction.js":
-  /*!************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduler/AsapAction.js ***!
-    \************************************************************************************************************/
+  /*!**************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduler/AsapAction.js ***!
+    \**************************************************************************************************************/
 
   /*! exports provided: AsapAction */
 
@@ -103580,9 +103580,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/scheduler/AsapScheduler.js":
-  /*!***************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduler/AsapScheduler.js ***!
-    \***************************************************************************************************************/
+  /*!*****************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduler/AsapScheduler.js ***!
+    \*****************************************************************************************************************/
 
   /*! exports provided: AsapScheduler */
 
@@ -103653,9 +103653,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/scheduler/AsyncAction.js":
-  /*!*************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduler/AsyncAction.js ***!
-    \*************************************************************************************************************/
+  /*!***************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduler/AsyncAction.js ***!
+    \***************************************************************************************************************/
 
   /*! exports provided: AsyncAction */
 
@@ -103802,9 +103802,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/scheduler/AsyncScheduler.js":
-  /*!****************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduler/AsyncScheduler.js ***!
-    \****************************************************************************************************************/
+  /*!******************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduler/AsyncScheduler.js ***!
+    \******************************************************************************************************************/
 
   /*! exports provided: AsyncScheduler */
 
@@ -103903,9 +103903,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/scheduler/QueueAction.js":
-  /*!*************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduler/QueueAction.js ***!
-    \*************************************************************************************************************/
+  /*!***************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduler/QueueAction.js ***!
+    \***************************************************************************************************************/
 
   /*! exports provided: QueueAction */
 
@@ -103984,9 +103984,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/scheduler/QueueScheduler.js":
-  /*!****************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduler/QueueScheduler.js ***!
-    \****************************************************************************************************************/
+  /*!******************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduler/QueueScheduler.js ***!
+    \******************************************************************************************************************/
 
   /*! exports provided: QueueScheduler */
 
@@ -104028,9 +104028,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/scheduler/VirtualTimeScheduler.js":
-  /*!**********************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduler/VirtualTimeScheduler.js ***!
-    \**********************************************************************************************************************/
+  /*!************************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduler/VirtualTimeScheduler.js ***!
+    \************************************************************************************************************************/
 
   /*! exports provided: VirtualTimeScheduler, VirtualAction */
 
@@ -104203,9 +104203,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/scheduler/animationFrame.js":
-  /*!****************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduler/animationFrame.js ***!
-    \****************************************************************************************************************/
+  /*!******************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduler/animationFrame.js ***!
+    \******************************************************************************************************************/
 
   /*! exports provided: animationFrameScheduler, animationFrame */
 
@@ -104247,9 +104247,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/scheduler/asap.js":
-  /*!******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduler/asap.js ***!
-    \******************************************************************************************************/
+  /*!********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduler/asap.js ***!
+    \********************************************************************************************************/
 
   /*! exports provided: asapScheduler, asap */
 
@@ -104291,9 +104291,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/scheduler/async.js":
-  /*!*******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduler/async.js ***!
-    \*******************************************************************************************************/
+  /*!*********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduler/async.js ***!
+    \*********************************************************************************************************/
 
   /*! exports provided: asyncScheduler, async */
 
@@ -104335,9 +104335,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/scheduler/queue.js":
-  /*!*******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduler/queue.js ***!
-    \*******************************************************************************************************/
+  /*!*********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/scheduler/queue.js ***!
+    \*********************************************************************************************************/
 
   /*! exports provided: queueScheduler, queue */
 
@@ -104379,9 +104379,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/symbol/iterator.js":
-  /*!*******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/symbol/iterator.js ***!
-    \*******************************************************************************************************/
+  /*!*********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/symbol/iterator.js ***!
+    \*********************************************************************************************************/
 
   /*! exports provided: getSymbolIterator, iterator, $$iterator */
 
@@ -104425,9 +104425,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/symbol/observable.js":
-  /*!*********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/symbol/observable.js ***!
-    \*********************************************************************************************************/
+  /*!***********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/symbol/observable.js ***!
+    \***********************************************************************************************************/
 
   /*! exports provided: observable */
 
@@ -104453,9 +104453,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/symbol/rxSubscriber.js":
-  /*!***********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/symbol/rxSubscriber.js ***!
-    \***********************************************************************************************************/
+  /*!*************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/symbol/rxSubscriber.js ***!
+    \*************************************************************************************************************/
 
   /*! exports provided: rxSubscriber, $$rxSubscriber */
 
@@ -104488,9 +104488,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/util/ArgumentOutOfRangeError.js":
-  /*!********************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/ArgumentOutOfRangeError.js ***!
-    \********************************************************************************************************************/
+  /*!**********************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/ArgumentOutOfRangeError.js ***!
+    \**********************************************************************************************************************/
 
   /*! exports provided: ArgumentOutOfRangeError */
 
@@ -104525,9 +104525,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/util/EmptyError.js":
-  /*!*******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/EmptyError.js ***!
-    \*******************************************************************************************************/
+  /*!*********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/EmptyError.js ***!
+    \*********************************************************************************************************/
 
   /*! exports provided: EmptyError */
 
@@ -104562,9 +104562,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/util/Immediate.js":
-  /*!******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/Immediate.js ***!
-    \******************************************************************************************************/
+  /*!********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/Immediate.js ***!
+    \********************************************************************************************************/
 
   /*! exports provided: Immediate, TestTools */
 
@@ -104627,9 +104627,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/util/ObjectUnsubscribedError.js":
-  /*!********************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/ObjectUnsubscribedError.js ***!
-    \********************************************************************************************************************/
+  /*!**********************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/ObjectUnsubscribedError.js ***!
+    \**********************************************************************************************************************/
 
   /*! exports provided: ObjectUnsubscribedError */
 
@@ -104664,9 +104664,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/util/TimeoutError.js":
-  /*!*********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/TimeoutError.js ***!
-    \*********************************************************************************************************/
+  /*!***********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/TimeoutError.js ***!
+    \***********************************************************************************************************/
 
   /*! exports provided: TimeoutError */
 
@@ -104701,9 +104701,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/util/UnsubscriptionError.js":
-  /*!****************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/UnsubscriptionError.js ***!
-    \****************************************************************************************************************/
+  /*!******************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/UnsubscriptionError.js ***!
+    \******************************************************************************************************************/
 
   /*! exports provided: UnsubscriptionError */
 
@@ -104741,9 +104741,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/util/canReportError.js":
-  /*!***********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/canReportError.js ***!
-    \***********************************************************************************************************/
+  /*!*************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/canReportError.js ***!
+    \*************************************************************************************************************/
 
   /*! exports provided: canReportError */
 
@@ -104790,9 +104790,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/util/hostReportError.js":
-  /*!************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/hostReportError.js ***!
-    \************************************************************************************************************/
+  /*!**************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/hostReportError.js ***!
+    \**************************************************************************************************************/
 
   /*! exports provided: hostReportError */
 
@@ -104820,9 +104820,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/util/identity.js":
-  /*!*****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/identity.js ***!
-    \*****************************************************************************************************/
+  /*!*******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/identity.js ***!
+    \*******************************************************************************************************/
 
   /*! exports provided: identity */
 
@@ -104848,9 +104848,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/util/isArray.js":
-  /*!****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/isArray.js ***!
-    \****************************************************************************************************/
+  /*!******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/isArray.js ***!
+    \******************************************************************************************************/
 
   /*! exports provided: isArray */
 
@@ -104878,9 +104878,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/util/isArrayLike.js":
-  /*!********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/isArrayLike.js ***!
-    \********************************************************************************************************/
+  /*!**********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/isArrayLike.js ***!
+    \**********************************************************************************************************/
 
   /*! exports provided: isArrayLike */
 
@@ -104906,9 +104906,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/util/isDate.js":
-  /*!***************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/isDate.js ***!
-    \***************************************************************************************************/
+  /*!*****************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/isDate.js ***!
+    \*****************************************************************************************************/
 
   /*! exports provided: isDate */
 
@@ -104934,9 +104934,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/util/isFunction.js":
-  /*!*******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/isFunction.js ***!
-    \*******************************************************************************************************/
+  /*!*********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/isFunction.js ***!
+    \*********************************************************************************************************/
 
   /*! exports provided: isFunction */
 
@@ -104962,9 +104962,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/util/isInteropObservable.js":
-  /*!****************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/isInteropObservable.js ***!
-    \****************************************************************************************************************/
+  /*!******************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/isInteropObservable.js ***!
+    \******************************************************************************************************************/
 
   /*! exports provided: isInteropObservable */
 
@@ -104996,9 +104996,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/util/isIterable.js":
-  /*!*******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/isIterable.js ***!
-    \*******************************************************************************************************/
+  /*!*********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/isIterable.js ***!
+    \*********************************************************************************************************/
 
   /*! exports provided: isIterable */
 
@@ -105030,9 +105030,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/util/isNumeric.js":
-  /*!******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/isNumeric.js ***!
-    \******************************************************************************************************/
+  /*!********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/isNumeric.js ***!
+    \********************************************************************************************************/
 
   /*! exports provided: isNumeric */
 
@@ -105064,9 +105064,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/util/isObject.js":
-  /*!*****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/isObject.js ***!
-    \*****************************************************************************************************/
+  /*!*******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/isObject.js ***!
+    \*******************************************************************************************************/
 
   /*! exports provided: isObject */
 
@@ -105092,9 +105092,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/util/isObservable.js":
-  /*!*********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/isObservable.js ***!
-    \*********************************************************************************************************/
+  /*!***********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/isObservable.js ***!
+    \***********************************************************************************************************/
 
   /*! exports provided: isObservable */
 
@@ -105126,9 +105126,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/util/isPromise.js":
-  /*!******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/isPromise.js ***!
-    \******************************************************************************************************/
+  /*!********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/isPromise.js ***!
+    \********************************************************************************************************/
 
   /*! exports provided: isPromise */
 
@@ -105154,9 +105154,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/util/isScheduler.js":
-  /*!********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/isScheduler.js ***!
-    \********************************************************************************************************/
+  /*!**********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/isScheduler.js ***!
+    \**********************************************************************************************************/
 
   /*! exports provided: isScheduler */
 
@@ -105182,9 +105182,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/util/noop.js":
-  /*!*************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/noop.js ***!
-    \*************************************************************************************************/
+  /*!***************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/noop.js ***!
+    \***************************************************************************************************/
 
   /*! exports provided: noop */
 
@@ -105208,9 +105208,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/util/not.js":
-  /*!************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/not.js ***!
-    \************************************************************************************************/
+  /*!**************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/not.js ***!
+    \**************************************************************************************************/
 
   /*! exports provided: not */
 
@@ -105242,9 +105242,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/util/pipe.js":
-  /*!*************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/pipe.js ***!
-    \*************************************************************************************************/
+  /*!***************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/pipe.js ***!
+    \***************************************************************************************************/
 
   /*! exports provided: pipe, pipeFromArray */
 
@@ -105302,9 +105302,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/util/subscribeTo.js":
-  /*!********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/subscribeTo.js ***!
-    \********************************************************************************************************/
+  /*!**********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/subscribeTo.js ***!
+    \**********************************************************************************************************/
 
   /*! exports provided: subscribeTo */
 
@@ -105396,9 +105396,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/util/subscribeToArray.js":
-  /*!*************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/subscribeToArray.js ***!
-    \*************************************************************************************************************/
+  /*!***************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/subscribeToArray.js ***!
+    \***************************************************************************************************************/
 
   /*! exports provided: subscribeToArray */
 
@@ -105430,9 +105430,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/util/subscribeToIterable.js":
-  /*!****************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/subscribeToIterable.js ***!
-    \****************************************************************************************************************/
+  /*!******************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/subscribeToIterable.js ***!
+    \******************************************************************************************************************/
 
   /*! exports provided: subscribeToIterable */
 
@@ -105498,9 +105498,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/util/subscribeToObservable.js":
-  /*!******************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/subscribeToObservable.js ***!
-    \******************************************************************************************************************/
+  /*!********************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/subscribeToObservable.js ***!
+    \********************************************************************************************************************/
 
   /*! exports provided: subscribeToObservable */
 
@@ -105540,9 +105540,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/util/subscribeToPromise.js":
-  /*!***************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/subscribeToPromise.js ***!
-    \***************************************************************************************************************/
+  /*!*****************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/subscribeToPromise.js ***!
+    \*****************************************************************************************************************/
 
   /*! exports provided: subscribeToPromise */
 
@@ -105584,9 +105584,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/util/subscribeToResult.js":
-  /*!**************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/subscribeToResult.js ***!
-    \**************************************************************************************************************/
+  /*!****************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/subscribeToResult.js ***!
+    \****************************************************************************************************************/
 
   /*! exports provided: subscribeToResult */
 
@@ -105640,9 +105640,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/internal/util/toSubscriber.js":
-  /*!*********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/toSubscriber.js ***!
-    \*********************************************************************************************************/
+  /*!***********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/internal/util/toSubscriber.js ***!
+    \***********************************************************************************************************/
 
   /*! exports provided: toSubscriber */
 
@@ -105700,9 +105700,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
   /***/
   "../../node_modules/rxjs/_esm2015/operators/index.js":
-  /*!**********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/operators/index.js ***!
-    \**********************************************************************************************/
+  /*!************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/rxjs/_esm2015/operators/index.js ***!
+    \************************************************************************************************/
 
   /*! exports provided: audit, auditTime, buffer, bufferCount, bufferTime, bufferToggle, bufferWhen, catchError, combineAll, combineLatest, concat, concatAll, concatMap, concatMapTo, count, debounce, debounceTime, defaultIfEmpty, delay, delayWhen, dematerialize, distinct, distinctUntilChanged, distinctUntilKeyChanged, elementAt, endWith, every, exhaust, exhaustMap, expand, filter, finalize, find, findIndex, first, groupBy, ignoreElements, isEmpty, last, map, mapTo, materialize, max, merge, mergeAll, mergeMap, flatMap, mergeMapTo, mergeScan, min, multicast, observeOn, onErrorResumeNext, pairwise, partition, pluck, publish, publishBehavior, publishLast, publishReplay, race, reduce, repeat, repeatWhen, retry, retryWhen, refCount, sample, sampleTime, scan, sequenceEqual, share, shareReplay, single, skip, skipLast, skipUntil, skipWhile, startWith, subscribeOn, switchAll, switchMap, switchMapTo, take, takeLast, takeUntil, takeWhile, tap, throttle, throttleTime, throwIfEmpty, timeInterval, timeout, timeoutWith, timestamp, toArray, window, windowCount, windowTime, windowToggle, windowWhen, withLatestFrom, zip, zipAll */
 
@@ -106959,6 +106959,20 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
   },
 
   /***/
+  "../ngx-pattern/package.json":
+  /*!***********************************!*\
+    !*** ../ngx-pattern/package.json ***!
+    \***********************************/
+
+  /*! exports provided: name, version, description, keywords, repository, peerDependencies, license, author, bugs, homepage, default */
+
+  /***/
+  function ngxPatternPackageJson(module) {
+    module.exports = JSON.parse("{\"name\":\"ngx-pattern\",\"version\":\"1.0.0\",\"description\":\"Directive you can use to filter allowed input with RegEx\",\"keywords\":[\"angular\",\"pattern\",\"input\"],\"repository\":{\"type\":\"git\",\"url\":\"https://github.com/angel-vladov/ngx-pattern\"},\"peerDependencies\":{\"@angular/common\":\">=9.0.0\",\"@angular/core\":\">=9.0.0\"},\"license\":\"MIT\",\"author\":\"Angel Vladov\",\"bugs\":{\"url\":\"https://github.com/angel-vladov/ngx-pattern/issues\"},\"homepage\":\"https://github.com/angel-vladov/ngx-pattern#readme\"}");
+    /***/
+  },
+
+  /***/
   "../ngx-pattern/src/lib/ngx-pattern.directive.ts":
   /*!*******************************************************!*\
     !*** ../ngx-pattern/src/lib/ngx-pattern.directive.ts ***!
@@ -106982,13 +106996,20 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "../../node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
+    "../../node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
+
+
+    var _angular_common__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
+    /*! @angular/common */
+    "../../node_modules/@angular/common/fesm2015/common.js");
 
     var NgxPatternDirective = /*#__PURE__*/function () {
-      function NgxPatternDirective(host) {
+      function NgxPatternDirective(host, document) {
         _classCallCheck(this, NgxPatternDirective);
 
         this.host = host;
+        this.document = document;
       }
 
       _createClass2(NgxPatternDirective, [{
@@ -106996,18 +107017,18 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         value: function ngOnChanges(changes) {
           if (this.ngxPattern) {
             if (typeof this.ngxPattern === 'string') {
-              this.regex = new RegExp("^".concat(this.ngxPattern, "$"), 'g');
+              this.regExPattern = new RegExp("^".concat(this.ngxPattern, "$"), 'g');
             } else {
-              this.regex = this.ngxPattern;
+              this.regExPattern = this.ngxPattern;
             }
           }
         }
       }, {
         key: "onKeyDown",
-        value: function onKeyDown(e) {
-          if (this.regex && !e.ctrlKey && !isSpecialKey(e.key)) {
-            if (!this.validWithChange(e.key)) {
-              e.preventDefault();
+        value: function onKeyDown(event) {
+          if (this.regExPattern && noKeyFlags(event) && !isSpecialKey(event.key)) {
+            if (!this.validWithChange(event.key)) {
+              event.preventDefault();
             }
           }
         }
@@ -107017,43 +107038,50 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
           if (!this.textIsValid(this.currentValue)) {
             // Mobile browsers don't support keydown preventDefault and return
             // Unidentified for the pressed key. We need to detect the change on input event and undo.
-            document.execCommand('undo');
+            this.document.execCommand('undo');
           }
         }
       }, {
         key: "onPaste",
-        value: function onPaste(e) {
-          var pastedInput = e.clipboardData.getData('text/plain');
+        value: function onPaste(event) {
+          if (event.clipboardData) {
+            var pastedInput = event.clipboardData.getData('text/plain');
 
-          if (!this.validWithChange(pastedInput)) {
-            e.preventDefault();
+            if (!this.validWithChange(pastedInput)) {
+              event.preventDefault();
+            }
           }
         }
       }, {
         key: "onDrop",
-        value: function onDrop(e) {
-          var textData = e.dataTransfer.getData('text');
+        value: function onDrop(event) {
+          if (event.dataTransfer) {
+            var textData = event.dataTransfer.getData('text');
 
-          if (!this.validWithChange(textData)) {
-            e.preventDefault();
+            if (!this.validWithChange(textData)) {
+              event.preventDefault();
+            }
           }
         }
       }, {
         key: "validWithChange",
         value: function validWithChange(delta) {
-          var _this$inputEl = this.inputEl,
-              current = _this$inputEl.value,
-              selectionStart = _this$inputEl.selectionStart,
-              selectionEnd = _this$inputEl.selectionEnd;
+          var current = this.inputEl.value;
+          var selectionStart = this.inputEl.selectionStart || 0;
+          var selectionEnd = this.inputEl.selectionEnd || 0;
           var updated = current.substring(0, selectionStart) + delta + current.substring(selectionEnd + 1);
           return this.textIsValid(updated);
         }
       }, {
         key: "textIsValid",
         value: function textIsValid(text) {
-          var result = !text || this.regex.test(text);
-          this.regex.lastIndex = 0;
-          return result;
+          if (this.regExPattern) {
+            var result = !text || this.regExPattern.test(text);
+            this.regExPattern.lastIndex = 0;
+            return result;
+          }
+
+          return true;
         }
       }, {
         key: "currentValue",
@@ -107071,7 +107099,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     }();
 
     NgxPatternDirective.ɵfac = function NgxPatternDirective_Factory(t) {
-      return new (t || NgxPatternDirective)(_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_angular_core__WEBPACK_IMPORTED_MODULE_0__["ElementRef"]));
+      return new (t || NgxPatternDirective)(_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_angular_core__WEBPACK_IMPORTED_MODULE_0__["ElementRef"]), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_angular_common__WEBPACK_IMPORTED_MODULE_1__["DOCUMENT"]));
     };
 
     NgxPatternDirective.ɵdir = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineDirective"]({
@@ -107105,7 +107133,17 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         }]
       }], function () {
         return [{
-          type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["ElementRef"]
+          type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["ElementRef"],
+          decorators: [{
+            type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Inject"],
+            args: [_angular_core__WEBPACK_IMPORTED_MODULE_0__["ElementRef"]]
+          }]
+        }, {
+          type: undefined,
+          decorators: [{
+            type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Inject"],
+            args: [_angular_common__WEBPACK_IMPORTED_MODULE_1__["DOCUMENT"]]
+          }]
         }];
       }, {
         ngxPattern: [{
@@ -107129,6 +107167,10 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         }]
       });
     })();
+
+    function noKeyFlags(event) {
+      return !event.ctrlKey && !event.altKey && !event.metaKey;
+    }
     /** @see https://developer.mozilla.org/bg/docs/Web/API/KeyboardEvent/key/Key_Values */
 
 
@@ -107163,7 +107205,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "../../node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
+    "../../node_modules/@angular/core/fesm2015/core.js");
     /* harmony import */
 
 
@@ -107262,7 +107304,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "../../node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
+    "../../node_modules/@angular/core/fesm2015/core.js");
     /* harmony import */
 
 
@@ -107280,13 +107322,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
     /*! @angular/common */
-    "../../node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
+    "../../node_modules/@angular/common/fesm2015/common.js");
     /* harmony import */
 
 
     var _angular_forms__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(
     /*! @angular/forms */
-    "../../node_modules/@angular/forms/__ivy_ngcc__/fesm2015/forms.js");
+    "../../node_modules/@angular/forms/fesm2015/forms.js");
     /* harmony import */
 
 
@@ -107603,7 +107645,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         }
       },
       directives: [_shared_toolbar_toolbar_component__WEBPACK_IMPORTED_MODULE_1__["ToolbarComponent"], _shared_card_card_component__WEBPACK_IMPORTED_MODULE_2__["CardComponent"], _angular_common__WEBPACK_IMPORTED_MODULE_3__["NgSwitch"], _angular_common__WEBPACK_IMPORTED_MODULE_3__["NgSwitchCase"], _angular_forms__WEBPACK_IMPORTED_MODULE_4__["DefaultValueAccessor"], _ngx_pattern_src_lib_ngx_pattern_directive__WEBPACK_IMPORTED_MODULE_5__["NgxPatternDirective"], _angular_forms__WEBPACK_IMPORTED_MODULE_4__["NgControlStatus"], _angular_forms__WEBPACK_IMPORTED_MODULE_4__["NgModel"], _shared_terminal_terminal_component__WEBPACK_IMPORTED_MODULE_6__["TerminalComponent"]],
-      styles: ["[_nghost-%COMP%] {\n  font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\";\n  font-size: 14px;\n  color: #333;\n  box-sizing: border-box;\n  -webkit-font-smoothing: antialiased;\n  -moz-osx-font-smoothing: grayscale;\n}\n\n.content[_ngcontent-%COMP%] {\n  display: flex;\n  margin: 32px auto;\n  padding: 0 16px;\n  max-width: 960px;\n  flex-direction: column;\n  align-items: center;\n}\n\n.card-container[_ngcontent-%COMP%] {\n  display: flex;\n  flex-wrap: wrap;\n  justify-content: center;\n  margin-top: 16px;\n}\n\n.example-card[_ngcontent-%COMP%] {\n  display: flex;\n  align-items: center;\n  flex-wrap: wrap;\n  margin-bottom: 0.75rem;\n}\n\n.example-card[_ngcontent-%COMP%]   .control[_ngcontent-%COMP%] {\n  width: 220px;\n  max-width: 100%;\n  margin: 4px 8px 0 0;\n}\n\n.example-card[_ngcontent-%COMP%]   .value[_ngcontent-%COMP%] {\n  width: 220px;\n  max-width: 100%;\n  margin: 4px 0 0 8px;\n  font-weight: bold;\n  letter-spacing: 1px;\n  word-wrap: break-word;\n}\n\n.example-card[_ngcontent-%COMP%]   .value[_ngcontent-%COMP%]:empty::before {\n  content: \"ngModel value\";\n  color: #888;\n  letter-spacing: 0;\n  font-style: italic;\n  font-weight: 300;\n}\n\nsvg#clouds[_ngcontent-%COMP%] {\n  position: fixed;\n  bottom: -160px;\n  left: -230px;\n  z-index: -10;\n  width: 1920px;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL2FuZ2VsL1Byb2plY3RzL2F2bGFkb3Yvbmd4LXBhdHRlcm4vcHJvamVjdHMvbmd4LXBhdHRlcm4tZGVtby9zcmMvYXBwL2FwcC5jb21wb25lbnQuc2NzcyIsInByb2plY3RzL25neC1wYXR0ZXJuLWRlbW8vc3JjL2FwcC9hcHAuY29tcG9uZW50LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSwwSkFBQTtFQUNBLGVBQUE7RUFDQSxXQUFBO0VBQ0Esc0JBQUE7RUFDQSxtQ0FBQTtFQUNBLGtDQUFBO0FDQ0Y7O0FERUE7RUFDRSxhQUFBO0VBQ0EsaUJBQUE7RUFDQSxlQUFBO0VBQ0EsZ0JBQUE7RUFDQSxzQkFBQTtFQUNBLG1CQUFBO0FDQ0Y7O0FERUE7RUFDRSxhQUFBO0VBQ0EsZUFBQTtFQUNBLHVCQUFBO0VBQ0EsZ0JBQUE7QUNDRjs7QURFQTtFQUNFLGFBQUE7RUFDQSxtQkFBQTtFQUNBLGVBQUE7RUFDQSxzQkFBQTtBQ0NGOztBRENFO0VBQ0UsWUFBQTtFQUNBLGVBQUE7RUFDQSxtQkFBQTtBQ0NKOztBREVFO0VBQ0UsWUFBQTtFQUNBLGVBQUE7RUFDQSxtQkFBQTtFQUNBLGlCQUFBO0VBQ0EsbUJBQUE7RUFDQSxxQkFBQTtBQ0FKOztBREVJO0VBQ0Usd0JBQUE7RUFDQSxXQUFBO0VBQ0EsaUJBQUE7RUFDQSxrQkFBQTtFQUNBLGdCQUFBO0FDQU47O0FES0E7RUFDRSxlQUFBO0VBQ0EsY0FBQTtFQUNBLFlBQUE7RUFDQSxZQUFBO0VBQ0EsYUFBQTtBQ0ZGIiwiZmlsZSI6InByb2plY3RzL25neC1wYXR0ZXJuLWRlbW8vc3JjL2FwcC9hcHAuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyI6aG9zdCB7XG4gIGZvbnQtZmFtaWx5OiAtYXBwbGUtc3lzdGVtLCBCbGlua01hY1N5c3RlbUZvbnQsIFwiU2Vnb2UgVUlcIiwgUm9ib3RvLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmLCBcIkFwcGxlIENvbG9yIEVtb2ppXCIsIFwiU2Vnb2UgVUkgRW1vamlcIiwgXCJTZWdvZSBVSSBTeW1ib2xcIjtcbiAgZm9udC1zaXplOiAxNHB4O1xuICBjb2xvcjogIzMzMztcbiAgYm94LXNpemluZzogYm9yZGVyLWJveDtcbiAgLXdlYmtpdC1mb250LXNtb290aGluZzogYW50aWFsaWFzZWQ7XG4gIC1tb3otb3N4LWZvbnQtc21vb3RoaW5nOiBncmF5c2NhbGU7XG59XG5cbi5jb250ZW50IHtcbiAgZGlzcGxheTogZmxleDtcbiAgbWFyZ2luOiAzMnB4IGF1dG87XG4gIHBhZGRpbmc6IDAgMTZweDtcbiAgbWF4LXdpZHRoOiA5NjBweDtcbiAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjtcbiAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbn1cblxuLmNhcmQtY29udGFpbmVyIHtcbiAgZGlzcGxheTogZmxleDtcbiAgZmxleC13cmFwOiB3cmFwO1xuICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgbWFyZ2luLXRvcDogMTZweDtcbn1cblxuLmV4YW1wbGUtY2FyZCB7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gIGZsZXgtd3JhcDogd3JhcDtcbiAgbWFyZ2luLWJvdHRvbTogLjc1cmVtO1xuXG4gIC5jb250cm9sIHtcbiAgICB3aWR0aDogMjIwcHg7XG4gICAgbWF4LXdpZHRoOiAxMDAlO1xuICAgIG1hcmdpbjogNHB4IDhweCAwIDA7XG4gIH1cblxuICAudmFsdWUge1xuICAgIHdpZHRoOiAyMjBweDtcbiAgICBtYXgtd2lkdGg6IDEwMCU7XG4gICAgbWFyZ2luOiA0cHggMCAwIDhweDtcbiAgICBmb250LXdlaWdodDogYm9sZDtcbiAgICBsZXR0ZXItc3BhY2luZzogMXB4O1xuICAgIHdvcmQtd3JhcDogYnJlYWstd29yZDtcblxuICAgICY6ZW1wdHk6OmJlZm9yZSB7XG4gICAgICBjb250ZW50OiBcIm5nTW9kZWwgdmFsdWVcIjtcbiAgICAgIGNvbG9yOiAjODg4O1xuICAgICAgbGV0dGVyLXNwYWNpbmc6IDA7XG4gICAgICBmb250LXN0eWxlOiBpdGFsaWM7XG4gICAgICBmb250LXdlaWdodDogMzAwO1xuICAgIH1cbiAgfVxufVxuXG5zdmcjY2xvdWRzIHtcbiAgcG9zaXRpb246IGZpeGVkO1xuICBib3R0b206IC0xNjBweDtcbiAgbGVmdDogLTIzMHB4O1xuICB6LWluZGV4OiAtMTA7XG4gIHdpZHRoOiAxOTIwcHg7XG59XG4iLCI6aG9zdCB7XG4gIGZvbnQtZmFtaWx5OiAtYXBwbGUtc3lzdGVtLCBCbGlua01hY1N5c3RlbUZvbnQsIFwiU2Vnb2UgVUlcIiwgUm9ib3RvLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmLCBcIkFwcGxlIENvbG9yIEVtb2ppXCIsIFwiU2Vnb2UgVUkgRW1vamlcIiwgXCJTZWdvZSBVSSBTeW1ib2xcIjtcbiAgZm9udC1zaXplOiAxNHB4O1xuICBjb2xvcjogIzMzMztcbiAgYm94LXNpemluZzogYm9yZGVyLWJveDtcbiAgLXdlYmtpdC1mb250LXNtb290aGluZzogYW50aWFsaWFzZWQ7XG4gIC1tb3otb3N4LWZvbnQtc21vb3RoaW5nOiBncmF5c2NhbGU7XG59XG5cbi5jb250ZW50IHtcbiAgZGlzcGxheTogZmxleDtcbiAgbWFyZ2luOiAzMnB4IGF1dG87XG4gIHBhZGRpbmc6IDAgMTZweDtcbiAgbWF4LXdpZHRoOiA5NjBweDtcbiAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjtcbiAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbn1cblxuLmNhcmQtY29udGFpbmVyIHtcbiAgZGlzcGxheTogZmxleDtcbiAgZmxleC13cmFwOiB3cmFwO1xuICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgbWFyZ2luLXRvcDogMTZweDtcbn1cblxuLmV4YW1wbGUtY2FyZCB7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gIGZsZXgtd3JhcDogd3JhcDtcbiAgbWFyZ2luLWJvdHRvbTogMC43NXJlbTtcbn1cbi5leGFtcGxlLWNhcmQgLmNvbnRyb2wge1xuICB3aWR0aDogMjIwcHg7XG4gIG1heC13aWR0aDogMTAwJTtcbiAgbWFyZ2luOiA0cHggOHB4IDAgMDtcbn1cbi5leGFtcGxlLWNhcmQgLnZhbHVlIHtcbiAgd2lkdGg6IDIyMHB4O1xuICBtYXgtd2lkdGg6IDEwMCU7XG4gIG1hcmdpbjogNHB4IDAgMCA4cHg7XG4gIGZvbnQtd2VpZ2h0OiBib2xkO1xuICBsZXR0ZXItc3BhY2luZzogMXB4O1xuICB3b3JkLXdyYXA6IGJyZWFrLXdvcmQ7XG59XG4uZXhhbXBsZS1jYXJkIC52YWx1ZTplbXB0eTo6YmVmb3JlIHtcbiAgY29udGVudDogXCJuZ01vZGVsIHZhbHVlXCI7XG4gIGNvbG9yOiAjODg4O1xuICBsZXR0ZXItc3BhY2luZzogMDtcbiAgZm9udC1zdHlsZTogaXRhbGljO1xuICBmb250LXdlaWdodDogMzAwO1xufVxuXG5zdmcjY2xvdWRzIHtcbiAgcG9zaXRpb246IGZpeGVkO1xuICBib3R0b206IC0xNjBweDtcbiAgbGVmdDogLTIzMHB4O1xuICB6LWluZGV4OiAtMTA7XG4gIHdpZHRoOiAxOTIwcHg7XG59Il19 */"]
+      styles: ["[_nghost-%COMP%] {\n  font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\";\n  font-size: 14px;\n  color: #333;\n  box-sizing: border-box;\n  -webkit-font-smoothing: antialiased;\n  -moz-osx-font-smoothing: grayscale;\n}\n\n.content[_ngcontent-%COMP%] {\n  display: flex;\n  margin: 32px auto;\n  padding: 0 16px;\n  max-width: 960px;\n  flex-direction: column;\n  align-items: center;\n}\n\n.card-container[_ngcontent-%COMP%] {\n  display: flex;\n  flex-wrap: wrap;\n  justify-content: center;\n  margin-top: 16px;\n}\n\n.example-card[_ngcontent-%COMP%] {\n  display: flex;\n  align-items: center;\n  flex-wrap: wrap;\n  margin-bottom: 0.75rem;\n}\n\n.example-card[_ngcontent-%COMP%]   .control[_ngcontent-%COMP%] {\n  width: 220px;\n  max-width: 100%;\n  margin: 4px 8px 0 0;\n  padding: 0.5em;\n  box-sizing: border-box;\n  border: 1px solid gray;\n  outline: 0 none;\n}\n\n.example-card[_ngcontent-%COMP%]   .control[_ngcontent-%COMP%]:focus {\n  border-color: #1976d2;\n  outline: 2px solid rgba(25, 118, 210, 0.25);\n}\n\n.example-card[_ngcontent-%COMP%]   .value[_ngcontent-%COMP%] {\n  width: 220px;\n  max-width: 100%;\n  margin: 4px 0 0 8px;\n  font-weight: bold;\n  letter-spacing: 1px;\n  word-wrap: break-word;\n}\n\n.example-card[_ngcontent-%COMP%]   .value[_ngcontent-%COMP%]:empty::before {\n  content: \"ngModel value\";\n  color: #888;\n  letter-spacing: 0;\n  font-style: italic;\n  font-weight: 300;\n}\n\nsvg#clouds[_ngcontent-%COMP%] {\n  position: fixed;\n  bottom: -160px;\n  left: -230px;\n  z-index: -10;\n  width: 1920px;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Wb2x1bWVzL0RhdGEvUHJvamVjdHMvYXZsYWRvdi9uZ3gtcGF0dGVybi9wcm9qZWN0cy9uZ3gtcGF0dGVybi1kZW1vL3NyYy9hcHAvYXBwLmNvbXBvbmVudC5zY3NzIiwicHJvamVjdHMvbmd4LXBhdHRlcm4tZGVtby9zcmMvYXBwL2FwcC5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLDBKQUFBO0VBQ0EsZUFBQTtFQUNBLFdBQUE7RUFDQSxzQkFBQTtFQUNBLG1DQUFBO0VBQ0Esa0NBQUE7QUNDRjs7QURFQTtFQUNFLGFBQUE7RUFDQSxpQkFBQTtFQUNBLGVBQUE7RUFDQSxnQkFBQTtFQUNBLHNCQUFBO0VBQ0EsbUJBQUE7QUNDRjs7QURFQTtFQUNFLGFBQUE7RUFDQSxlQUFBO0VBQ0EsdUJBQUE7RUFDQSxnQkFBQTtBQ0NGOztBREVBO0VBQ0UsYUFBQTtFQUNBLG1CQUFBO0VBQ0EsZUFBQTtFQUNBLHNCQUFBO0FDQ0Y7O0FEQ0U7RUFDRSxZQUFBO0VBQ0EsZUFBQTtFQUNBLG1CQUFBO0VBQ0EsY0FBQTtFQUNBLHNCQUFBO0VBQ0Esc0JBQUE7RUFDQSxlQUFBO0FDQ0o7O0FEQ0k7RUFDRSxxQkFBQTtFQUNBLDJDQUFBO0FDQ047O0FER0U7RUFDRSxZQUFBO0VBQ0EsZUFBQTtFQUNBLG1CQUFBO0VBQ0EsaUJBQUE7RUFDQSxtQkFBQTtFQUNBLHFCQUFBO0FDREo7O0FER0k7RUFDRSx3QkFBQTtFQUNBLFdBQUE7RUFDQSxpQkFBQTtFQUNBLGtCQUFBO0VBQ0EsZ0JBQUE7QUNETjs7QURNQTtFQUNFLGVBQUE7RUFDQSxjQUFBO0VBQ0EsWUFBQTtFQUNBLFlBQUE7RUFDQSxhQUFBO0FDSEYiLCJmaWxlIjoicHJvamVjdHMvbmd4LXBhdHRlcm4tZGVtby9zcmMvYXBwL2FwcC5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIjpob3N0IHtcbiAgZm9udC1mYW1pbHk6IC1hcHBsZS1zeXN0ZW0sIEJsaW5rTWFjU3lzdGVtRm9udCwgXCJTZWdvZSBVSVwiLCBSb2JvdG8sIEhlbHZldGljYSwgQXJpYWwsIHNhbnMtc2VyaWYsIFwiQXBwbGUgQ29sb3IgRW1vamlcIiwgXCJTZWdvZSBVSSBFbW9qaVwiLCBcIlNlZ29lIFVJIFN5bWJvbFwiO1xuICBmb250LXNpemU6IDE0cHg7XG4gIGNvbG9yOiAjMzMzO1xuICBib3gtc2l6aW5nOiBib3JkZXItYm94O1xuICAtd2Via2l0LWZvbnQtc21vb3RoaW5nOiBhbnRpYWxpYXNlZDtcbiAgLW1vei1vc3gtZm9udC1zbW9vdGhpbmc6IGdyYXlzY2FsZTtcbn1cblxuLmNvbnRlbnQge1xuICBkaXNwbGF5OiBmbGV4O1xuICBtYXJnaW46IDMycHggYXV0bztcbiAgcGFkZGluZzogMCAxNnB4O1xuICBtYXgtd2lkdGg6IDk2MHB4O1xuICBmbGV4LWRpcmVjdGlvbjogY29sdW1uO1xuICBhbGlnbi1pdGVtczogY2VudGVyO1xufVxuXG4uY2FyZC1jb250YWluZXIge1xuICBkaXNwbGF5OiBmbGV4O1xuICBmbGV4LXdyYXA6IHdyYXA7XG4gIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICBtYXJnaW4tdG9wOiAxNnB4O1xufVxuXG4uZXhhbXBsZS1jYXJkIHtcbiAgZGlzcGxheTogZmxleDtcbiAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAgZmxleC13cmFwOiB3cmFwO1xuICBtYXJnaW4tYm90dG9tOiAuNzVyZW07XG5cbiAgLmNvbnRyb2wge1xuICAgIHdpZHRoOiAyMjBweDtcbiAgICBtYXgtd2lkdGg6IDEwMCU7XG4gICAgbWFyZ2luOiA0cHggOHB4IDAgMDtcbiAgICBwYWRkaW5nOiAuNWVtO1xuICAgIGJveC1zaXppbmc6IGJvcmRlci1ib3g7XG4gICAgYm9yZGVyOiAxcHggc29saWQgZ3JheTtcbiAgICBvdXRsaW5lOiAwIG5vbmU7XG5cbiAgICAmOmZvY3VzIHtcbiAgICAgIGJvcmRlci1jb2xvcjogIzE5NzZkMjtcbiAgICAgIG91dGxpbmU6IDJweCBzb2xpZCByZ2JhKCMxOTc2ZDIsIC4yNSk7XG4gICAgfVxuICB9XG5cbiAgLnZhbHVlIHtcbiAgICB3aWR0aDogMjIwcHg7XG4gICAgbWF4LXdpZHRoOiAxMDAlO1xuICAgIG1hcmdpbjogNHB4IDAgMCA4cHg7XG4gICAgZm9udC13ZWlnaHQ6IGJvbGQ7XG4gICAgbGV0dGVyLXNwYWNpbmc6IDFweDtcbiAgICB3b3JkLXdyYXA6IGJyZWFrLXdvcmQ7XG5cbiAgICAmOmVtcHR5OjpiZWZvcmUge1xuICAgICAgY29udGVudDogXCJuZ01vZGVsIHZhbHVlXCI7XG4gICAgICBjb2xvcjogIzg4ODtcbiAgICAgIGxldHRlci1zcGFjaW5nOiAwO1xuICAgICAgZm9udC1zdHlsZTogaXRhbGljO1xuICAgICAgZm9udC13ZWlnaHQ6IDMwMDtcbiAgICB9XG4gIH1cbn1cblxuc3ZnI2Nsb3VkcyB7XG4gIHBvc2l0aW9uOiBmaXhlZDtcbiAgYm90dG9tOiAtMTYwcHg7XG4gIGxlZnQ6IC0yMzBweDtcbiAgei1pbmRleDogLTEwO1xuICB3aWR0aDogMTkyMHB4O1xufVxuIiwiOmhvc3Qge1xuICBmb250LWZhbWlseTogLWFwcGxlLXN5c3RlbSwgQmxpbmtNYWNTeXN0ZW1Gb250LCBcIlNlZ29lIFVJXCIsIFJvYm90bywgSGVsdmV0aWNhLCBBcmlhbCwgc2Fucy1zZXJpZiwgXCJBcHBsZSBDb2xvciBFbW9qaVwiLCBcIlNlZ29lIFVJIEVtb2ppXCIsIFwiU2Vnb2UgVUkgU3ltYm9sXCI7XG4gIGZvbnQtc2l6ZTogMTRweDtcbiAgY29sb3I6ICMzMzM7XG4gIGJveC1zaXppbmc6IGJvcmRlci1ib3g7XG4gIC13ZWJraXQtZm9udC1zbW9vdGhpbmc6IGFudGlhbGlhc2VkO1xuICAtbW96LW9zeC1mb250LXNtb290aGluZzogZ3JheXNjYWxlO1xufVxuXG4uY29udGVudCB7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIG1hcmdpbjogMzJweCBhdXRvO1xuICBwYWRkaW5nOiAwIDE2cHg7XG4gIG1heC13aWR0aDogOTYwcHg7XG4gIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47XG4gIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG59XG5cbi5jYXJkLWNvbnRhaW5lciB7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGZsZXgtd3JhcDogd3JhcDtcbiAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG4gIG1hcmdpbi10b3A6IDE2cHg7XG59XG5cbi5leGFtcGxlLWNhcmQge1xuICBkaXNwbGF5OiBmbGV4O1xuICBhbGlnbi1pdGVtczogY2VudGVyO1xuICBmbGV4LXdyYXA6IHdyYXA7XG4gIG1hcmdpbi1ib3R0b206IDAuNzVyZW07XG59XG4uZXhhbXBsZS1jYXJkIC5jb250cm9sIHtcbiAgd2lkdGg6IDIyMHB4O1xuICBtYXgtd2lkdGg6IDEwMCU7XG4gIG1hcmdpbjogNHB4IDhweCAwIDA7XG4gIHBhZGRpbmc6IDAuNWVtO1xuICBib3gtc2l6aW5nOiBib3JkZXItYm94O1xuICBib3JkZXI6IDFweCBzb2xpZCBncmF5O1xuICBvdXRsaW5lOiAwIG5vbmU7XG59XG4uZXhhbXBsZS1jYXJkIC5jb250cm9sOmZvY3VzIHtcbiAgYm9yZGVyLWNvbG9yOiAjMTk3NmQyO1xuICBvdXRsaW5lOiAycHggc29saWQgcmdiYSgyNSwgMTE4LCAyMTAsIDAuMjUpO1xufVxuLmV4YW1wbGUtY2FyZCAudmFsdWUge1xuICB3aWR0aDogMjIwcHg7XG4gIG1heC13aWR0aDogMTAwJTtcbiAgbWFyZ2luOiA0cHggMCAwIDhweDtcbiAgZm9udC13ZWlnaHQ6IGJvbGQ7XG4gIGxldHRlci1zcGFjaW5nOiAxcHg7XG4gIHdvcmQtd3JhcDogYnJlYWstd29yZDtcbn1cbi5leGFtcGxlLWNhcmQgLnZhbHVlOmVtcHR5OjpiZWZvcmUge1xuICBjb250ZW50OiBcIm5nTW9kZWwgdmFsdWVcIjtcbiAgY29sb3I6ICM4ODg7XG4gIGxldHRlci1zcGFjaW5nOiAwO1xuICBmb250LXN0eWxlOiBpdGFsaWM7XG4gIGZvbnQtd2VpZ2h0OiAzMDA7XG59XG5cbnN2ZyNjbG91ZHMge1xuICBwb3NpdGlvbjogZml4ZWQ7XG4gIGJvdHRvbTogLTE2MHB4O1xuICBsZWZ0OiAtMjMwcHg7XG4gIHotaW5kZXg6IC0xMDtcbiAgd2lkdGg6IDE5MjBweDtcbn0iXX0= */"]
     });
     /*@__PURE__*/
 
@@ -107645,13 +107687,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_platform_browser__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/platform-browser */
-    "../../node_modules/@angular/platform-browser/__ivy_ngcc__/fesm2015/platform-browser.js");
+    "../../node_modules/@angular/platform-browser/fesm2015/platform-browser.js");
     /* harmony import */
 
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/core */
-    "../../node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
+    "../../node_modules/@angular/core/fesm2015/core.js");
     /* harmony import */
 
 
@@ -107693,7 +107735,19 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_forms__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(
     /*! @angular/forms */
-    "../../node_modules/@angular/forms/__ivy_ngcc__/fesm2015/forms.js");
+    "../../node_modules/@angular/forms/fesm2015/forms.js");
+    /* harmony import */
+
+
+    var _shared_version_badge_version_badge_pipe__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(
+    /*! ./shared/version-badge/version-badge.pipe */
+    "./src/app/shared/version-badge/version-badge.pipe.ts");
+    /* harmony import */
+
+
+    var _shared_version_alt_text_version_alt_text_pipe__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(
+    /*! ./shared/version-alt-text/version-alt-text.pipe */
+    "./src/app/shared/version-alt-text/version-alt-text.pipe.ts");
 
     var AppModule = function AppModule() {
       _classCallCheck(this, AppModule);
@@ -107713,7 +107767,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     (function () {
       (typeof ngJitMode === "undefined" || ngJitMode) && _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsetNgModuleScope"](AppModule, {
-        declarations: [_app_component__WEBPACK_IMPORTED_MODULE_2__["AppComponent"], _shared_toolbar_toolbar_component__WEBPACK_IMPORTED_MODULE_4__["ToolbarComponent"], _shared_fork_me_ribbon_fork_me_ribbon_component__WEBPACK_IMPORTED_MODULE_5__["ForkMeRibbonComponent"], _shared_terminal_terminal_component__WEBPACK_IMPORTED_MODULE_6__["TerminalComponent"], _shared_card_card_component__WEBPACK_IMPORTED_MODULE_7__["CardComponent"]],
+        declarations: [_app_component__WEBPACK_IMPORTED_MODULE_2__["AppComponent"], _shared_toolbar_toolbar_component__WEBPACK_IMPORTED_MODULE_4__["ToolbarComponent"], _shared_fork_me_ribbon_fork_me_ribbon_component__WEBPACK_IMPORTED_MODULE_5__["ForkMeRibbonComponent"], _shared_terminal_terminal_component__WEBPACK_IMPORTED_MODULE_6__["TerminalComponent"], _shared_card_card_component__WEBPACK_IMPORTED_MODULE_7__["CardComponent"], _shared_version_badge_version_badge_pipe__WEBPACK_IMPORTED_MODULE_9__["VersionBadgePipe"], _shared_version_alt_text_version_alt_text_pipe__WEBPACK_IMPORTED_MODULE_10__["VersionAltTextPipe"]],
         imports: [_angular_platform_browser__WEBPACK_IMPORTED_MODULE_0__["BrowserModule"], _angular_forms__WEBPACK_IMPORTED_MODULE_8__["FormsModule"], _ngx_pattern_src_lib_ngx_pattern_module__WEBPACK_IMPORTED_MODULE_3__["NgxPatternModule"]]
       });
     })();
@@ -107724,7 +107778,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵsetClassMetadata"](AppModule, [{
         type: _angular_core__WEBPACK_IMPORTED_MODULE_1__["NgModule"],
         args: [{
-          declarations: [_app_component__WEBPACK_IMPORTED_MODULE_2__["AppComponent"], _shared_toolbar_toolbar_component__WEBPACK_IMPORTED_MODULE_4__["ToolbarComponent"], _shared_fork_me_ribbon_fork_me_ribbon_component__WEBPACK_IMPORTED_MODULE_5__["ForkMeRibbonComponent"], _shared_terminal_terminal_component__WEBPACK_IMPORTED_MODULE_6__["TerminalComponent"], _shared_card_card_component__WEBPACK_IMPORTED_MODULE_7__["CardComponent"]],
+          declarations: [_app_component__WEBPACK_IMPORTED_MODULE_2__["AppComponent"], _shared_toolbar_toolbar_component__WEBPACK_IMPORTED_MODULE_4__["ToolbarComponent"], _shared_fork_me_ribbon_fork_me_ribbon_component__WEBPACK_IMPORTED_MODULE_5__["ForkMeRibbonComponent"], _shared_terminal_terminal_component__WEBPACK_IMPORTED_MODULE_6__["TerminalComponent"], _shared_card_card_component__WEBPACK_IMPORTED_MODULE_7__["CardComponent"], _shared_version_badge_version_badge_pipe__WEBPACK_IMPORTED_MODULE_9__["VersionBadgePipe"], _shared_version_alt_text_version_alt_text_pipe__WEBPACK_IMPORTED_MODULE_10__["VersionAltTextPipe"]],
           imports: [_angular_platform_browser__WEBPACK_IMPORTED_MODULE_0__["BrowserModule"], _angular_forms__WEBPACK_IMPORTED_MODULE_8__["FormsModule"], _ngx_pattern_src_lib_ngx_pattern_module__WEBPACK_IMPORTED_MODULE_3__["NgxPatternModule"]],
           providers: [],
           bootstrap: [_app_component__WEBPACK_IMPORTED_MODULE_2__["AppComponent"]]
@@ -107759,13 +107813,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "../../node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
+    "../../node_modules/@angular/core/fesm2015/core.js");
     /* harmony import */
 
 
     var _angular_common__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/common */
-    "../../node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
+    "../../node_modules/@angular/common/fesm2015/common.js");
 
     var _c0 = ["*"];
 
@@ -107831,7 +107885,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         }
       },
       directives: [_angular_common__WEBPACK_IMPORTED_MODULE_1__["NgClass"]],
-      styles: [".card[_ngcontent-%COMP%] {\n  border-radius: 4px;\n  border: 1px solid #eee;\n  background-color: #fafafa;\n  height: 40px;\n  width: 200px;\n  margin: 0 8px 16px;\n  padding: 16px;\n  display: flex;\n  flex-direction: row;\n  justify-content: center;\n  align-items: center;\n  transition: all 0.2s ease-in-out;\n  line-height: 24px;\n  outline: 0 none;\n}\n.active[_nghost-%COMP%]   .card[_ngcontent-%COMP%] {\n  border-color: #1976D2;\n}\n.card-container[_nghost-%COMP%]   .card[_ngcontent-%COMP%], .card-container   [_nghost-%COMP%]   .card[_ngcontent-%COMP%] {\n  cursor: pointer;\n}\n.card-container[_nghost-%COMP%]   .card[_ngcontent-%COMP%]:not(:last-child), .card-container   [_nghost-%COMP%]   .card[_ngcontent-%COMP%]:not(:last-child) {\n  margin-right: 0;\n}\n.card-container[_nghost-%COMP%]   .card[_ngcontent-%COMP%]:hover, .card-container   [_nghost-%COMP%]   .card[_ngcontent-%COMP%]:hover {\n  transform: translateY(-3px);\n  box-shadow: 0 4px 17px rgba(0, 0, 0, 0.35);\n}\n.card-container[_nghost-%COMP%]   .card[_ngcontent-%COMP%]:hover   .material-icons[_ngcontent-%COMP%]   path[_ngcontent-%COMP%], .card-container   [_nghost-%COMP%]   .card[_ngcontent-%COMP%]:hover   .material-icons[_ngcontent-%COMP%]   path[_ngcontent-%COMP%] {\n  fill: #696767;\n}\n.card[_ngcontent-%COMP%]   svg.material-icons[_ngcontent-%COMP%]   path[_ngcontent-%COMP%] {\n  fill: #888;\n}\n.card.card-small[_ngcontent-%COMP%] {\n  height: 16px;\n  width: 168px;\n}\n@media screen and (max-width: 767px) {\n  .card[_ngcontent-%COMP%] {\n    height: 16px;\n    margin: 8px 0;\n  }\n  .card-container[_nghost-%COMP%]   .card[_ngcontent-%COMP%], .card-container   [_nghost-%COMP%]   .card[_ngcontent-%COMP%] {\n    width: 100%;\n  }\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL2FuZ2VsL1Byb2plY3RzL2F2bGFkb3Yvbmd4LXBhdHRlcm4vcHJvamVjdHMvbmd4LXBhdHRlcm4tZGVtby9zcmMvYXBwL3NoYXJlZC9jYXJkL2NhcmQuY29tcG9uZW50LnNjc3MiLCJwcm9qZWN0cy9uZ3gtcGF0dGVybi1kZW1vL3NyYy9hcHAvc2hhcmVkL2NhcmQvY2FyZC5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLGtCQUFBO0VBQ0Esc0JBQUE7RUFDQSx5QkFBQTtFQUNBLFlBQUE7RUFDQSxZQUFBO0VBQ0Esa0JBQUE7RUFDQSxhQUFBO0VBQ0EsYUFBQTtFQUNBLG1CQUFBO0VBQ0EsdUJBQUE7RUFDQSxtQkFBQTtFQUNBLGdDQUFBO0VBQ0EsaUJBQUE7RUFDQSxlQUFBO0FDQ0Y7QURDRTtFQUNFLHFCQUFBO0FDQ0o7QURFRTtFQUNFLGVBQUE7QUNBSjtBREVJO0VBQ0UsZUFBQTtBQ0FOO0FER0k7RUFDRSwyQkFBQTtFQUNBLDBDQUFBO0FDRE47QURHTTtFQUNFLGFBQUE7QUNEUjtBRE1FO0VBQ0UsVUFBQTtBQ0pKO0FET0U7RUFDRSxZQUFBO0VBQ0EsWUFBQTtBQ0xKO0FEU0E7RUFDRTtJQUNFLFlBQUE7SUFDQSxhQUFBO0VDTkY7RURRRTtJQUNFLFdBQUE7RUNOSjtBQUNGIiwiZmlsZSI6InByb2plY3RzL25neC1wYXR0ZXJuLWRlbW8vc3JjL2FwcC9zaGFyZWQvY2FyZC9jYXJkLmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLmNhcmQge1xuICBib3JkZXItcmFkaXVzOiA0cHg7XG4gIGJvcmRlcjogMXB4IHNvbGlkICNlZWU7XG4gIGJhY2tncm91bmQtY29sb3I6ICNmYWZhZmE7XG4gIGhlaWdodDogNDBweDtcbiAgd2lkdGg6IDIwMHB4O1xuICBtYXJnaW46IDAgOHB4IDE2cHg7XG4gIHBhZGRpbmc6IDE2cHg7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGZsZXgtZGlyZWN0aW9uOiByb3c7XG4gIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICBhbGlnbi1pdGVtczogY2VudGVyO1xuICB0cmFuc2l0aW9uOiBhbGwgMC4ycyBlYXNlLWluLW91dDtcbiAgbGluZS1oZWlnaHQ6IDI0cHg7XG4gIG91dGxpbmU6IDAgbm9uZTtcblxuICA6aG9zdCguYWN0aXZlKSAmIHtcbiAgICBib3JkZXItY29sb3I6ICMxOTc2RDI7XG4gIH1cblxuICA6aG9zdC1jb250ZXh0KC5jYXJkLWNvbnRhaW5lcikgJiB7XG4gICAgY3Vyc29yOiBwb2ludGVyO1xuXG4gICAgJjpub3QoOmxhc3QtY2hpbGQpIHtcbiAgICAgIG1hcmdpbi1yaWdodDogMDtcbiAgICB9XG5cbiAgICAmOmhvdmVyIHtcbiAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgtM3B4KTtcbiAgICAgIGJveC1zaGFkb3c6IDAgNHB4IDE3cHggcmdiYShibGFjaywgMC4zNSk7XG5cbiAgICAgIC5tYXRlcmlhbC1pY29ucyBwYXRoIHtcbiAgICAgICAgZmlsbDogcmdiKDEwNSwgMTAzLCAxMDMpO1xuICAgICAgfVxuICAgIH1cbiAgfVxuXG4gIHN2Zy5tYXRlcmlhbC1pY29ucyBwYXRoIHtcbiAgICBmaWxsOiAjODg4O1xuICB9XG5cbiAgJi5jYXJkLXNtYWxsIHtcbiAgICBoZWlnaHQ6IDE2cHg7XG4gICAgd2lkdGg6IDE2OHB4O1xuICB9XG59XG5cbkBtZWRpYSBzY3JlZW4gYW5kIChtYXgtd2lkdGg6IDc2N3B4KSB7XG4gIC5jYXJkIHtcbiAgICBoZWlnaHQ6IDE2cHg7XG4gICAgbWFyZ2luOiA4cHggMDtcblxuICAgIDpob3N0LWNvbnRleHQoLmNhcmQtY29udGFpbmVyKSAmIHtcbiAgICAgIHdpZHRoOiAxMDAlO1xuICAgIH1cbiAgfVxufVxuIiwiLmNhcmQge1xuICBib3JkZXItcmFkaXVzOiA0cHg7XG4gIGJvcmRlcjogMXB4IHNvbGlkICNlZWU7XG4gIGJhY2tncm91bmQtY29sb3I6ICNmYWZhZmE7XG4gIGhlaWdodDogNDBweDtcbiAgd2lkdGg6IDIwMHB4O1xuICBtYXJnaW46IDAgOHB4IDE2cHg7XG4gIHBhZGRpbmc6IDE2cHg7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGZsZXgtZGlyZWN0aW9uOiByb3c7XG4gIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICBhbGlnbi1pdGVtczogY2VudGVyO1xuICB0cmFuc2l0aW9uOiBhbGwgMC4ycyBlYXNlLWluLW91dDtcbiAgbGluZS1oZWlnaHQ6IDI0cHg7XG4gIG91dGxpbmU6IDAgbm9uZTtcbn1cbjpob3N0KC5hY3RpdmUpIC5jYXJkIHtcbiAgYm9yZGVyLWNvbG9yOiAjMTk3NkQyO1xufVxuOmhvc3QtY29udGV4dCguY2FyZC1jb250YWluZXIpIC5jYXJkIHtcbiAgY3Vyc29yOiBwb2ludGVyO1xufVxuOmhvc3QtY29udGV4dCguY2FyZC1jb250YWluZXIpIC5jYXJkOm5vdCg6bGFzdC1jaGlsZCkge1xuICBtYXJnaW4tcmlnaHQ6IDA7XG59XG46aG9zdC1jb250ZXh0KC5jYXJkLWNvbnRhaW5lcikgLmNhcmQ6aG92ZXIge1xuICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVkoLTNweCk7XG4gIGJveC1zaGFkb3c6IDAgNHB4IDE3cHggcmdiYSgwLCAwLCAwLCAwLjM1KTtcbn1cbjpob3N0LWNvbnRleHQoLmNhcmQtY29udGFpbmVyKSAuY2FyZDpob3ZlciAubWF0ZXJpYWwtaWNvbnMgcGF0aCB7XG4gIGZpbGw6ICM2OTY3Njc7XG59XG4uY2FyZCBzdmcubWF0ZXJpYWwtaWNvbnMgcGF0aCB7XG4gIGZpbGw6ICM4ODg7XG59XG4uY2FyZC5jYXJkLXNtYWxsIHtcbiAgaGVpZ2h0OiAxNnB4O1xuICB3aWR0aDogMTY4cHg7XG59XG5cbkBtZWRpYSBzY3JlZW4gYW5kIChtYXgtd2lkdGg6IDc2N3B4KSB7XG4gIC5jYXJkIHtcbiAgICBoZWlnaHQ6IDE2cHg7XG4gICAgbWFyZ2luOiA4cHggMDtcbiAgfVxuICA6aG9zdC1jb250ZXh0KC5jYXJkLWNvbnRhaW5lcikgLmNhcmQge1xuICAgIHdpZHRoOiAxMDAlO1xuICB9XG59Il19 */"]
+      styles: [".card[_ngcontent-%COMP%] {\n  border-radius: 4px;\n  border: 1px solid #eee;\n  background-color: #fafafa;\n  height: 40px;\n  width: 200px;\n  margin: 0 8px 16px;\n  padding: 16px;\n  display: flex;\n  flex-direction: row;\n  justify-content: center;\n  align-items: center;\n  transition: all 0.2s ease-in-out;\n  line-height: 24px;\n  outline: 0 none;\n}\n.active[_nghost-%COMP%]   .card[_ngcontent-%COMP%] {\n  border-color: #1976D2;\n}\n.card-container[_nghost-%COMP%]   .card[_ngcontent-%COMP%], .card-container   [_nghost-%COMP%]   .card[_ngcontent-%COMP%] {\n  cursor: pointer;\n}\n.card-container[_nghost-%COMP%]   .card[_ngcontent-%COMP%]:not(:last-child), .card-container   [_nghost-%COMP%]   .card[_ngcontent-%COMP%]:not(:last-child) {\n  margin-right: 0;\n}\n.card-container[_nghost-%COMP%]   .card[_ngcontent-%COMP%]:hover, .card-container   [_nghost-%COMP%]   .card[_ngcontent-%COMP%]:hover {\n  transform: translateY(-3px);\n  box-shadow: 0 4px 17px rgba(0, 0, 0, 0.35);\n}\n.card-container[_nghost-%COMP%]   .card[_ngcontent-%COMP%]:hover   .material-icons[_ngcontent-%COMP%]   path[_ngcontent-%COMP%], .card-container   [_nghost-%COMP%]   .card[_ngcontent-%COMP%]:hover   .material-icons[_ngcontent-%COMP%]   path[_ngcontent-%COMP%] {\n  fill: #696767;\n}\n.card[_ngcontent-%COMP%]   svg.material-icons[_ngcontent-%COMP%]   path[_ngcontent-%COMP%] {\n  fill: #888;\n}\n.card.card-small[_ngcontent-%COMP%] {\n  height: 16px;\n  width: 168px;\n}\n@media screen and (max-width: 767px) {\n  .card[_ngcontent-%COMP%] {\n    height: 16px;\n    margin: 8px 0;\n  }\n  .card-container[_nghost-%COMP%]   .card[_ngcontent-%COMP%], .card-container   [_nghost-%COMP%]   .card[_ngcontent-%COMP%] {\n    width: 100%;\n  }\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Wb2x1bWVzL0RhdGEvUHJvamVjdHMvYXZsYWRvdi9uZ3gtcGF0dGVybi9wcm9qZWN0cy9uZ3gtcGF0dGVybi1kZW1vL3NyYy9hcHAvc2hhcmVkL2NhcmQvY2FyZC5jb21wb25lbnQuc2NzcyIsInByb2plY3RzL25neC1wYXR0ZXJuLWRlbW8vc3JjL2FwcC9zaGFyZWQvY2FyZC9jYXJkLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0Usa0JBQUE7RUFDQSxzQkFBQTtFQUNBLHlCQUFBO0VBQ0EsWUFBQTtFQUNBLFlBQUE7RUFDQSxrQkFBQTtFQUNBLGFBQUE7RUFDQSxhQUFBO0VBQ0EsbUJBQUE7RUFDQSx1QkFBQTtFQUNBLG1CQUFBO0VBQ0EsZ0NBQUE7RUFDQSxpQkFBQTtFQUNBLGVBQUE7QUNDRjtBRENFO0VBQ0UscUJBQUE7QUNDSjtBREVFO0VBQ0UsZUFBQTtBQ0FKO0FERUk7RUFDRSxlQUFBO0FDQU47QURHSTtFQUNFLDJCQUFBO0VBQ0EsMENBQUE7QUNETjtBREdNO0VBQ0UsYUFBQTtBQ0RSO0FETUU7RUFDRSxVQUFBO0FDSko7QURPRTtFQUNFLFlBQUE7RUFDQSxZQUFBO0FDTEo7QURTQTtFQUNFO0lBQ0UsWUFBQTtJQUNBLGFBQUE7RUNORjtFRFFFO0lBQ0UsV0FBQTtFQ05KO0FBQ0YiLCJmaWxlIjoicHJvamVjdHMvbmd4LXBhdHRlcm4tZGVtby9zcmMvYXBwL3NoYXJlZC9jYXJkL2NhcmQuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuY2FyZCB7XG4gIGJvcmRlci1yYWRpdXM6IDRweDtcbiAgYm9yZGVyOiAxcHggc29saWQgI2VlZTtcbiAgYmFja2dyb3VuZC1jb2xvcjogI2ZhZmFmYTtcbiAgaGVpZ2h0OiA0MHB4O1xuICB3aWR0aDogMjAwcHg7XG4gIG1hcmdpbjogMCA4cHggMTZweDtcbiAgcGFkZGluZzogMTZweDtcbiAgZGlzcGxheTogZmxleDtcbiAgZmxleC1kaXJlY3Rpb246IHJvdztcbiAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG4gIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gIHRyYW5zaXRpb246IGFsbCAwLjJzIGVhc2UtaW4tb3V0O1xuICBsaW5lLWhlaWdodDogMjRweDtcbiAgb3V0bGluZTogMCBub25lO1xuXG4gIDpob3N0KC5hY3RpdmUpICYge1xuICAgIGJvcmRlci1jb2xvcjogIzE5NzZEMjtcbiAgfVxuXG4gIDpob3N0LWNvbnRleHQoLmNhcmQtY29udGFpbmVyKSAmIHtcbiAgICBjdXJzb3I6IHBvaW50ZXI7XG5cbiAgICAmOm5vdCg6bGFzdC1jaGlsZCkge1xuICAgICAgbWFyZ2luLXJpZ2h0OiAwO1xuICAgIH1cblxuICAgICY6aG92ZXIge1xuICAgICAgdHJhbnNmb3JtOiB0cmFuc2xhdGVZKC0zcHgpO1xuICAgICAgYm94LXNoYWRvdzogMCA0cHggMTdweCByZ2JhKGJsYWNrLCAwLjM1KTtcblxuICAgICAgLm1hdGVyaWFsLWljb25zIHBhdGgge1xuICAgICAgICBmaWxsOiByZ2IoMTA1LCAxMDMsIDEwMyk7XG4gICAgICB9XG4gICAgfVxuICB9XG5cbiAgc3ZnLm1hdGVyaWFsLWljb25zIHBhdGgge1xuICAgIGZpbGw6ICM4ODg7XG4gIH1cblxuICAmLmNhcmQtc21hbGwge1xuICAgIGhlaWdodDogMTZweDtcbiAgICB3aWR0aDogMTY4cHg7XG4gIH1cbn1cblxuQG1lZGlhIHNjcmVlbiBhbmQgKG1heC13aWR0aDogNzY3cHgpIHtcbiAgLmNhcmQge1xuICAgIGhlaWdodDogMTZweDtcbiAgICBtYXJnaW46IDhweCAwO1xuXG4gICAgOmhvc3QtY29udGV4dCguY2FyZC1jb250YWluZXIpICYge1xuICAgICAgd2lkdGg6IDEwMCU7XG4gICAgfVxuICB9XG59XG4iLCIuY2FyZCB7XG4gIGJvcmRlci1yYWRpdXM6IDRweDtcbiAgYm9yZGVyOiAxcHggc29saWQgI2VlZTtcbiAgYmFja2dyb3VuZC1jb2xvcjogI2ZhZmFmYTtcbiAgaGVpZ2h0OiA0MHB4O1xuICB3aWR0aDogMjAwcHg7XG4gIG1hcmdpbjogMCA4cHggMTZweDtcbiAgcGFkZGluZzogMTZweDtcbiAgZGlzcGxheTogZmxleDtcbiAgZmxleC1kaXJlY3Rpb246IHJvdztcbiAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG4gIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gIHRyYW5zaXRpb246IGFsbCAwLjJzIGVhc2UtaW4tb3V0O1xuICBsaW5lLWhlaWdodDogMjRweDtcbiAgb3V0bGluZTogMCBub25lO1xufVxuOmhvc3QoLmFjdGl2ZSkgLmNhcmQge1xuICBib3JkZXItY29sb3I6ICMxOTc2RDI7XG59XG46aG9zdC1jb250ZXh0KC5jYXJkLWNvbnRhaW5lcikgLmNhcmQge1xuICBjdXJzb3I6IHBvaW50ZXI7XG59XG46aG9zdC1jb250ZXh0KC5jYXJkLWNvbnRhaW5lcikgLmNhcmQ6bm90KDpsYXN0LWNoaWxkKSB7XG4gIG1hcmdpbi1yaWdodDogMDtcbn1cbjpob3N0LWNvbnRleHQoLmNhcmQtY29udGFpbmVyKSAuY2FyZDpob3ZlciB7XG4gIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgtM3B4KTtcbiAgYm94LXNoYWRvdzogMCA0cHggMTdweCByZ2JhKDAsIDAsIDAsIDAuMzUpO1xufVxuOmhvc3QtY29udGV4dCguY2FyZC1jb250YWluZXIpIC5jYXJkOmhvdmVyIC5tYXRlcmlhbC1pY29ucyBwYXRoIHtcbiAgZmlsbDogIzY5Njc2Nztcbn1cbi5jYXJkIHN2Zy5tYXRlcmlhbC1pY29ucyBwYXRoIHtcbiAgZmlsbDogIzg4ODtcbn1cbi5jYXJkLmNhcmQtc21hbGwge1xuICBoZWlnaHQ6IDE2cHg7XG4gIHdpZHRoOiAxNjhweDtcbn1cblxuQG1lZGlhIHNjcmVlbiBhbmQgKG1heC13aWR0aDogNzY3cHgpIHtcbiAgLmNhcmQge1xuICAgIGhlaWdodDogMTZweDtcbiAgICBtYXJnaW46IDhweCAwO1xuICB9XG4gIDpob3N0LWNvbnRleHQoLmNhcmQtY29udGFpbmVyKSAuY2FyZCB7XG4gICAgd2lkdGg6IDEwMCU7XG4gIH1cbn0iXX0= */"]
     });
     /*@__PURE__*/
 
@@ -107885,11 +107939,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "../../node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
+    "../../node_modules/@angular/core/fesm2015/core.js");
 
     var ForkMeRibbonComponent = /*#__PURE__*/function () {
       function ForkMeRibbonComponent() {
         _classCallCheck(this, ForkMeRibbonComponent);
+
+        this.repo = '';
       }
 
       _createClass2(ForkMeRibbonComponent, [{
@@ -107931,7 +107987,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("href", ctx.href, _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
         }
       },
-      styles: ["[_nghost-%COMP%] {\n  position: fixed;\n  right: 0;\n  top: 0;\n  z-index: 10;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL2FuZ2VsL1Byb2plY3RzL2F2bGFkb3Yvbmd4LXBhdHRlcm4vcHJvamVjdHMvbmd4LXBhdHRlcm4tZGVtby9zcmMvYXBwL3NoYXJlZC9mb3JrLW1lLXJpYmJvbi9mb3JrLW1lLXJpYmJvbi5jb21wb25lbnQuc2NzcyIsInByb2plY3RzL25neC1wYXR0ZXJuLWRlbW8vc3JjL2FwcC9zaGFyZWQvZm9yay1tZS1yaWJib24vZm9yay1tZS1yaWJib24uY29tcG9uZW50LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSxlQUFBO0VBQ0EsUUFBQTtFQUNBLE1BQUE7RUFDQSxXQUFBO0FDQ0YiLCJmaWxlIjoicHJvamVjdHMvbmd4LXBhdHRlcm4tZGVtby9zcmMvYXBwL3NoYXJlZC9mb3JrLW1lLXJpYmJvbi9mb3JrLW1lLXJpYmJvbi5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIjpob3N0IHtcbiAgcG9zaXRpb246IGZpeGVkO1xuICByaWdodDogMDtcbiAgdG9wOiAwO1xuICB6LWluZGV4OiAxMDtcbn1cbiIsIjpob3N0IHtcbiAgcG9zaXRpb246IGZpeGVkO1xuICByaWdodDogMDtcbiAgdG9wOiAwO1xuICB6LWluZGV4OiAxMDtcbn0iXX0= */"],
+      styles: ["[_nghost-%COMP%] {\n  position: fixed;\n  right: 0;\n  top: 0;\n  z-index: 10;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Wb2x1bWVzL0RhdGEvUHJvamVjdHMvYXZsYWRvdi9uZ3gtcGF0dGVybi9wcm9qZWN0cy9uZ3gtcGF0dGVybi1kZW1vL3NyYy9hcHAvc2hhcmVkL2ZvcmstbWUtcmliYm9uL2ZvcmstbWUtcmliYm9uLmNvbXBvbmVudC5zY3NzIiwicHJvamVjdHMvbmd4LXBhdHRlcm4tZGVtby9zcmMvYXBwL3NoYXJlZC9mb3JrLW1lLXJpYmJvbi9mb3JrLW1lLXJpYmJvbi5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLGVBQUE7RUFDQSxRQUFBO0VBQ0EsTUFBQTtFQUNBLFdBQUE7QUNDRiIsImZpbGUiOiJwcm9qZWN0cy9uZ3gtcGF0dGVybi1kZW1vL3NyYy9hcHAvc2hhcmVkL2ZvcmstbWUtcmliYm9uL2ZvcmstbWUtcmliYm9uLmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiOmhvc3Qge1xuICBwb3NpdGlvbjogZml4ZWQ7XG4gIHJpZ2h0OiAwO1xuICB0b3A6IDA7XG4gIHotaW5kZXg6IDEwO1xufVxuIiwiOmhvc3Qge1xuICBwb3NpdGlvbjogZml4ZWQ7XG4gIHJpZ2h0OiAwO1xuICB0b3A6IDA7XG4gIHotaW5kZXg6IDEwO1xufSJdfQ== */"],
       changeDetection: 0
     });
     /*@__PURE__*/
@@ -107981,7 +108037,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "../../node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
+    "../../node_modules/@angular/core/fesm2015/core.js");
 
     var _c0 = ["*"];
 
@@ -108024,7 +108080,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         }
       },
-      styles: ["@charset \"UTF-8\";\n[_nghost-%COMP%] {\n  position: relative;\n  width: 80%;\n  max-width: 600px;\n  border-radius: 6px;\n  padding-top: 45px;\n  margin-top: 8px;\n  overflow: hidden;\n  background-color: #0f0f10;\n}\n[_nghost-%COMP%]::before {\n  content: \"\u2022\u2022\u2022\";\n  position: absolute;\n  top: 0;\n  left: 0;\n  height: 4px;\n  background: #3a3a3a;\n  color: #c2c3c4;\n  width: 100%;\n  font-size: 2rem;\n  line-height: 0;\n  padding: 14px 0;\n  text-indent: 4px;\n}\npre[_ngcontent-%COMP%] {\n  font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;\n  color: white;\n  padding: 0 1rem 1rem;\n  margin: 0;\n}\n@media screen and (max-width: 767px) {\n  [_nghost-%COMP%] {\n    width: 100%;\n  }\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInByb2plY3RzL25neC1wYXR0ZXJuLWRlbW8vc3JjL2FwcC9zaGFyZWQvdGVybWluYWwvdGVybWluYWwuY29tcG9uZW50LnNjc3MiLCIvaG9tZS9hbmdlbC9Qcm9qZWN0cy9hdmxhZG92L25neC1wYXR0ZXJuL3Byb2plY3RzL25neC1wYXR0ZXJuLWRlbW8vc3JjL2FwcC9zaGFyZWQvdGVybWluYWwvdGVybWluYWwuY29tcG9uZW50LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsZ0JBQWdCO0FDQWhCO0VBQ0Usa0JBQUE7RUFDQSxVQUFBO0VBQ0EsZ0JBQUE7RUFDQSxrQkFBQTtFQUNBLGlCQUFBO0VBQ0EsZUFBQTtFQUNBLGdCQUFBO0VBQ0EseUJBQUE7QURFRjtBQ0FFO0VBQ0UsY0FBQTtFQUNBLGtCQUFBO0VBQ0EsTUFBQTtFQUNBLE9BQUE7RUFDQSxXQUFBO0VBQ0EsbUJBQUE7RUFDQSxjQUFBO0VBQ0EsV0FBQTtFQUNBLGVBQUE7RUFDQSxjQUFBO0VBQ0EsZUFBQTtFQUNBLGdCQUFBO0FERUo7QUNFQTtFQUNFLHdFQUFBO0VBQ0EsWUFBQTtFQUNBLG9CQUFBO0VBQ0EsU0FBQTtBRENGO0FDRUE7RUFDRTtJQUNFLFdBQUE7RURDRjtBQUNGIiwiZmlsZSI6InByb2plY3RzL25neC1wYXR0ZXJuLWRlbW8vc3JjL2FwcC9zaGFyZWQvdGVybWluYWwvdGVybWluYWwuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyJAY2hhcnNldCBcIlVURi04XCI7XG46aG9zdCB7XG4gIHBvc2l0aW9uOiByZWxhdGl2ZTtcbiAgd2lkdGg6IDgwJTtcbiAgbWF4LXdpZHRoOiA2MDBweDtcbiAgYm9yZGVyLXJhZGl1czogNnB4O1xuICBwYWRkaW5nLXRvcDogNDVweDtcbiAgbWFyZ2luLXRvcDogOHB4O1xuICBvdmVyZmxvdzogaGlkZGVuO1xuICBiYWNrZ3JvdW5kLWNvbG9yOiAjMGYwZjEwO1xufVxuOmhvc3Q6OmJlZm9yZSB7XG4gIGNvbnRlbnQ6IFwi4oCi4oCi4oCiXCI7XG4gIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgdG9wOiAwO1xuICBsZWZ0OiAwO1xuICBoZWlnaHQ6IDRweDtcbiAgYmFja2dyb3VuZDogIzNhM2EzYTtcbiAgY29sb3I6ICNjMmMzYzQ7XG4gIHdpZHRoOiAxMDAlO1xuICBmb250LXNpemU6IDJyZW07XG4gIGxpbmUtaGVpZ2h0OiAwO1xuICBwYWRkaW5nOiAxNHB4IDA7XG4gIHRleHQtaW5kZW50OiA0cHg7XG59XG5cbnByZSB7XG4gIGZvbnQtZmFtaWx5OiBTRk1vbm8tUmVndWxhciwgQ29uc29sYXMsIExpYmVyYXRpb24gTW9ubywgTWVubG8sIG1vbm9zcGFjZTtcbiAgY29sb3I6IHdoaXRlO1xuICBwYWRkaW5nOiAwIDFyZW0gMXJlbTtcbiAgbWFyZ2luOiAwO1xufVxuXG5AbWVkaWEgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA3NjdweCkge1xuICA6aG9zdCB7XG4gICAgd2lkdGg6IDEwMCU7XG4gIH1cbn0iLCI6aG9zdCB7XG4gIHBvc2l0aW9uOiByZWxhdGl2ZTtcbiAgd2lkdGg6IDgwJTtcbiAgbWF4LXdpZHRoOiA2MDBweDtcbiAgYm9yZGVyLXJhZGl1czogNnB4O1xuICBwYWRkaW5nLXRvcDogNDVweDtcbiAgbWFyZ2luLXRvcDogOHB4O1xuICBvdmVyZmxvdzogaGlkZGVuO1xuICBiYWNrZ3JvdW5kLWNvbG9yOiByZ2IoMTUsIDE1LCAxNik7XG5cbiAgJjo6YmVmb3JlIHtcbiAgICBjb250ZW50OiBcIlxcMjAyMiBcXDIwMjIgXFwyMDIyXCI7XG4gICAgcG9zaXRpb246IGFic29sdXRlO1xuICAgIHRvcDogMDtcbiAgICBsZWZ0OiAwO1xuICAgIGhlaWdodDogNHB4O1xuICAgIGJhY2tncm91bmQ6IHJnYig1OCwgNTgsIDU4KTtcbiAgICBjb2xvcjogI2MyYzNjNDtcbiAgICB3aWR0aDogMTAwJTtcbiAgICBmb250LXNpemU6IDJyZW07XG4gICAgbGluZS1oZWlnaHQ6IDA7XG4gICAgcGFkZGluZzogMTRweCAwO1xuICAgIHRleHQtaW5kZW50OiA0cHg7XG4gIH1cbn1cblxucHJlIHtcbiAgZm9udC1mYW1pbHk6IFNGTW9uby1SZWd1bGFyLENvbnNvbGFzLExpYmVyYXRpb24gTW9ubyxNZW5sbyxtb25vc3BhY2U7XG4gIGNvbG9yOiB3aGl0ZTtcbiAgcGFkZGluZzogMCAxcmVtIDFyZW07XG4gIG1hcmdpbjogMDtcbn1cblxuQG1lZGlhIHNjcmVlbiBhbmQgKG1heC13aWR0aDogNzY3cHgpIHtcbiAgOmhvc3Qge1xuICAgIHdpZHRoOiAxMDAlO1xuICB9XG59XG4iXX0= */"]
+      styles: ["@charset \"UTF-8\";\n[_nghost-%COMP%] {\n  position: relative;\n  width: 80%;\n  max-width: 600px;\n  border-radius: 6px;\n  padding-top: 45px;\n  margin-top: 8px;\n  overflow: hidden;\n  background-color: #0f0f10;\n}\n[_nghost-%COMP%]::before {\n  content: \"\u2022\u2022\u2022\";\n  position: absolute;\n  top: 0;\n  left: 0;\n  height: 4px;\n  background: #3a3a3a;\n  color: #c2c3c4;\n  width: 100%;\n  font-size: 2rem;\n  line-height: 0;\n  padding: 14px 0;\n  text-indent: 4px;\n}\npre[_ngcontent-%COMP%] {\n  font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;\n  color: white;\n  padding: 0 1rem 1rem;\n  margin: 0;\n}\n@media screen and (max-width: 767px) {\n  [_nghost-%COMP%] {\n    width: 100%;\n  }\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInByb2plY3RzL25neC1wYXR0ZXJuLWRlbW8vc3JjL2FwcC9zaGFyZWQvdGVybWluYWwvdGVybWluYWwuY29tcG9uZW50LnNjc3MiLCIvVm9sdW1lcy9EYXRhL1Byb2plY3RzL2F2bGFkb3Yvbmd4LXBhdHRlcm4vcHJvamVjdHMvbmd4LXBhdHRlcm4tZGVtby9zcmMvYXBwL3NoYXJlZC90ZXJtaW5hbC90ZXJtaW5hbC5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxnQkFBZ0I7QUNBaEI7RUFDRSxrQkFBQTtFQUNBLFVBQUE7RUFDQSxnQkFBQTtFQUNBLGtCQUFBO0VBQ0EsaUJBQUE7RUFDQSxlQUFBO0VBQ0EsZ0JBQUE7RUFDQSx5QkFBQTtBREVGO0FDQUU7RUFDRSxjQUFBO0VBQ0Esa0JBQUE7RUFDQSxNQUFBO0VBQ0EsT0FBQTtFQUNBLFdBQUE7RUFDQSxtQkFBQTtFQUNBLGNBQUE7RUFDQSxXQUFBO0VBQ0EsZUFBQTtFQUNBLGNBQUE7RUFDQSxlQUFBO0VBQ0EsZ0JBQUE7QURFSjtBQ0VBO0VBQ0Usd0VBQUE7RUFDQSxZQUFBO0VBQ0Esb0JBQUE7RUFDQSxTQUFBO0FEQ0Y7QUNFQTtFQUNFO0lBQ0UsV0FBQTtFRENGO0FBQ0YiLCJmaWxlIjoicHJvamVjdHMvbmd4LXBhdHRlcm4tZGVtby9zcmMvYXBwL3NoYXJlZC90ZXJtaW5hbC90ZXJtaW5hbC5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIkBjaGFyc2V0IFwiVVRGLThcIjtcbjpob3N0IHtcbiAgcG9zaXRpb246IHJlbGF0aXZlO1xuICB3aWR0aDogODAlO1xuICBtYXgtd2lkdGg6IDYwMHB4O1xuICBib3JkZXItcmFkaXVzOiA2cHg7XG4gIHBhZGRpbmctdG9wOiA0NXB4O1xuICBtYXJnaW4tdG9wOiA4cHg7XG4gIG92ZXJmbG93OiBoaWRkZW47XG4gIGJhY2tncm91bmQtY29sb3I6ICMwZjBmMTA7XG59XG46aG9zdDo6YmVmb3JlIHtcbiAgY29udGVudDogXCLigKLigKLigKJcIjtcbiAgcG9zaXRpb246IGFic29sdXRlO1xuICB0b3A6IDA7XG4gIGxlZnQ6IDA7XG4gIGhlaWdodDogNHB4O1xuICBiYWNrZ3JvdW5kOiAjM2EzYTNhO1xuICBjb2xvcjogI2MyYzNjNDtcbiAgd2lkdGg6IDEwMCU7XG4gIGZvbnQtc2l6ZTogMnJlbTtcbiAgbGluZS1oZWlnaHQ6IDA7XG4gIHBhZGRpbmc6IDE0cHggMDtcbiAgdGV4dC1pbmRlbnQ6IDRweDtcbn1cblxucHJlIHtcbiAgZm9udC1mYW1pbHk6IFNGTW9uby1SZWd1bGFyLCBDb25zb2xhcywgTGliZXJhdGlvbiBNb25vLCBNZW5sbywgbW9ub3NwYWNlO1xuICBjb2xvcjogd2hpdGU7XG4gIHBhZGRpbmc6IDAgMXJlbSAxcmVtO1xuICBtYXJnaW46IDA7XG59XG5cbkBtZWRpYSBzY3JlZW4gYW5kIChtYXgtd2lkdGg6IDc2N3B4KSB7XG4gIDpob3N0IHtcbiAgICB3aWR0aDogMTAwJTtcbiAgfVxufSIsIjpob3N0IHtcbiAgcG9zaXRpb246IHJlbGF0aXZlO1xuICB3aWR0aDogODAlO1xuICBtYXgtd2lkdGg6IDYwMHB4O1xuICBib3JkZXItcmFkaXVzOiA2cHg7XG4gIHBhZGRpbmctdG9wOiA0NXB4O1xuICBtYXJnaW4tdG9wOiA4cHg7XG4gIG92ZXJmbG93OiBoaWRkZW47XG4gIGJhY2tncm91bmQtY29sb3I6IHJnYigxNSwgMTUsIDE2KTtcblxuICAmOjpiZWZvcmUge1xuICAgIGNvbnRlbnQ6IFwiXFwyMDIyIFxcMjAyMiBcXDIwMjJcIjtcbiAgICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gICAgdG9wOiAwO1xuICAgIGxlZnQ6IDA7XG4gICAgaGVpZ2h0OiA0cHg7XG4gICAgYmFja2dyb3VuZDogcmdiKDU4LCA1OCwgNTgpO1xuICAgIGNvbG9yOiAjYzJjM2M0O1xuICAgIHdpZHRoOiAxMDAlO1xuICAgIGZvbnQtc2l6ZTogMnJlbTtcbiAgICBsaW5lLWhlaWdodDogMDtcbiAgICBwYWRkaW5nOiAxNHB4IDA7XG4gICAgdGV4dC1pbmRlbnQ6IDRweDtcbiAgfVxufVxuXG5wcmUge1xuICBmb250LWZhbWlseTogU0ZNb25vLVJlZ3VsYXIsQ29uc29sYXMsTGliZXJhdGlvbiBNb25vLE1lbmxvLG1vbm9zcGFjZTtcbiAgY29sb3I6IHdoaXRlO1xuICBwYWRkaW5nOiAwIDFyZW0gMXJlbTtcbiAgbWFyZ2luOiAwO1xufVxuXG5AbWVkaWEgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA3NjdweCkge1xuICA6aG9zdCB7XG4gICAgd2lkdGg6IDEwMCU7XG4gIH1cbn1cbiJdfQ== */"]
     });
     /*@__PURE__*/
 
@@ -108068,17 +108124,37 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "../../node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
+    "../../node_modules/@angular/core/fesm2015/core.js");
     /* harmony import */
 
 
-    var _fork_me_ribbon_fork_me_ribbon_component__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
+    var _environments_environment__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
+    /*! ../../../environments/environment */
+    "./src/environments/environment.ts");
+    /* harmony import */
+
+
+    var _fork_me_ribbon_fork_me_ribbon_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
     /*! ../fork-me-ribbon/fork-me-ribbon.component */
     "./src/app/shared/fork-me-ribbon/fork-me-ribbon.component.ts");
+    /* harmony import */
+
+
+    var _version_badge_version_badge_pipe__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
+    /*! ../version-badge/version-badge.pipe */
+    "./src/app/shared/version-badge/version-badge.pipe.ts");
+    /* harmony import */
+
+
+    var _version_alt_text_version_alt_text_pipe__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(
+    /*! ../version-alt-text/version-alt-text.pipe */
+    "./src/app/shared/version-alt-text/version-alt-text.pipe.ts");
 
     var ToolbarComponent = /*#__PURE__*/function () {
       function ToolbarComponent() {
         _classCallCheck(this, ToolbarComponent);
+
+        this.version = _environments_environment__WEBPACK_IMPORTED_MODULE_1__["environment"].version;
       }
 
       _createClass2(ToolbarComponent, [{
@@ -108096,42 +108172,54 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     ToolbarComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({
       type: ToolbarComponent,
       selectors: [["app-toolbar"]],
-      decls: 12,
-      vars: 0,
-      consts: [["role", "banner", 1, "toolbar"], ["width", "40", "alt", "Angular Logo", "src", "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj4KICAgIDxwYXRoIGZpbGw9IiNERDAwMzEiIGQ9Ik0xMjUgMzBMMzEuOSA2My4ybDE0LjIgMTIzLjFMMTI1IDIzMGw3OC45LTQzLjcgMTQuMi0xMjMuMXoiIC8+CiAgICA8cGF0aCBmaWxsPSIjQzMwMDJGIiBkPSJNMTI1IDMwdjIyLjItLjFWMjMwbDc4LjktNDMuNyAxNC4yLTEyMy4xTDEyNSAzMHoiIC8+CiAgICA8cGF0aCAgZmlsbD0iI0ZGRkZGRiIgZD0iTTEyNSA1Mi4xTDY2LjggMTgyLjZoMjEuN2wxMS43LTI5LjJoNDkuNGwxMS43IDI5LjJIMTgzTDEyNSA1Mi4xem0xNyA4My4zaC0zNGwxNy00MC45IDE3IDQwLjl6IiAvPgogIDwvc3ZnPg=="], [1, "spacer"], ["repo", "angel-vladov/ngx-pattern"], ["aria-label", "Github", "target", "_blank", "rel", "noopener", "href", "https://github.com/angel-vladov/ngx-pattern", "title", "Github"], ["id", "twitter-logo", "xmlns", "http://www.w3.org/2000/svg", "width", "24", "height", "24", "viewBox", "0 0 24 24"], ["d", "M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z", 1, "cls-1"]],
+      decls: 17,
+      vars: 6,
+      consts: [["role", "banner", 1, "toolbar"], ["width", "40", "alt", "Angular Logo", "src", "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj4KICAgIDxwYXRoIGZpbGw9IiNERDAwMzEiIGQ9Ik0xMjUgMzBMMzEuOSA2My4ybDE0LjIgMTIzLjFMMTI1IDIzMGw3OC45LTQzLjcgMTQuMi0xMjMuMXoiIC8+CiAgICA8cGF0aCBmaWxsPSIjQzMwMDJGIiBkPSJNMTI1IDMwdjIyLjItLjFWMjMwbDc4LjktNDMuNyAxNC4yLTEyMy4xTDEyNSAzMHoiIC8+CiAgICA8cGF0aCAgZmlsbD0iI0ZGRkZGRiIgZD0iTTEyNSA1Mi4xTDY2LjggMTgyLjZoMjEuN2wxMS43LTI5LjJoNDkuNGwxMS43IDI5LjJIMTgzTDEyNSA1Mi4xem0xNyA4My4zaC0zNGwxNy00MC45IDE3IDQwLjl6IiAvPgogIDwvc3ZnPg=="], [1, "name-badge", 3, "src", "alt"], [1, "sr-only"], [1, "spacer"], ["repo", "angel-vladov/ngx-pattern"], ["aria-label", "Github", "target", "_blank", "rel", "noopener", "href", "https://github.com/angel-vladov/ngx-pattern", "title", "Github"], ["id", "twitter-logo", "xmlns", "http://www.w3.org/2000/svg", "width", "24", "height", "24", "viewBox", "0 0 24 24"], ["d", "M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z", 1, "cls-1"]],
       template: function ToolbarComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "nav", 0);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "img", 1);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "span");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](2, "img", 2);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](3, "ngx-pattern Demo");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpipe"](3, "versionBadge");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpipe"](4, "versionAltText");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "span", 3);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](6, "ngx-pattern\xA0");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](4, "div", 2);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "span");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](5, "app-fork-me-ribbon", 3);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](8, "Demo");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](6, "a", 4);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](9, "div", 4);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](10, "app-fork-me-ribbon", 5);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "a", 6);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnamespaceSVG"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "svg", 5);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](12, "svg", 7);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](8, "defs");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](13, "defs");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](9, "style");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](14, "style");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](10, " .cls-1 { fill: #ffffff; } ");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](15, " .cls-1 { fill: #ffffff; } ");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](11, "path", 6);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](16, "path", 8);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -108139,9 +108227,16 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         }
+
+        if (rf & 2) {
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("src", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpipeBind1"](3, 2, ctx.version), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"])("alt", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpipeBind1"](4, 4, ctx.version));
+        }
       },
-      directives: [_fork_me_ribbon_fork_me_ribbon_component__WEBPACK_IMPORTED_MODULE_1__["ForkMeRibbonComponent"]],
-      styles: [".toolbar[_ngcontent-%COMP%] {\n  height: 60px;\n  margin: -8px;\n  display: flex;\n  align-items: center;\n  background-color: #1976d2;\n  color: white;\n  font-weight: 600;\n}\n.toolbar[_ngcontent-%COMP%]   img[_ngcontent-%COMP%] {\n  margin: 0 16px;\n}\n.toolbar[_ngcontent-%COMP%]   #twitter-logo[_ngcontent-%COMP%] {\n  height: 40px;\n  margin: 0 16px;\n}\n.toolbar[_ngcontent-%COMP%]   #twitter-logo[_ngcontent-%COMP%]:hover {\n  opacity: 0.8;\n}\n.spacer[_ngcontent-%COMP%] {\n  flex: 1;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL2FuZ2VsL1Byb2plY3RzL2F2bGFkb3Yvbmd4LXBhdHRlcm4vcHJvamVjdHMvbmd4LXBhdHRlcm4tZGVtby9zcmMvYXBwL3NoYXJlZC90b29sYmFyL3Rvb2xiYXIuY29tcG9uZW50LnNjc3MiLCJwcm9qZWN0cy9uZ3gtcGF0dGVybi1kZW1vL3NyYy9hcHAvc2hhcmVkL3Rvb2xiYXIvdG9vbGJhci5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLFlBQUE7RUFDQSxZQUFBO0VBQ0EsYUFBQTtFQUNBLG1CQUFBO0VBQ0EseUJBQUE7RUFDQSxZQUFBO0VBQ0EsZ0JBQUE7QUNDRjtBRENFO0VBQ0UsY0FBQTtBQ0NKO0FERUU7RUFDRSxZQUFBO0VBQ0EsY0FBQTtBQ0FKO0FERUk7RUFDRSxZQUFBO0FDQU47QURLQTtFQUNFLE9BQUE7QUNGRiIsImZpbGUiOiJwcm9qZWN0cy9uZ3gtcGF0dGVybi1kZW1vL3NyYy9hcHAvc2hhcmVkL3Rvb2xiYXIvdG9vbGJhci5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIi50b29sYmFyIHtcbiAgaGVpZ2h0OiA2MHB4O1xuICBtYXJnaW46IC04cHg7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gIGJhY2tncm91bmQtY29sb3I6ICMxOTc2ZDI7XG4gIGNvbG9yOiB3aGl0ZTtcbiAgZm9udC13ZWlnaHQ6IDYwMDtcblxuICBpbWcge1xuICAgIG1hcmdpbjogMCAxNnB4O1xuICB9XG5cbiAgI3R3aXR0ZXItbG9nbyB7XG4gICAgaGVpZ2h0OiA0MHB4O1xuICAgIG1hcmdpbjogMCAxNnB4O1xuXG4gICAgJjpob3ZlciB7XG4gICAgICBvcGFjaXR5OiAwLjg7XG4gICAgfVxuICB9XG59XG5cbi5zcGFjZXIge1xuICBmbGV4OiAxO1xufVxuIiwiLnRvb2xiYXIge1xuICBoZWlnaHQ6IDYwcHg7XG4gIG1hcmdpbjogLThweDtcbiAgZGlzcGxheTogZmxleDtcbiAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAgYmFja2dyb3VuZC1jb2xvcjogIzE5NzZkMjtcbiAgY29sb3I6IHdoaXRlO1xuICBmb250LXdlaWdodDogNjAwO1xufVxuLnRvb2xiYXIgaW1nIHtcbiAgbWFyZ2luOiAwIDE2cHg7XG59XG4udG9vbGJhciAjdHdpdHRlci1sb2dvIHtcbiAgaGVpZ2h0OiA0MHB4O1xuICBtYXJnaW46IDAgMTZweDtcbn1cbi50b29sYmFyICN0d2l0dGVyLWxvZ286aG92ZXIge1xuICBvcGFjaXR5OiAwLjg7XG59XG5cbi5zcGFjZXIge1xuICBmbGV4OiAxO1xufSJdfQ== */"]
+      directives: [_fork_me_ribbon_fork_me_ribbon_component__WEBPACK_IMPORTED_MODULE_2__["ForkMeRibbonComponent"]],
+      pipes: [_version_badge_version_badge_pipe__WEBPACK_IMPORTED_MODULE_3__["VersionBadgePipe"], _version_alt_text_version_alt_text_pipe__WEBPACK_IMPORTED_MODULE_4__["VersionAltTextPipe"]],
+      styles: [".toolbar[_ngcontent-%COMP%] {\n  height: 60px;\n  margin: -8px;\n  display: flex;\n  align-items: center;\n  background-color: #1976d2;\n  color: white;\n  font-weight: 600;\n}\n\nimg[_ngcontent-%COMP%] {\n  margin: 0 16px;\n}\n\n#twitter-logo[_ngcontent-%COMP%] {\n  height: 40px;\n  margin: 0 16px;\n}\n\n#twitter-logo[_ngcontent-%COMP%]:hover {\n  opacity: 0.8;\n}\n\n.sr-only[_ngcontent-%COMP%] {\n  display: none;\n}\n\n.name-badge[_ngcontent-%COMP%] {\n  margin-left: 0;\n  margin-right: 0.75em;\n}\n\n.spacer[_ngcontent-%COMP%] {\n  flex: 1;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Wb2x1bWVzL0RhdGEvUHJvamVjdHMvYXZsYWRvdi9uZ3gtcGF0dGVybi9wcm9qZWN0cy9uZ3gtcGF0dGVybi1kZW1vL3NyYy9hcHAvc2hhcmVkL3Rvb2xiYXIvdG9vbGJhci5jb21wb25lbnQuc2NzcyIsInByb2plY3RzL25neC1wYXR0ZXJuLWRlbW8vc3JjL2FwcC9zaGFyZWQvdG9vbGJhci90b29sYmFyLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsWUFBQTtFQUNBLFlBQUE7RUFDQSxhQUFBO0VBQ0EsbUJBQUE7RUFDQSx5QkFBQTtFQUNBLFlBQUE7RUFDQSxnQkFBQTtBQ0NGOztBREVBO0VBQ0UsY0FBQTtBQ0NGOztBREVBO0VBQ0UsWUFBQTtFQUNBLGNBQUE7QUNDRjs7QURDRTtFQUNFLFlBQUE7QUNDSjs7QURHQTtFQUNFLGFBQUE7QUNBRjs7QURHQTtFQUNFLGNBQUE7RUFDQSxvQkFBQTtBQ0FGOztBREdBO0VBQ0UsT0FBQTtBQ0FGIiwiZmlsZSI6InByb2plY3RzL25neC1wYXR0ZXJuLWRlbW8vc3JjL2FwcC9zaGFyZWQvdG9vbGJhci90b29sYmFyLmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLnRvb2xiYXIge1xuICBoZWlnaHQ6IDYwcHg7XG4gIG1hcmdpbjogLThweDtcbiAgZGlzcGxheTogZmxleDtcbiAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAgYmFja2dyb3VuZC1jb2xvcjogIzE5NzZkMjtcbiAgY29sb3I6IHdoaXRlO1xuICBmb250LXdlaWdodDogNjAwO1xufVxuXG5pbWcge1xuICBtYXJnaW46IDAgMTZweDtcbn1cblxuI3R3aXR0ZXItbG9nbyB7XG4gIGhlaWdodDogNDBweDtcbiAgbWFyZ2luOiAwIDE2cHg7XG5cbiAgJjpob3ZlciB7XG4gICAgb3BhY2l0eTogMC44O1xuICB9XG59XG5cbi5zci1vbmx5IHtcbiAgZGlzcGxheTogbm9uZTtcbn1cblxuLm5hbWUtYmFkZ2Uge1xuICBtYXJnaW4tbGVmdDogMDtcbiAgbWFyZ2luLXJpZ2h0OiAuNzVlbTtcbn1cblxuLnNwYWNlciB7XG4gIGZsZXg6IDE7XG59XG4iLCIudG9vbGJhciB7XG4gIGhlaWdodDogNjBweDtcbiAgbWFyZ2luOiAtOHB4O1xuICBkaXNwbGF5OiBmbGV4O1xuICBhbGlnbi1pdGVtczogY2VudGVyO1xuICBiYWNrZ3JvdW5kLWNvbG9yOiAjMTk3NmQyO1xuICBjb2xvcjogd2hpdGU7XG4gIGZvbnQtd2VpZ2h0OiA2MDA7XG59XG5cbmltZyB7XG4gIG1hcmdpbjogMCAxNnB4O1xufVxuXG4jdHdpdHRlci1sb2dvIHtcbiAgaGVpZ2h0OiA0MHB4O1xuICBtYXJnaW46IDAgMTZweDtcbn1cbiN0d2l0dGVyLWxvZ286aG92ZXIge1xuICBvcGFjaXR5OiAwLjg7XG59XG5cbi5zci1vbmx5IHtcbiAgZGlzcGxheTogbm9uZTtcbn1cblxuLm5hbWUtYmFkZ2Uge1xuICBtYXJnaW4tbGVmdDogMDtcbiAgbWFyZ2luLXJpZ2h0OiAwLjc1ZW07XG59XG5cbi5zcGFjZXIge1xuICBmbGV4OiAxO1xufSJdfQ== */"]
     });
     /*@__PURE__*/
 
@@ -108156,6 +108251,138 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }], function () {
         return [];
       }, null);
+    })();
+    /***/
+
+  },
+
+  /***/
+  "./src/app/shared/version-alt-text/version-alt-text.pipe.ts":
+  /*!******************************************************************!*\
+    !*** ./src/app/shared/version-alt-text/version-alt-text.pipe.ts ***!
+    \******************************************************************/
+
+  /*! exports provided: VersionAltTextPipe */
+
+  /***/
+  function srcAppSharedVersionAltTextVersionAltTextPipeTs(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "VersionAltTextPipe", function () {
+      return VersionAltTextPipe;
+    });
+    /* harmony import */
+
+
+    var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
+    /*! @angular/core */
+    "../../node_modules/@angular/core/fesm2015/core.js");
+
+    var VersionAltTextPipe = /*#__PURE__*/function () {
+      function VersionAltTextPipe() {
+        _classCallCheck(this, VersionAltTextPipe);
+
+        this.appName = 'ngx-pattern';
+      }
+
+      _createClass2(VersionAltTextPipe, [{
+        key: "transform",
+        value: function transform(version) {
+          return version ? "".concat(this.appName, " ").concat(version) : this.appName;
+        }
+      }]);
+
+      return VersionAltTextPipe;
+    }();
+
+    VersionAltTextPipe.ɵfac = function VersionAltTextPipe_Factory(t) {
+      return new (t || VersionAltTextPipe)();
+    };
+
+    VersionAltTextPipe.ɵpipe = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefinePipe"]({
+      name: "versionAltText",
+      type: VersionAltTextPipe,
+      pure: true
+    });
+    /*@__PURE__*/
+
+    (function () {
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](VersionAltTextPipe, [{
+        type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Pipe"],
+        args: [{
+          name: 'versionAltText'
+        }]
+      }], null, null);
+    })();
+    /***/
+
+  },
+
+  /***/
+  "./src/app/shared/version-badge/version-badge.pipe.ts":
+  /*!************************************************************!*\
+    !*** ./src/app/shared/version-badge/version-badge.pipe.ts ***!
+    \************************************************************/
+
+  /*! exports provided: VersionBadgePipe */
+
+  /***/
+  function srcAppSharedVersionBadgeVersionBadgePipeTs(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "VersionBadgePipe", function () {
+      return VersionBadgePipe;
+    });
+    /* harmony import */
+
+
+    var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
+    /*! @angular/core */
+    "../../node_modules/@angular/core/fesm2015/core.js");
+
+    var VersionBadgePipe = /*#__PURE__*/function () {
+      function VersionBadgePipe() {
+        _classCallCheck(this, VersionBadgePipe);
+
+        this.color = 'lightgrey';
+      }
+
+      _createClass2(VersionBadgePipe, [{
+        key: "transform",
+        value: function transform(version) {
+          return version ? "https://img.shields.io/badge/ngx--pattern-".concat(version, "-").concat(this.color, ".svg") : "https://img.shields.io/badge/ngx--pattern-".concat(this.color, ".svg");
+        }
+      }]);
+
+      return VersionBadgePipe;
+    }();
+
+    VersionBadgePipe.ɵfac = function VersionBadgePipe_Factory(t) {
+      return new (t || VersionBadgePipe)();
+    };
+
+    VersionBadgePipe.ɵpipe = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefinePipe"]({
+      name: "versionBadge",
+      type: VersionBadgePipe,
+      pure: true
+    });
+    /*@__PURE__*/
+
+    (function () {
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](VersionBadgePipe, [{
+        type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Pipe"],
+        args: [{
+          name: 'versionBadge'
+        }]
+      }], null, null);
     })();
     /***/
 
@@ -108179,13 +108406,24 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     __webpack_require__.d(__webpack_exports__, "environment", function () {
       return environment;
-    }); // This file can be replaced during build by using the `fileReplacements` array.
+    });
+    /* harmony import */
+
+
+    var _ngx_pattern_package_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
+    /*! ../../../ngx-pattern/package.json */
+    "../ngx-pattern/package.json");
+
+    var _ngx_pattern_package_json__WEBPACK_IMPORTED_MODULE_0___namespace = /*#__PURE__*/__webpack_require__.t(
+    /*! ../../../ngx-pattern/package.json */
+    "../ngx-pattern/package.json", 1); // This file can be replaced during build by using the `fileReplacements` array.
     // `ng build --prod` replaces `environment.ts` with `environment.prod.ts`.
     // The list of file replacements can be found in `angular.json`.
 
 
     var environment = {
-      production: false
+      production: false,
+      version: _ngx_pattern_package_json__WEBPACK_IMPORTED_MODULE_0__["version"]
     };
     /*
      * For easier debugging in development mode, you can import the following file
@@ -108217,7 +108455,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
     /*! @angular/core */
-    "../../node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
+    "../../node_modules/@angular/core/fesm2015/core.js");
     /* harmony import */
 
 
@@ -108235,7 +108473,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _angular_platform_browser__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
     /*! @angular/platform-browser */
-    "../../node_modules/@angular/platform-browser/__ivy_ngcc__/fesm2015/platform-browser.js");
+    "../../node_modules/@angular/platform-browser/fesm2015/platform-browser.js");
 
     if (_environments_environment__WEBPACK_IMPORTED_MODULE_1__["environment"].production) {
       Object(_angular_core__WEBPACK_IMPORTED_MODULE_0__["enableProdMode"])();
@@ -108259,7 +108497,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
   /***/
   function _(module, exports, __webpack_require__) {
     module.exports = __webpack_require__(
-    /*! /home/angel/Projects/avladov/ngx-pattern/projects/ngx-pattern-demo/src/main.ts */
+    /*! /Volumes/Data/Projects/avladov/ngx-pattern/projects/ngx-pattern-demo/src/main.ts */
     "./src/main.ts");
     /***/
   }

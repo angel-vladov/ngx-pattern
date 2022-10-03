@@ -13,9 +13,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["polyfills-es5"], {
   /***/
   "../../node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/es5-polyfills.js":
-  /*!*****************************************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/es5-polyfills.js ***!
-    \*****************************************************************************************************************************************/
+  /*!*******************************************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/es5-polyfills.js ***!
+    \*******************************************************************************************************************************************/
 
   /*! no exports provided */
 
@@ -893,9 +893,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/es/date/index.js":
-  /*!**************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/es/date/index.js ***!
-    \**************************************************************************************/
+  /*!****************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/es/date/index.js ***!
+    \****************************************************************************************/
 
   /*! no static exports found */
 
@@ -931,9 +931,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/es/math/index.js":
-  /*!**************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/es/math/index.js ***!
-    \**************************************************************************************/
+  /*!****************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/es/math/index.js ***!
+    \****************************************************************************************/
 
   /*! no static exports found */
 
@@ -1021,9 +1021,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/es/number/index.js":
-  /*!****************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/es/number/index.js ***!
-    \****************************************************************************************/
+  /*!******************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/es/number/index.js ***!
+    \******************************************************************************************/
 
   /*! no static exports found */
 
@@ -1087,9 +1087,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/es/symbol/index.js":
-  /*!****************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/es/symbol/index.js ***!
-    \****************************************************************************************/
+  /*!******************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/es/symbol/index.js ***!
+    \******************************************************************************************/
 
   /*! no static exports found */
 
@@ -1181,9 +1181,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/a-function.js":
-  /*!*********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/a-function.js ***!
-    \*********************************************************************************************/
+  /*!***********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/a-function.js ***!
+    \***********************************************************************************************/
 
   /*! no static exports found */
 
@@ -1202,9 +1202,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/a-possible-prototype.js":
-  /*!*******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/a-possible-prototype.js ***!
-    \*******************************************************************************************************/
+  /*!*********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/a-possible-prototype.js ***!
+    \*********************************************************************************************************/
 
   /*! no static exports found */
 
@@ -1227,9 +1227,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/add-to-unscopables.js":
-  /*!*****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/add-to-unscopables.js ***!
-    \*****************************************************************************************************/
+  /*!*******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/add-to-unscopables.js ***!
+    \*******************************************************************************************************/
 
   /*! no static exports found */
 
@@ -1268,9 +1268,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/advance-string-index.js":
-  /*!*******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/advance-string-index.js ***!
-    \*******************************************************************************************************/
+  /*!*********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/advance-string-index.js ***!
+    \*********************************************************************************************************/
 
   /*! no static exports found */
 
@@ -1293,9 +1293,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/an-instance.js":
-  /*!**********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/an-instance.js ***!
-    \**********************************************************************************************/
+  /*!************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/an-instance.js ***!
+    \************************************************************************************************/
 
   /*! no static exports found */
 
@@ -1314,9 +1314,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/an-object.js":
-  /*!********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/an-object.js ***!
-    \********************************************************************************************/
+  /*!**********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/an-object.js ***!
+    \**********************************************************************************************/
 
   /*! no static exports found */
 
@@ -1339,9 +1339,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/array-copy-within.js":
-  /*!****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/array-copy-within.js ***!
-    \****************************************************************************************************/
+  /*!******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/array-copy-within.js ***!
+    \******************************************************************************************************/
 
   /*! no static exports found */
 
@@ -1397,9 +1397,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/array-fill.js":
-  /*!*********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/array-fill.js ***!
-    \*********************************************************************************************/
+  /*!***********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/array-fill.js ***!
+    \***********************************************************************************************/
 
   /*! no static exports found */
 
@@ -1443,9 +1443,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/array-for-each.js":
-  /*!*************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/array-for-each.js ***!
-    \*************************************************************************************************/
+  /*!***************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/array-for-each.js ***!
+    \***************************************************************************************************/
 
   /*! no static exports found */
 
@@ -1479,9 +1479,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/array-from.js":
-  /*!*********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/array-from.js ***!
-    \*********************************************************************************************/
+  /*!***********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/array-from.js ***!
+    \***********************************************************************************************/
 
   /*! no static exports found */
 
@@ -1560,9 +1560,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/array-includes.js":
-  /*!*************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/array-includes.js ***!
-    \*************************************************************************************************/
+  /*!***************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/array-includes.js ***!
+    \***************************************************************************************************/
 
   /*! no static exports found */
 
@@ -1613,9 +1613,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/array-iteration.js":
-  /*!**************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/array-iteration.js ***!
-    \**************************************************************************************************/
+  /*!****************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/array-iteration.js ***!
+    \****************************************************************************************************/
 
   /*! no static exports found */
 
@@ -1720,9 +1720,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/array-last-index-of.js":
-  /*!******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/array-last-index-of.js ***!
-    \******************************************************************************************************/
+  /*!********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/array-last-index-of.js ***!
+    \********************************************************************************************************/
 
   /*! no static exports found */
 
@@ -1784,9 +1784,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/array-method-has-species-support.js":
-  /*!*******************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/array-method-has-species-support.js ***!
-    \*******************************************************************************************************************/
+  /*!*********************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/array-method-has-species-support.js ***!
+    \*********************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -1829,9 +1829,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/array-method-is-strict.js":
-  /*!*********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/array-method-is-strict.js ***!
-    \*********************************************************************************************************/
+  /*!***********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/array-method-is-strict.js ***!
+    \***********************************************************************************************************/
 
   /*! no static exports found */
 
@@ -1858,9 +1858,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/array-method-uses-to-length.js":
-  /*!**************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/array-method-uses-to-length.js ***!
-    \**************************************************************************************************************/
+  /*!****************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/array-method-uses-to-length.js ***!
+    \****************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -1910,9 +1910,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/array-reduce.js":
-  /*!***********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/array-reduce.js ***!
-    \***********************************************************************************************/
+  /*!*************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/array-reduce.js ***!
+    \*************************************************************************************************/
 
   /*! no static exports found */
 
@@ -1980,9 +1980,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/array-species-create.js":
-  /*!*******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/array-species-create.js ***!
-    \*******************************************************************************************************/
+  /*!*********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/array-species-create.js ***!
+    \*********************************************************************************************************/
 
   /*! no static exports found */
 
@@ -2023,9 +2023,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/call-with-safe-iteration-closing.js":
-  /*!*******************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/call-with-safe-iteration-closing.js ***!
-    \*******************************************************************************************************************/
+  /*!*********************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/call-with-safe-iteration-closing.js ***!
+    \*********************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -2051,9 +2051,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/check-correctness-of-iteration.js":
-  /*!*****************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/check-correctness-of-iteration.js ***!
-    \*****************************************************************************************************************/
+  /*!*******************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/check-correctness-of-iteration.js ***!
+    \*******************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -2121,9 +2121,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/classof-raw.js":
-  /*!**********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/classof-raw.js ***!
-    \**********************************************************************************************/
+  /*!************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/classof-raw.js ***!
+    \************************************************************************************************/
 
   /*! no static exports found */
 
@@ -2140,9 +2140,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/classof.js":
-  /*!******************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/classof.js ***!
-    \******************************************************************************************/
+  /*!********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/classof.js ***!
+    \********************************************************************************************/
 
   /*! no static exports found */
 
@@ -2187,9 +2187,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/collection-strong.js":
-  /*!****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/collection-strong.js ***!
-    \****************************************************************************************************/
+  /*!******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/collection-strong.js ***!
+    \******************************************************************************************************/
 
   /*! no static exports found */
 
@@ -2439,9 +2439,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/collection-weak.js":
-  /*!**************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/collection-weak.js ***!
-    \**************************************************************************************************/
+  /*!****************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/collection-weak.js ***!
+    \****************************************************************************************************/
 
   /*! no static exports found */
 
@@ -2594,9 +2594,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/collection.js":
-  /*!*********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/collection.js ***!
-    \*********************************************************************************************/
+  /*!***********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/collection.js ***!
+    \***********************************************************************************************/
 
   /*! no static exports found */
 
@@ -2748,9 +2748,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/copy-constructor-properties.js":
-  /*!**************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/copy-constructor-properties.js ***!
-    \**************************************************************************************************************/
+  /*!****************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/copy-constructor-properties.js ***!
+    \****************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -2788,9 +2788,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/correct-is-regexp-logic.js":
-  /*!**********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/correct-is-regexp-logic.js ***!
-    \**********************************************************************************************************/
+  /*!************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/correct-is-regexp-logic.js ***!
+    \************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -2824,9 +2824,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/correct-prototype-getter.js":
-  /*!***********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/correct-prototype-getter.js ***!
-    \***********************************************************************************************************/
+  /*!*************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/correct-prototype-getter.js ***!
+    \*************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -2849,9 +2849,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/create-html.js":
-  /*!**********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/create-html.js ***!
-    \**********************************************************************************************/
+  /*!************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/create-html.js ***!
+    \************************************************************************************************/
 
   /*! no static exports found */
 
@@ -2876,9 +2876,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/create-iterator-constructor.js":
-  /*!**************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/create-iterator-constructor.js ***!
-    \**************************************************************************************************************/
+  /*!****************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/create-iterator-constructor.js ***!
+    \****************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -2925,9 +2925,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/create-non-enumerable-property.js":
-  /*!*****************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/create-non-enumerable-property.js ***!
-    \*****************************************************************************************************************/
+  /*!*******************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/create-non-enumerable-property.js ***!
+    \*******************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -2956,9 +2956,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/create-property-descriptor.js":
-  /*!*************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/create-property-descriptor.js ***!
-    \*************************************************************************************************************/
+  /*!***************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/create-property-descriptor.js ***!
+    \***************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -2978,9 +2978,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/create-property.js":
-  /*!**************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/create-property.js ***!
-    \**************************************************************************************************/
+  /*!****************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/create-property.js ***!
+    \****************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3010,9 +3010,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/date-to-iso-string.js":
-  /*!*****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/date-to-iso-string.js ***!
-    \*****************************************************************************************************/
+  /*!*******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/date-to-iso-string.js ***!
+    \*******************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3052,9 +3052,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/date-to-primitive.js":
-  /*!****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/date-to-primitive.js ***!
-    \****************************************************************************************************/
+  /*!******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/date-to-primitive.js ***!
+    \******************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3083,9 +3083,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/define-iterator.js":
-  /*!**************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/define-iterator.js ***!
-    \**************************************************************************************************/
+  /*!****************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/define-iterator.js ***!
+    \****************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3244,9 +3244,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/define-well-known-symbol.js":
-  /*!***********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/define-well-known-symbol.js ***!
-    \***********************************************************************************************************/
+  /*!*************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/define-well-known-symbol.js ***!
+    \*************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3280,9 +3280,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/descriptors.js":
-  /*!**********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/descriptors.js ***!
-    \**********************************************************************************************/
+  /*!************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/descriptors.js ***!
+    \************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3305,9 +3305,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/document-create-element.js":
-  /*!**********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/document-create-element.js ***!
-    \**********************************************************************************************************/
+  /*!************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/document-create-element.js ***!
+    \************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3334,9 +3334,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/dom-iterables.js":
-  /*!************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/dom-iterables.js ***!
-    \************************************************************************************************/
+  /*!**************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/dom-iterables.js ***!
+    \**************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3382,9 +3382,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/engine-is-ios.js":
-  /*!************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/engine-is-ios.js ***!
-    \************************************************************************************************/
+  /*!**************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/engine-is-ios.js ***!
+    \**************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3400,9 +3400,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/engine-user-agent.js":
-  /*!****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/engine-user-agent.js ***!
-    \****************************************************************************************************/
+  /*!******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/engine-user-agent.js ***!
+    \******************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3418,9 +3418,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/engine-v8-version.js":
-  /*!****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/engine-v8-version.js ***!
-    \****************************************************************************************************/
+  /*!******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/engine-v8-version.js ***!
+    \******************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3457,9 +3457,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/enum-bug-keys.js":
-  /*!************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/enum-bug-keys.js ***!
-    \************************************************************************************************/
+  /*!**************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/enum-bug-keys.js ***!
+    \**************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3472,9 +3472,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/export.js":
-  /*!*****************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/export.js ***!
-    \*****************************************************************************************/
+  /*!*******************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/export.js ***!
+    \*******************************************************************************************/
 
   /*! no static exports found */
 
@@ -3567,9 +3567,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/fails.js":
-  /*!****************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/fails.js ***!
-    \****************************************************************************************/
+  /*!******************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/fails.js ***!
+    \******************************************************************************************/
 
   /*! no static exports found */
 
@@ -3588,9 +3588,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/fix-regexp-well-known-symbol-logic.js":
-  /*!*********************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/fix-regexp-well-known-symbol-logic.js ***!
-    \*********************************************************************************************************************/
+  /*!***********************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/fix-regexp-well-known-symbol-logic.js ***!
+    \***********************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3761,9 +3761,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/freezing.js":
-  /*!*******************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/freezing.js ***!
-    \*******************************************************************************************/
+  /*!*********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/freezing.js ***!
+    \*********************************************************************************************/
 
   /*! no static exports found */
 
@@ -3781,9 +3781,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/function-bind-context.js":
-  /*!********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/function-bind-context.js ***!
-    \********************************************************************************************************/
+  /*!**********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/function-bind-context.js ***!
+    \**********************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3832,9 +3832,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/function-bind.js":
-  /*!************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/function-bind.js ***!
-    \************************************************************************************************/
+  /*!**************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/function-bind.js ***!
+    \**************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3890,9 +3890,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/get-built-in.js":
-  /*!***********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/get-built-in.js ***!
-    \***********************************************************************************************/
+  /*!*************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/get-built-in.js ***!
+    \*************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3919,9 +3919,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/get-iterator-method.js":
-  /*!******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/get-iterator-method.js ***!
-    \******************************************************************************************************/
+  /*!********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/get-iterator-method.js ***!
+    \********************************************************************************************************/
 
   /*! no static exports found */
 
@@ -3950,9 +3950,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/global.js":
-  /*!*****************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/global.js ***!
-    \*****************************************************************************************/
+  /*!*******************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/global.js ***!
+    \*******************************************************************************************/
 
   /*! no static exports found */
 
@@ -3971,9 +3971,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/has.js":
-  /*!**************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/has.js ***!
-    \**************************************************************************************/
+  /*!****************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/has.js ***!
+    \****************************************************************************************/
 
   /*! no static exports found */
 
@@ -3990,9 +3990,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/hidden-keys.js":
-  /*!**********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/hidden-keys.js ***!
-    \**********************************************************************************************/
+  /*!************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/hidden-keys.js ***!
+    \************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4004,9 +4004,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/host-report-errors.js":
-  /*!*****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/host-report-errors.js ***!
-    \*****************************************************************************************************/
+  /*!*******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/host-report-errors.js ***!
+    \*******************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4029,9 +4029,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/html.js":
-  /*!***************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/html.js ***!
-    \***************************************************************************************/
+  /*!*****************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/html.js ***!
+    \*****************************************************************************************/
 
   /*! no static exports found */
 
@@ -4047,9 +4047,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/ie8-dom-define.js":
-  /*!*************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/ie8-dom-define.js ***!
-    \*************************************************************************************************/
+  /*!***************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/ie8-dom-define.js ***!
+    \***************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4080,9 +4080,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/indexed-object.js":
-  /*!*************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/indexed-object.js ***!
-    \*************************************************************************************************/
+  /*!***************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/indexed-object.js ***!
+    \***************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4110,9 +4110,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/inherit-if-required.js":
-  /*!******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/inherit-if-required.js ***!
-    \******************************************************************************************************/
+  /*!********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/inherit-if-required.js ***!
+    \********************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4140,9 +4140,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/inspect-source.js":
-  /*!*************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/inspect-source.js ***!
-    \*************************************************************************************************/
+  /*!***************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/inspect-source.js ***!
+    \***************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4166,9 +4166,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/internal-metadata.js":
-  /*!****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/internal-metadata.js ***!
-    \****************************************************************************************************/
+  /*!******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/internal-metadata.js ***!
+    \******************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4263,9 +4263,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/internal-state.js":
-  /*!*************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/internal-state.js ***!
-    \*************************************************************************************************/
+  /*!***************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/internal-state.js ***!
+    \***************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4366,9 +4366,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/is-array-iterator-method.js":
-  /*!***********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/is-array-iterator-method.js ***!
-    \***********************************************************************************************************/
+  /*!*************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/is-array-iterator-method.js ***!
+    \*************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4394,9 +4394,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/is-array.js":
-  /*!*******************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/is-array.js ***!
-    \*******************************************************************************************/
+  /*!*********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/is-array.js ***!
+    \*********************************************************************************************/
 
   /*! no static exports found */
 
@@ -4417,9 +4417,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/is-forced.js":
-  /*!********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/is-forced.js ***!
-    \********************************************************************************************/
+  /*!**********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/is-forced.js ***!
+    \**********************************************************************************************/
 
   /*! no static exports found */
 
@@ -4449,9 +4449,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/is-integer.js":
-  /*!*********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/is-integer.js ***!
-    \*********************************************************************************************/
+  /*!***********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/is-integer.js ***!
+    \***********************************************************************************************/
 
   /*! no static exports found */
 
@@ -4473,9 +4473,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/is-object.js":
-  /*!********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/is-object.js ***!
-    \********************************************************************************************/
+  /*!**********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/is-object.js ***!
+    \**********************************************************************************************/
 
   /*! no static exports found */
 
@@ -4490,9 +4490,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/is-pure.js":
-  /*!******************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/is-pure.js ***!
-    \******************************************************************************************/
+  /*!********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/is-pure.js ***!
+    \********************************************************************************************/
 
   /*! no static exports found */
 
@@ -4504,9 +4504,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/is-regexp.js":
-  /*!********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/is-regexp.js ***!
-    \********************************************************************************************/
+  /*!**********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/is-regexp.js ***!
+    \**********************************************************************************************/
 
   /*! no static exports found */
 
@@ -4537,9 +4537,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/iterate.js":
-  /*!******************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/iterate.js ***!
-    \******************************************************************************************/
+  /*!********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/iterate.js ***!
+    \********************************************************************************************/
 
   /*! no static exports found */
 
@@ -4615,9 +4615,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/iterators-core.js":
-  /*!*************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/iterators-core.js ***!
-    \*************************************************************************************************/
+  /*!***************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/iterators-core.js ***!
+    \***************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4680,9 +4680,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/iterators.js":
-  /*!********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/iterators.js ***!
-    \********************************************************************************************/
+  /*!**********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/iterators.js ***!
+    \**********************************************************************************************/
 
   /*! no static exports found */
 
@@ -4694,9 +4694,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/math-expm1.js":
-  /*!*********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/math-expm1.js ***!
-    \*********************************************************************************************/
+  /*!***********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/math-expm1.js ***!
+    \***********************************************************************************************/
 
   /*! no static exports found */
 
@@ -4716,9 +4716,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/math-fround.js":
-  /*!**********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/math-fround.js ***!
-    \**********************************************************************************************/
+  /*!************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/math-fround.js ***!
+    \************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4758,9 +4758,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/math-log1p.js":
-  /*!*********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/math-log1p.js ***!
-    \*********************************************************************************************/
+  /*!***********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/math-log1p.js ***!
+    \***********************************************************************************************/
 
   /*! no static exports found */
 
@@ -4778,9 +4778,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/math-sign.js":
-  /*!********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/math-sign.js ***!
-    \********************************************************************************************/
+  /*!**********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/math-sign.js ***!
+    \**********************************************************************************************/
 
   /*! no static exports found */
 
@@ -4798,9 +4798,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/microtask.js":
-  /*!********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/microtask.js ***!
-    \********************************************************************************************/
+  /*!**********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/microtask.js ***!
+    \**********************************************************************************************/
 
   /*! no static exports found */
 
@@ -4915,9 +4915,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/native-promise-constructor.js":
-  /*!*************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/native-promise-constructor.js ***!
-    \*************************************************************************************************************/
+  /*!***************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/native-promise-constructor.js ***!
+    \***************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4933,9 +4933,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/native-symbol.js":
-  /*!************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/native-symbol.js ***!
-    \************************************************************************************************/
+  /*!**************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/native-symbol.js ***!
+    \**************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4955,9 +4955,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/native-weak-map.js":
-  /*!**************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/native-weak-map.js ***!
-    \**************************************************************************************************/
+  /*!****************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/native-weak-map.js ***!
+    \****************************************************************************************************/
 
   /*! no static exports found */
 
@@ -4978,9 +4978,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/new-promise-capability.js":
-  /*!*********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/new-promise-capability.js ***!
-    \*********************************************************************************************************/
+  /*!***********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/new-promise-capability.js ***!
+    \***********************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5013,9 +5013,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/not-a-regexp.js":
-  /*!***********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/not-a-regexp.js ***!
-    \***********************************************************************************************/
+  /*!*************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/not-a-regexp.js ***!
+    \*************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5038,9 +5038,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/number-is-finite.js":
-  /*!***************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/number-is-finite.js ***!
-    \***************************************************************************************************/
+  /*!*****************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/number-is-finite.js ***!
+    \*****************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5062,9 +5062,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/number-parse-float.js":
-  /*!*****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/number-parse-float.js ***!
-    \*****************************************************************************************************/
+  /*!*******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/number-parse-float.js ***!
+    \*******************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5096,9 +5096,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/number-parse-int.js":
-  /*!***************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/number-parse-int.js ***!
-    \***************************************************************************************************/
+  /*!*****************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/number-parse-int.js ***!
+    \*****************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5130,9 +5130,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/object-assign.js":
-  /*!************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/object-assign.js ***!
-    \************************************************************************************************/
+  /*!**************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/object-assign.js ***!
+    \**************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5226,9 +5226,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/object-create.js":
-  /*!************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/object-create.js ***!
-    \************************************************************************************************/
+  /*!**************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/object-create.js ***!
+    \**************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5350,9 +5350,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/object-define-properties.js":
-  /*!***********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/object-define-properties.js ***!
-    \***********************************************************************************************************/
+  /*!*************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/object-define-properties.js ***!
+    \*************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5394,9 +5394,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/object-define-property.js":
-  /*!*********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/object-define-property.js ***!
-    \*********************************************************************************************************/
+  /*!***********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/object-define-property.js ***!
+    \***********************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5439,9 +5439,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/object-get-own-property-descriptor.js":
-  /*!*********************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/object-get-own-property-descriptor.js ***!
-    \*********************************************************************************************************************/
+  /*!***********************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/object-get-own-property-descriptor.js ***!
+    \***********************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5493,9 +5493,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/object-get-own-property-names-external.js":
-  /*!*************************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/object-get-own-property-names-external.js ***!
-    \*************************************************************************************************************************/
+  /*!***************************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/object-get-own-property-names-external.js ***!
+    \***************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5530,9 +5530,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/object-get-own-property-names.js":
-  /*!****************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/object-get-own-property-names.js ***!
-    \****************************************************************************************************************/
+  /*!******************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/object-get-own-property-names.js ***!
+    \******************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5558,9 +5558,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/object-get-own-property-symbols.js":
-  /*!******************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/object-get-own-property-symbols.js ***!
-    \******************************************************************************************************************/
+  /*!********************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/object-get-own-property-symbols.js ***!
+    \********************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5572,9 +5572,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/object-get-prototype-of.js":
-  /*!**********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/object-get-prototype-of.js ***!
-    \**********************************************************************************************************/
+  /*!************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/object-get-prototype-of.js ***!
+    \************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5615,9 +5615,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/object-keys-internal.js":
-  /*!*******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/object-keys-internal.js ***!
-    \*******************************************************************************************************/
+  /*!*********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/object-keys-internal.js ***!
+    \*********************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5664,9 +5664,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/object-keys.js":
-  /*!**********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/object-keys.js ***!
-    \**********************************************************************************************/
+  /*!************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/object-keys.js ***!
+    \************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5691,9 +5691,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/object-property-is-enumerable.js":
-  /*!****************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/object-property-is-enumerable.js ***!
-    \****************************************************************************************************************/
+  /*!******************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/object-property-is-enumerable.js ***!
+    \******************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5718,9 +5718,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/object-set-prototype-of.js":
-  /*!**********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/object-set-prototype-of.js ***!
-    \**********************************************************************************************************/
+  /*!************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/object-set-prototype-of.js ***!
+    \************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5764,9 +5764,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/object-to-string.js":
-  /*!***************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/object-to-string.js ***!
-    \***************************************************************************************************/
+  /*!*****************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/object-to-string.js ***!
+    \*****************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5792,9 +5792,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/own-keys.js":
-  /*!*******************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/own-keys.js ***!
-    \*******************************************************************************************/
+  /*!*********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/own-keys.js ***!
+    \*********************************************************************************************/
 
   /*! no static exports found */
 
@@ -5828,9 +5828,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/path.js":
-  /*!***************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/path.js ***!
-    \***************************************************************************************/
+  /*!*****************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/path.js ***!
+    \*****************************************************************************************/
 
   /*! no static exports found */
 
@@ -5846,9 +5846,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/perform.js":
-  /*!******************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/perform.js ***!
-    \******************************************************************************************/
+  /*!********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/perform.js ***!
+    \********************************************************************************************/
 
   /*! no static exports found */
 
@@ -5873,9 +5873,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/promise-resolve.js":
-  /*!**************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/promise-resolve.js ***!
-    \**************************************************************************************************/
+  /*!****************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/promise-resolve.js ***!
+    \****************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5907,9 +5907,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/redefine-all.js":
-  /*!***********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/redefine-all.js ***!
-    \***********************************************************************************************/
+  /*!*************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/redefine-all.js ***!
+    \*************************************************************************************************/
 
   /*! no static exports found */
 
@@ -5932,9 +5932,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/redefine.js":
-  /*!*******************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/redefine.js ***!
-    \*******************************************************************************************/
+  /*!*********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/redefine.js ***!
+    \*********************************************************************************************/
 
   /*! no static exports found */
 
@@ -5995,9 +5995,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/regexp-exec-abstract.js":
-  /*!*******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/regexp-exec-abstract.js ***!
-    \*******************************************************************************************************/
+  /*!*********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/regexp-exec-abstract.js ***!
+    \*********************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6038,9 +6038,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/regexp-exec.js":
-  /*!**********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/regexp-exec.js ***!
-    \**********************************************************************************************/
+  /*!************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/regexp-exec.js ***!
+    \************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6144,9 +6144,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/regexp-flags.js":
-  /*!***********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/regexp-flags.js ***!
-    \***********************************************************************************************/
+  /*!*************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/regexp-flags.js ***!
+    \*************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6177,9 +6177,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/regexp-sticky-helpers.js":
-  /*!********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/regexp-sticky-helpers.js ***!
-    \********************************************************************************************************/
+  /*!**********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/regexp-sticky-helpers.js ***!
+    \**********************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6214,9 +6214,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/require-object-coercible.js":
-  /*!***********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/require-object-coercible.js ***!
-    \***********************************************************************************************************/
+  /*!*************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/require-object-coercible.js ***!
+    \*************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6234,9 +6234,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/same-value.js":
-  /*!*********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/same-value.js ***!
-    \*********************************************************************************************/
+  /*!***********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/same-value.js ***!
+    \***********************************************************************************************/
 
   /*! no static exports found */
 
@@ -6254,9 +6254,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/set-global.js":
-  /*!*********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/set-global.js ***!
-    \*********************************************************************************************/
+  /*!***********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/set-global.js ***!
+    \***********************************************************************************************/
 
   /*! no static exports found */
 
@@ -6285,9 +6285,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/set-species.js":
-  /*!**********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/set-species.js ***!
-    \**********************************************************************************************/
+  /*!************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/set-species.js ***!
+    \************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6332,9 +6332,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/set-to-string-tag.js":
-  /*!****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/set-to-string-tag.js ***!
-    \****************************************************************************************************/
+  /*!******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/set-to-string-tag.js ***!
+    \******************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6368,9 +6368,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/shared-key.js":
-  /*!*********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/shared-key.js ***!
-    \*********************************************************************************************/
+  /*!***********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/shared-key.js ***!
+    \***********************************************************************************************/
 
   /*! no static exports found */
 
@@ -6395,9 +6395,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/shared-store.js":
-  /*!***********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/shared-store.js ***!
-    \***********************************************************************************************/
+  /*!*************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/shared-store.js ***!
+    \*************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6419,9 +6419,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/shared.js":
-  /*!*****************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/shared.js ***!
-    \*****************************************************************************************/
+  /*!*******************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/shared.js ***!
+    \*******************************************************************************************/
 
   /*! no static exports found */
 
@@ -6447,9 +6447,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/species-constructor.js":
-  /*!******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/species-constructor.js ***!
-    \******************************************************************************************************/
+  /*!********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/species-constructor.js ***!
+    \********************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6481,9 +6481,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/string-html-forced.js":
-  /*!*****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/string-html-forced.js ***!
-    \*****************************************************************************************************/
+  /*!*******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/string-html-forced.js ***!
+    \*******************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6507,9 +6507,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/string-multibyte.js":
-  /*!***************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/string-multibyte.js ***!
-    \***************************************************************************************************/
+  /*!*****************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/string-multibyte.js ***!
+    \*****************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6549,9 +6549,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/string-pad.js":
-  /*!*********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/string-pad.js ***!
-    \*********************************************************************************************/
+  /*!***********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/string-pad.js ***!
+    \***********************************************************************************************/
 
   /*! no static exports found */
 
@@ -6600,9 +6600,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/string-repeat.js":
-  /*!************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/string-repeat.js ***!
-    \************************************************************************************************/
+  /*!**************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/string-repeat.js ***!
+    \**************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6638,9 +6638,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/string-trim-forced.js":
-  /*!*****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/string-trim-forced.js ***!
-    \*****************************************************************************************************/
+  /*!*******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/string-trim-forced.js ***!
+    \*******************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6668,9 +6668,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/string-trim.js":
-  /*!**********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/string-trim.js ***!
-    \**********************************************************************************************/
+  /*!************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/string-trim.js ***!
+    \************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6713,9 +6713,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/task.js":
-  /*!***************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/task.js ***!
-    \***************************************************************************************/
+  /*!*****************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/task.js ***!
+    \*****************************************************************************************/
 
   /*! no static exports found */
 
@@ -6852,9 +6852,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/this-number-value.js":
-  /*!****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/this-number-value.js ***!
-    \****************************************************************************************************/
+  /*!******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/this-number-value.js ***!
+    \******************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6879,9 +6879,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/to-absolute-index.js":
-  /*!****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/to-absolute-index.js ***!
-    \****************************************************************************************************/
+  /*!******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/to-absolute-index.js ***!
+    \******************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6906,9 +6906,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/to-indexed-object.js":
-  /*!****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/to-indexed-object.js ***!
-    \****************************************************************************************************/
+  /*!******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/to-indexed-object.js ***!
+    \******************************************************************************************************/
 
   /*! no static exports found */
 
@@ -6932,9 +6932,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/to-integer.js":
-  /*!*********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/to-integer.js ***!
-    \*********************************************************************************************/
+  /*!***********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/to-integer.js ***!
+    \***********************************************************************************************/
 
   /*! no static exports found */
 
@@ -6953,9 +6953,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/to-length.js":
-  /*!********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/to-length.js ***!
-    \********************************************************************************************/
+  /*!**********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/to-length.js ***!
+    \**********************************************************************************************/
 
   /*! no static exports found */
 
@@ -6977,9 +6977,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/to-object.js":
-  /*!********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/to-object.js ***!
-    \********************************************************************************************/
+  /*!**********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/to-object.js ***!
+    \**********************************************************************************************/
 
   /*! no static exports found */
 
@@ -7000,9 +7000,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/to-primitive.js":
-  /*!***********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/to-primitive.js ***!
-    \***********************************************************************************************/
+  /*!*************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/to-primitive.js ***!
+    \*************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7030,9 +7030,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/to-string-tag-support.js":
-  /*!********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/to-string-tag-support.js ***!
-    \********************************************************************************************************/
+  /*!**********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/to-string-tag-support.js ***!
+    \**********************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7051,9 +7051,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/uid.js":
-  /*!**************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/uid.js ***!
-    \**************************************************************************************/
+  /*!****************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/uid.js ***!
+    \****************************************************************************************/
 
   /*! no static exports found */
 
@@ -7071,9 +7071,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/use-symbol-as-uid.js":
-  /*!****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/use-symbol-as-uid.js ***!
-    \****************************************************************************************************/
+  /*!******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/use-symbol-as-uid.js ***!
+    \******************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7091,9 +7091,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/well-known-symbol-wrapped.js":
-  /*!************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/well-known-symbol-wrapped.js ***!
-    \************************************************************************************************************/
+  /*!**************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/well-known-symbol-wrapped.js ***!
+    \**************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7109,9 +7109,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/well-known-symbol.js":
-  /*!****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/well-known-symbol.js ***!
-    \****************************************************************************************************/
+  /*!******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/well-known-symbol.js ***!
+    \******************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7158,9 +7158,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/internals/whitespaces.js":
-  /*!**********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/internals/whitespaces.js ***!
-    \**********************************************************************************************/
+  /*!************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/internals/whitespaces.js ***!
+    \************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7174,9 +7174,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.array.concat.js":
-  /*!************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.concat.js ***!
-    \************************************************************************************************/
+  /*!**************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.concat.js ***!
+    \**************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7288,9 +7288,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.array.copy-within.js":
-  /*!*****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.copy-within.js ***!
-    \*****************************************************************************************************/
+  /*!*******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.copy-within.js ***!
+    \*******************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7323,9 +7323,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.array.every.js":
-  /*!***********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.every.js ***!
-    \***********************************************************************************************/
+  /*!*************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.every.js ***!
+    \*************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7369,9 +7369,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.array.fill.js":
-  /*!**********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.fill.js ***!
-    \**********************************************************************************************/
+  /*!************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.fill.js ***!
+    \************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7404,9 +7404,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.array.filter.js":
-  /*!************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.filter.js ***!
-    \************************************************************************************************/
+  /*!**************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.filter.js ***!
+    \**************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7452,9 +7452,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.array.find-index.js":
-  /*!****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.find-index.js ***!
-    \****************************************************************************************************/
+  /*!******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.find-index.js ***!
+    \******************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7505,9 +7505,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.array.find.js":
-  /*!**********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.find.js ***!
-    \**********************************************************************************************/
+  /*!************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.find.js ***!
+    \************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7558,9 +7558,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.array.for-each.js":
-  /*!**************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.for-each.js ***!
-    \**************************************************************************************************/
+  /*!****************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.for-each.js ***!
+    \****************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7590,9 +7590,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.array.from.js":
-  /*!**********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.from.js ***!
-    \**********************************************************************************************/
+  /*!************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.from.js ***!
+    \************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7627,9 +7627,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.array.index-of.js":
-  /*!**************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.index-of.js ***!
-    \**************************************************************************************************/
+  /*!****************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.index-of.js ***!
+    \****************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7679,9 +7679,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.array.is-array.js":
-  /*!**************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.is-array.js ***!
-    \**************************************************************************************************/
+  /*!****************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.is-array.js ***!
+    \****************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7708,9 +7708,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.array.iterator.js":
-  /*!**************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.iterator.js ***!
-    \**************************************************************************************************/
+  /*!****************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.iterator.js ***!
+    \****************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7802,9 +7802,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.array.join.js":
-  /*!**********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.join.js ***!
-    \**********************************************************************************************/
+  /*!************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.join.js ***!
+    \************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7847,9 +7847,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.array.last-index-of.js":
-  /*!*******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.last-index-of.js ***!
-    \*******************************************************************************************************/
+  /*!*********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.last-index-of.js ***!
+    \*********************************************************************************************************/
 
   /*! no static exports found */
 
@@ -7877,9 +7877,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.array.map.js":
-  /*!*********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.map.js ***!
-    \*********************************************************************************************/
+  /*!***********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.map.js ***!
+    \***********************************************************************************************/
 
   /*! no static exports found */
 
@@ -7925,9 +7925,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.array.of.js":
-  /*!********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.of.js ***!
-    \********************************************************************************************/
+  /*!**********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.of.js ***!
+    \**********************************************************************************************/
 
   /*! no static exports found */
 
@@ -7982,9 +7982,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.array.reduce-right.js":
-  /*!******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.reduce-right.js ***!
-    \******************************************************************************************************/
+  /*!********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.reduce-right.js ***!
+    \********************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8031,9 +8031,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.array.reduce.js":
-  /*!************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.reduce.js ***!
-    \************************************************************************************************/
+  /*!**************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.reduce.js ***!
+    \**************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8079,9 +8079,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.array.slice.js":
-  /*!***********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.slice.js ***!
-    \***********************************************************************************************/
+  /*!*************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.slice.js ***!
+    \*************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8184,9 +8184,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.array.some.js":
-  /*!**********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.some.js ***!
-    \**********************************************************************************************/
+  /*!************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.some.js ***!
+    \************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8230,9 +8230,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.array.sort.js":
-  /*!**********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.sort.js ***!
-    \**********************************************************************************************/
+  /*!************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.sort.js ***!
+    \************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8289,9 +8289,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.array.splice.js":
-  /*!************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.splice.js ***!
-    \************************************************************************************************/
+  /*!**************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.array.splice.js ***!
+    \**************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8416,9 +8416,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.date.now.js":
-  /*!********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.date.now.js ***!
-    \********************************************************************************************/
+  /*!**********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.date.now.js ***!
+    \**********************************************************************************************/
 
   /*! no static exports found */
 
@@ -8443,9 +8443,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.date.to-iso-string.js":
-  /*!******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.date.to-iso-string.js ***!
-    \******************************************************************************************************/
+  /*!********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.date.to-iso-string.js ***!
+    \********************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8474,9 +8474,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.date.to-json.js":
-  /*!************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.date.to-json.js ***!
-    \************************************************************************************************/
+  /*!**************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.date.to-json.js ***!
+    \**************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8526,9 +8526,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.date.to-primitive.js":
-  /*!*****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.date.to-primitive.js ***!
-    \*****************************************************************************************************/
+  /*!*******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.date.to-primitive.js ***!
+    \*******************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8559,9 +8559,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.date.to-string.js":
-  /*!**************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.date.to-string.js ***!
-    \**************************************************************************************************/
+  /*!****************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.date.to-string.js ***!
+    \****************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8591,9 +8591,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.function.bind.js":
-  /*!*************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.function.bind.js ***!
-    \*************************************************************************************************/
+  /*!***************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.function.bind.js ***!
+    \***************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8620,9 +8620,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.function.has-instance.js":
-  /*!*********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.function.has-instance.js ***!
-    \*********************************************************************************************************/
+  /*!***********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.function.has-instance.js ***!
+    \***********************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8670,9 +8670,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.function.name.js":
-  /*!*************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.function.name.js ***!
-    \*************************************************************************************************/
+  /*!***************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.function.name.js ***!
+    \***************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8710,9 +8710,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.json.to-string-tag.js":
-  /*!******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.json.to-string-tag.js ***!
-    \******************************************************************************************************/
+  /*!********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.json.to-string-tag.js ***!
+    \********************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8734,9 +8734,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.map.js":
-  /*!***************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.map.js ***!
-    \***************************************************************************************/
+  /*!*****************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.map.js ***!
+    \*****************************************************************************************/
 
   /*! no static exports found */
 
@@ -8764,9 +8764,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.math.acosh.js":
-  /*!**********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.math.acosh.js ***!
-    \**********************************************************************************************/
+  /*!************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.math.acosh.js ***!
+    \************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8803,9 +8803,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.math.asinh.js":
-  /*!**********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.math.asinh.js ***!
-    \**********************************************************************************************/
+  /*!************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.math.asinh.js ***!
+    \************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8838,9 +8838,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.math.atanh.js":
-  /*!**********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.math.atanh.js ***!
-    \**********************************************************************************************/
+  /*!************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.math.atanh.js ***!
+    \************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8869,9 +8869,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.math.cbrt.js":
-  /*!*********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.math.cbrt.js ***!
-    \*********************************************************************************************/
+  /*!***********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.math.cbrt.js ***!
+    \***********************************************************************************************/
 
   /*! no static exports found */
 
@@ -8902,9 +8902,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.math.clz32.js":
-  /*!**********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.math.clz32.js ***!
-    \**********************************************************************************************/
+  /*!************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.math.clz32.js ***!
+    \************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8932,9 +8932,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.math.cosh.js":
-  /*!*********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.math.cosh.js ***!
-    \*********************************************************************************************/
+  /*!***********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.math.cosh.js ***!
+    \***********************************************************************************************/
 
   /*! no static exports found */
 
@@ -8968,9 +8968,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.math.expm1.js":
-  /*!**********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.math.expm1.js ***!
-    \**********************************************************************************************/
+  /*!************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.math.expm1.js ***!
+    \************************************************************************************************/
 
   /*! no static exports found */
 
@@ -8998,9 +8998,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.math.fround.js":
-  /*!***********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.math.fround.js ***!
-    \***********************************************************************************************/
+  /*!*************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.math.fround.js ***!
+    \*************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9027,9 +9027,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.math.hypot.js":
-  /*!**********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.math.hypot.js ***!
-    \**********************************************************************************************/
+  /*!************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.math.hypot.js ***!
+    \************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9081,9 +9081,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.math.imul.js":
-  /*!*********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.math.imul.js ***!
-    \*********************************************************************************************/
+  /*!***********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.math.imul.js ***!
+    \***********************************************************************************************/
 
   /*! no static exports found */
 
@@ -9123,9 +9123,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.math.log10.js":
-  /*!**********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.math.log10.js ***!
-    \**********************************************************************************************/
+  /*!************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.math.log10.js ***!
+    \************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9152,9 +9152,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.math.log1p.js":
-  /*!**********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.math.log1p.js ***!
-    \**********************************************************************************************/
+  /*!************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.math.log1p.js ***!
+    \************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9181,9 +9181,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.math.log2.js":
-  /*!*********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.math.log2.js ***!
-    \*********************************************************************************************/
+  /*!***********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.math.log2.js ***!
+    \***********************************************************************************************/
 
   /*! no static exports found */
 
@@ -9210,9 +9210,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.math.sign.js":
-  /*!*********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.math.sign.js ***!
-    \*********************************************************************************************/
+  /*!***********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.math.sign.js ***!
+    \***********************************************************************************************/
 
   /*! no static exports found */
 
@@ -9239,9 +9239,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.math.sinh.js":
-  /*!*********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.math.sinh.js ***!
-    \*********************************************************************************************/
+  /*!***********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.math.sinh.js ***!
+    \***********************************************************************************************/
 
   /*! no static exports found */
 
@@ -9282,9 +9282,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.math.tanh.js":
-  /*!*********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.math.tanh.js ***!
-    \*********************************************************************************************/
+  /*!***********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.math.tanh.js ***!
+    \***********************************************************************************************/
 
   /*! no static exports found */
 
@@ -9316,9 +9316,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.math.to-string-tag.js":
-  /*!******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.math.to-string-tag.js ***!
-    \******************************************************************************************************/
+  /*!********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.math.to-string-tag.js ***!
+    \********************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9336,9 +9336,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.math.trunc.js":
-  /*!**********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.math.trunc.js ***!
-    \**********************************************************************************************/
+  /*!************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.math.trunc.js ***!
+    \************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9365,9 +9365,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.number.constructor.js":
-  /*!******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.number.constructor.js ***!
-    \******************************************************************************************************/
+  /*!********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.number.constructor.js ***!
+    \********************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9516,9 +9516,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.number.epsilon.js":
-  /*!**************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.number.epsilon.js ***!
-    \**************************************************************************************************/
+  /*!****************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.number.epsilon.js ***!
+    \****************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9541,9 +9541,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.number.is-finite.js":
-  /*!****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.number.is-finite.js ***!
-    \****************************************************************************************************/
+  /*!******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.number.is-finite.js ***!
+    \******************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9570,9 +9570,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.number.is-integer.js":
-  /*!*****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.number.is-integer.js ***!
-    \*****************************************************************************************************/
+  /*!*******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.number.is-integer.js ***!
+    \*******************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9599,9 +9599,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.number.is-nan.js":
-  /*!*************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.number.is-nan.js ***!
-    \*************************************************************************************************/
+  /*!***************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.number.is-nan.js ***!
+    \***************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9627,9 +9627,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.number.is-safe-integer.js":
-  /*!**********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.number.is-safe-integer.js ***!
-    \**********************************************************************************************************/
+  /*!************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.number.is-safe-integer.js ***!
+    \************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9659,9 +9659,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.number.max-safe-integer.js":
-  /*!***********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.number.max-safe-integer.js ***!
-    \***********************************************************************************************************/
+  /*!*************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.number.max-safe-integer.js ***!
+    \*************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9684,9 +9684,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.number.min-safe-integer.js":
-  /*!***********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.number.min-safe-integer.js ***!
-    \***********************************************************************************************************/
+  /*!*************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.number.min-safe-integer.js ***!
+    \*************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9709,9 +9709,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.number.parse-float.js":
-  /*!******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.number.parse-float.js ***!
-    \******************************************************************************************************/
+  /*!********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.number.parse-float.js ***!
+    \********************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9739,9 +9739,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.number.parse-int.js":
-  /*!****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.number.parse-int.js ***!
-    \****************************************************************************************************/
+  /*!******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.number.parse-int.js ***!
+    \******************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9769,9 +9769,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.number.to-fixed.js":
-  /*!***************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.number.to-fixed.js ***!
-    \***************************************************************************************************/
+  /*!*****************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.number.to-fixed.js ***!
+    \*****************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9938,9 +9938,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.number.to-precision.js":
-  /*!*******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.number.to-precision.js ***!
-    \*******************************************************************************************************/
+  /*!*********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.number.to-precision.js ***!
+    \*********************************************************************************************************/
 
   /*! no static exports found */
 
@@ -9984,9 +9984,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.object.assign.js":
-  /*!*************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.object.assign.js ***!
-    \*************************************************************************************************/
+  /*!***************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.object.assign.js ***!
+    \***************************************************************************************************/
 
   /*! no static exports found */
 
@@ -10014,9 +10014,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.object.create.js":
-  /*!*************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.object.create.js ***!
-    \*************************************************************************************************/
+  /*!***************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.object.create.js ***!
+    \***************************************************************************************************/
 
   /*! no static exports found */
 
@@ -10048,9 +10048,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.object.define-properties.js":
-  /*!************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.object.define-properties.js ***!
-    \************************************************************************************************************/
+  /*!**************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.object.define-properties.js ***!
+    \**************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -10083,9 +10083,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.object.define-property.js":
-  /*!**********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.object.define-property.js ***!
-    \**********************************************************************************************************/
+  /*!************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.object.define-property.js ***!
+    \************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -10118,9 +10118,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.object.freeze.js":
-  /*!*************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.object.freeze.js ***!
-    \*************************************************************************************************/
+  /*!***************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.object.freeze.js ***!
+    \***************************************************************************************************/
 
   /*! no static exports found */
 
@@ -10167,9 +10167,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.object.get-own-property-descriptor.js":
-  /*!**********************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.object.get-own-property-descriptor.js ***!
-    \**********************************************************************************************************************/
+  /*!************************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.object.get-own-property-descriptor.js ***!
+    \************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -10216,9 +10216,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.object.get-own-property-names.js":
-  /*!*****************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.object.get-own-property-names.js ***!
-    \*****************************************************************************************************************/
+  /*!*******************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.object.get-own-property-names.js ***!
+    \*******************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -10253,9 +10253,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.object.get-prototype-of.js":
-  /*!***********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.object.get-prototype-of.js ***!
-    \***********************************************************************************************************/
+  /*!*************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.object.get-prototype-of.js ***!
+    \*************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -10301,9 +10301,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.object.is-extensible.js":
-  /*!********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.object.is-extensible.js ***!
-    \********************************************************************************************************/
+  /*!**********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.object.is-extensible.js ***!
+    \**********************************************************************************************************/
 
   /*! no static exports found */
 
@@ -10341,9 +10341,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.object.is-frozen.js":
-  /*!****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.object.is-frozen.js ***!
-    \****************************************************************************************************/
+  /*!******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.object.is-frozen.js ***!
+    \******************************************************************************************************/
 
   /*! no static exports found */
 
@@ -10381,9 +10381,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.object.is-sealed.js":
-  /*!****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.object.is-sealed.js ***!
-    \****************************************************************************************************/
+  /*!******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.object.is-sealed.js ***!
+    \******************************************************************************************************/
 
   /*! no static exports found */
 
@@ -10421,9 +10421,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.object.is.js":
-  /*!*********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.object.is.js ***!
-    \*********************************************************************************************/
+  /*!***********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.object.is.js ***!
+    \***********************************************************************************************/
 
   /*! no static exports found */
 
@@ -10450,9 +10450,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.object.keys.js":
-  /*!***********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.object.keys.js ***!
-    \***********************************************************************************************/
+  /*!*************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.object.keys.js ***!
+    \*************************************************************************************************/
 
   /*! no static exports found */
 
@@ -10493,9 +10493,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.object.prevent-extensions.js":
-  /*!*************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.object.prevent-extensions.js ***!
-    \*************************************************************************************************************/
+  /*!***************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.object.prevent-extensions.js ***!
+    \***************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -10542,9 +10542,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.object.seal.js":
-  /*!***********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.object.seal.js ***!
-    \***********************************************************************************************/
+  /*!*************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.object.seal.js ***!
+    \*************************************************************************************************/
 
   /*! no static exports found */
 
@@ -10591,9 +10591,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.object.set-prototype-of.js":
-  /*!***********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.object.set-prototype-of.js ***!
-    \***********************************************************************************************************/
+  /*!*************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.object.set-prototype-of.js ***!
+    \*************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -10620,9 +10620,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.object.to-string.js":
-  /*!****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.object.to-string.js ***!
-    \****************************************************************************************************/
+  /*!******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.object.to-string.js ***!
+    \******************************************************************************************************/
 
   /*! no static exports found */
 
@@ -10653,9 +10653,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.parse-float.js":
-  /*!***********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.parse-float.js ***!
-    \***********************************************************************************************/
+  /*!*************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.parse-float.js ***!
+    \*************************************************************************************************/
 
   /*! no static exports found */
 
@@ -10682,9 +10682,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.parse-int.js":
-  /*!*********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.parse-int.js ***!
-    \*********************************************************************************************/
+  /*!***********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.parse-int.js ***!
+    \***********************************************************************************************/
 
   /*! no static exports found */
 
@@ -10711,9 +10711,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.promise.js":
-  /*!*******************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.promise.js ***!
-    \*******************************************************************************************/
+  /*!*********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.promise.js ***!
+    \*********************************************************************************************/
 
   /*! no static exports found */
 
@@ -11225,9 +11225,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.regexp.constructor.js":
-  /*!******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.regexp.constructor.js ***!
-    \******************************************************************************************************/
+  /*!********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.regexp.constructor.js ***!
+    \********************************************************************************************************/
 
   /*! no static exports found */
 
@@ -11365,9 +11365,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.regexp.exec.js":
-  /*!***********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.regexp.exec.js ***!
-    \***********************************************************************************************/
+  /*!*************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.regexp.exec.js ***!
+    \*************************************************************************************************/
 
   /*! no static exports found */
 
@@ -11395,9 +11395,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.regexp.flags.js":
-  /*!************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.regexp.flags.js ***!
-    \************************************************************************************************/
+  /*!**************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.regexp.flags.js ***!
+    \**************************************************************************************************/
 
   /*! no static exports found */
 
@@ -11433,9 +11433,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.regexp.to-string.js":
-  /*!****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.regexp.to-string.js ***!
-    \****************************************************************************************************/
+  /*!******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.regexp.to-string.js ***!
+    \******************************************************************************************************/
 
   /*! no static exports found */
 
@@ -11489,9 +11489,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.set.js":
-  /*!***************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.set.js ***!
-    \***************************************************************************************/
+  /*!*****************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.set.js ***!
+    \*****************************************************************************************/
 
   /*! no static exports found */
 
@@ -11519,9 +11519,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.string.anchor.js":
-  /*!*************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.anchor.js ***!
-    \*************************************************************************************************/
+  /*!***************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.anchor.js ***!
+    \***************************************************************************************************/
 
   /*! no static exports found */
 
@@ -11557,9 +11557,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.string.big.js":
-  /*!**********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.big.js ***!
-    \**********************************************************************************************/
+  /*!************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.big.js ***!
+    \************************************************************************************************/
 
   /*! no static exports found */
 
@@ -11595,9 +11595,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.string.blink.js":
-  /*!************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.blink.js ***!
-    \************************************************************************************************/
+  /*!**************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.blink.js ***!
+    \**************************************************************************************************/
 
   /*! no static exports found */
 
@@ -11633,9 +11633,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.string.bold.js":
-  /*!***********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.bold.js ***!
-    \***********************************************************************************************/
+  /*!*************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.bold.js ***!
+    \*************************************************************************************************/
 
   /*! no static exports found */
 
@@ -11671,9 +11671,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.string.code-point-at.js":
-  /*!********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.code-point-at.js ***!
-    \********************************************************************************************************/
+  /*!**********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.code-point-at.js ***!
+    \**********************************************************************************************************/
 
   /*! no static exports found */
 
@@ -11704,9 +11704,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.string.ends-with.js":
-  /*!****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.ends-with.js ***!
-    \****************************************************************************************************/
+  /*!******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.ends-with.js ***!
+    \******************************************************************************************************/
 
   /*! no static exports found */
 
@@ -11774,9 +11774,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.string.fixed.js":
-  /*!************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.fixed.js ***!
-    \************************************************************************************************/
+  /*!**************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.fixed.js ***!
+    \**************************************************************************************************/
 
   /*! no static exports found */
 
@@ -11812,9 +11812,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.string.fontcolor.js":
-  /*!****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.fontcolor.js ***!
-    \****************************************************************************************************/
+  /*!******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.fontcolor.js ***!
+    \******************************************************************************************************/
 
   /*! no static exports found */
 
@@ -11850,9 +11850,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.string.fontsize.js":
-  /*!***************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.fontsize.js ***!
-    \***************************************************************************************************/
+  /*!*****************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.fontsize.js ***!
+    \*****************************************************************************************************/
 
   /*! no static exports found */
 
@@ -11888,9 +11888,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.string.from-code-point.js":
-  /*!**********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.from-code-point.js ***!
-    \**********************************************************************************************************/
+  /*!************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.from-code-point.js ***!
+    \************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -11936,9 +11936,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.string.includes.js":
-  /*!***************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.includes.js ***!
-    \***************************************************************************************************/
+  /*!*****************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.includes.js ***!
+    \*****************************************************************************************************/
 
   /*! no static exports found */
 
@@ -11980,9 +11980,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.string.italics.js":
-  /*!**************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.italics.js ***!
-    \**************************************************************************************************/
+  /*!****************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.italics.js ***!
+    \****************************************************************************************************/
 
   /*! no static exports found */
 
@@ -12018,9 +12018,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.string.iterator.js":
-  /*!***************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.iterator.js ***!
-    \***************************************************************************************************/
+  /*!*****************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.iterator.js ***!
+    \*****************************************************************************************************/
 
   /*! no static exports found */
 
@@ -12073,9 +12073,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.string.link.js":
-  /*!***********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.link.js ***!
-    \***********************************************************************************************/
+  /*!*************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.link.js ***!
+    \*************************************************************************************************/
 
   /*! no static exports found */
 
@@ -12111,9 +12111,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.string.match.js":
-  /*!************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.match.js ***!
-    \************************************************************************************************/
+  /*!**************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.match.js ***!
+    \**************************************************************************************************/
 
   /*! no static exports found */
 
@@ -12182,9 +12182,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.string.raw.js":
-  /*!**********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.raw.js ***!
-    \**********************************************************************************************/
+  /*!************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.raw.js ***!
+    \************************************************************************************************/
 
   /*! no static exports found */
 
@@ -12228,9 +12228,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.string.repeat.js":
-  /*!*************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.repeat.js ***!
-    \*************************************************************************************************/
+  /*!***************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.repeat.js ***!
+    \***************************************************************************************************/
 
   /*! no static exports found */
 
@@ -12257,9 +12257,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.string.replace.js":
-  /*!**************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.replace.js ***!
-    \**************************************************************************************************/
+  /*!****************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.replace.js ***!
+    \****************************************************************************************************/
 
   /*! no static exports found */
 
@@ -12440,9 +12440,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.string.search.js":
-  /*!*************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.search.js ***!
-    \*************************************************************************************************/
+  /*!***************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.search.js ***!
+    \***************************************************************************************************/
 
   /*! no static exports found */
 
@@ -12497,9 +12497,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.string.small.js":
-  /*!************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.small.js ***!
-    \************************************************************************************************/
+  /*!**************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.small.js ***!
+    \**************************************************************************************************/
 
   /*! no static exports found */
 
@@ -12535,9 +12535,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.string.split.js":
-  /*!************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.split.js ***!
-    \************************************************************************************************/
+  /*!**************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.split.js ***!
+    \**************************************************************************************************/
 
   /*! no static exports found */
 
@@ -12700,9 +12700,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.string.starts-with.js":
-  /*!******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.starts-with.js ***!
-    \******************************************************************************************************/
+  /*!********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.starts-with.js ***!
+    \********************************************************************************************************/
 
   /*! no static exports found */
 
@@ -12768,9 +12768,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.string.strike.js":
-  /*!*************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.strike.js ***!
-    \*************************************************************************************************/
+  /*!***************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.strike.js ***!
+    \***************************************************************************************************/
 
   /*! no static exports found */
 
@@ -12806,9 +12806,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.string.sub.js":
-  /*!**********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.sub.js ***!
-    \**********************************************************************************************/
+  /*!************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.sub.js ***!
+    \************************************************************************************************/
 
   /*! no static exports found */
 
@@ -12844,9 +12844,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.string.sup.js":
-  /*!**********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.sup.js ***!
-    \**********************************************************************************************/
+  /*!************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.sup.js ***!
+    \************************************************************************************************/
 
   /*! no static exports found */
 
@@ -12882,9 +12882,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.string.trim.js":
-  /*!***********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.trim.js ***!
-    \***********************************************************************************************/
+  /*!*************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.string.trim.js ***!
+    \*************************************************************************************************/
 
   /*! no static exports found */
 
@@ -12920,9 +12920,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.symbol.async-iterator.js":
-  /*!*********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.symbol.async-iterator.js ***!
-    \*********************************************************************************************************/
+  /*!***********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.symbol.async-iterator.js ***!
+    \***********************************************************************************************************/
 
   /*! no static exports found */
 
@@ -12940,9 +12940,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.symbol.description.js":
-  /*!******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.symbol.description.js ***!
-    \******************************************************************************************************/
+  /*!********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.symbol.description.js ***!
+    \********************************************************************************************************/
 
   /*! no static exports found */
 
@@ -13024,9 +13024,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.symbol.has-instance.js":
-  /*!*******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.symbol.has-instance.js ***!
-    \*******************************************************************************************************/
+  /*!*********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.symbol.has-instance.js ***!
+    \*********************************************************************************************************/
 
   /*! no static exports found */
 
@@ -13044,9 +13044,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.symbol.is-concat-spreadable.js":
-  /*!***************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.symbol.is-concat-spreadable.js ***!
-    \***************************************************************************************************************/
+  /*!*****************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.symbol.is-concat-spreadable.js ***!
+    \*****************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -13064,9 +13064,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.symbol.iterator.js":
-  /*!***************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.symbol.iterator.js ***!
-    \***************************************************************************************************/
+  /*!*****************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.symbol.iterator.js ***!
+    \*****************************************************************************************************/
 
   /*! no static exports found */
 
@@ -13084,9 +13084,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.symbol.js":
-  /*!******************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.symbol.js ***!
-    \******************************************************************************************/
+  /*!********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.symbol.js ***!
+    \********************************************************************************************/
 
   /*! no static exports found */
 
@@ -13565,9 +13565,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.symbol.match-all.js":
-  /*!****************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.symbol.match-all.js ***!
-    \****************************************************************************************************/
+  /*!******************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.symbol.match-all.js ***!
+    \******************************************************************************************************/
 
   /*! no static exports found */
 
@@ -13584,9 +13584,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.symbol.match.js":
-  /*!************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.symbol.match.js ***!
-    \************************************************************************************************/
+  /*!**************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.symbol.match.js ***!
+    \**************************************************************************************************/
 
   /*! no static exports found */
 
@@ -13604,9 +13604,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.symbol.replace.js":
-  /*!**************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.symbol.replace.js ***!
-    \**************************************************************************************************/
+  /*!****************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.symbol.replace.js ***!
+    \****************************************************************************************************/
 
   /*! no static exports found */
 
@@ -13624,9 +13624,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.symbol.search.js":
-  /*!*************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.symbol.search.js ***!
-    \*************************************************************************************************/
+  /*!***************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.symbol.search.js ***!
+    \***************************************************************************************************/
 
   /*! no static exports found */
 
@@ -13644,9 +13644,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.symbol.species.js":
-  /*!**************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.symbol.species.js ***!
-    \**************************************************************************************************/
+  /*!****************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.symbol.species.js ***!
+    \****************************************************************************************************/
 
   /*! no static exports found */
 
@@ -13664,9 +13664,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.symbol.split.js":
-  /*!************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.symbol.split.js ***!
-    \************************************************************************************************/
+  /*!**************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.symbol.split.js ***!
+    \**************************************************************************************************/
 
   /*! no static exports found */
 
@@ -13684,9 +13684,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.symbol.to-primitive.js":
-  /*!*******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.symbol.to-primitive.js ***!
-    \*******************************************************************************************************/
+  /*!*********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.symbol.to-primitive.js ***!
+    \*********************************************************************************************************/
 
   /*! no static exports found */
 
@@ -13704,9 +13704,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.symbol.to-string-tag.js":
-  /*!********************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.symbol.to-string-tag.js ***!
-    \********************************************************************************************************/
+  /*!**********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.symbol.to-string-tag.js ***!
+    \**********************************************************************************************************/
 
   /*! no static exports found */
 
@@ -13724,9 +13724,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.symbol.unscopables.js":
-  /*!******************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.symbol.unscopables.js ***!
-    \******************************************************************************************************/
+  /*!********************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.symbol.unscopables.js ***!
+    \********************************************************************************************************/
 
   /*! no static exports found */
 
@@ -13744,9 +13744,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/es.weak-map.js":
-  /*!********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.weak-map.js ***!
-    \********************************************************************************************/
+  /*!**********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/es.weak-map.js ***!
+    \**********************************************************************************************/
 
   /*! no static exports found */
 
@@ -13855,9 +13855,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/web.dom-collections.for-each.js":
-  /*!*************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/web.dom-collections.for-each.js ***!
-    \*************************************************************************************************************/
+  /*!***************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/web.dom-collections.for-each.js ***!
+    \***************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -13895,9 +13895,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/core-js/modules/web.dom-collections.iterator.js":
-  /*!*************************************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/core-js/modules/web.dom-collections.iterator.js ***!
-    \*************************************************************************************************************/
+  /*!***************************************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/core-js/modules/web.dom-collections.iterator.js ***!
+    \***************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -13959,9 +13959,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/regenerator-runtime/runtime.js":
-  /*!********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/regenerator-runtime/runtime.js ***!
-    \********************************************************************************************/
+  /*!**********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/regenerator-runtime/runtime.js ***!
+    \**********************************************************************************************/
 
   /*! no static exports found */
 
@@ -14679,9 +14679,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/zone.js/dist/zone-evergreen.js":
-  /*!********************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/zone.js/dist/zone-evergreen.js ***!
-    \********************************************************************************************/
+  /*!**********************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/zone.js/dist/zone-evergreen.js ***!
+    \**********************************************************************************************/
 
   /*! no static exports found */
 
@@ -18236,9 +18236,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   "../../node_modules/zone.js/dist/zone-legacy.js":
-  /*!*****************************************************************************************!*\
-    !*** /home/angel/Projects/avladov/ngx-pattern/node_modules/zone.js/dist/zone-legacy.js ***!
-    \*****************************************************************************************/
+  /*!*******************************************************************************************!*\
+    !*** /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/zone.js/dist/zone-legacy.js ***!
+    \*******************************************************************************************/
 
   /*! no static exports found */
 
@@ -18890,16 +18890,16 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
   /***/
   1:
-  /*!*******************************************************************************************************************************************************************************************!*\
-    !*** multi /home/angel/Projects/avladov/ngx-pattern/node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/es5-polyfills.js zone.js/dist/zone-legacy ./src/polyfills.ts ***!
-    \*******************************************************************************************************************************************************************************************/
+  /*!*********************************************************************************************************************************************************************************************!*\
+    !*** multi /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/es5-polyfills.js zone.js/dist/zone-legacy ./src/polyfills.ts ***!
+    \*********************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
   /***/
   function _(module, exports, __webpack_require__) {
     __webpack_require__(
-    /*! /home/angel/Projects/avladov/ngx-pattern/node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/es5-polyfills.js */
+    /*! /Volumes/Data/Projects/avladov/ngx-pattern/node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/es5-polyfills.js */
     "../../node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/es5-polyfills.js");
 
     __webpack_require__(
@@ -18907,7 +18907,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     "../../node_modules/zone.js/dist/zone-legacy.js");
 
     module.exports = __webpack_require__(
-    /*! /home/angel/Projects/avladov/ngx-pattern/projects/ngx-pattern-demo/src/polyfills.ts */
+    /*! /Volumes/Data/Projects/avladov/ngx-pattern/projects/ngx-pattern-demo/src/polyfills.ts */
     "./src/polyfills.ts");
     /***/
   }
