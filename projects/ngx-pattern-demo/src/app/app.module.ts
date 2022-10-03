@@ -8,6 +8,8 @@ import { ForkMeRibbonComponent } from './shared/fork-me-ribbon/fork-me-ribbon.co
 import { TerminalComponent } from './shared/terminal/terminal.component';
 import { CardComponent } from './shared/card/card.component';
 import { FormsModule } from '@angular/forms';
+import { VersionBadgePipe } from './shared/version-badge/version-badge.pipe';
+import { VersionAltTextPipe } from './shared/version-alt-text/version-alt-text.pipe';
 
 @NgModule({
   declarations: [
@@ -16,6 +18,8 @@ import { FormsModule } from '@angular/forms';
     ForkMeRibbonComponent,
     TerminalComponent,
     CardComponent,
+    VersionBadgePipe,
+    VersionAltTextPipe,
   ],
   imports: [
     BrowserModule,

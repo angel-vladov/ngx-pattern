@@ -1,5 +1,5 @@
 # ngx-pattern
-![ngx-pattern](https://img.shields.io/badge/ngx--pattern-0.2.1-brightgreen.svg)
+![ngx-pattern](https://img.shields.io/badge/ngx--pattern-1.0.0-brightgreen.svg)
 [![License](http://img.shields.io/badge/License-MIT-blue.svg)](http://opensource.org/licenses/MIT)
 
 `ngx-pattern` is a small directive you can use to filter allowed input with regular expressions.
@@ -65,6 +65,12 @@ Switch to version `0.2.1`
 Versions prior to `1.0.0` are compiled to work with the legacy ViewEngine 
 
 #### Changelog
+
+##### 1.0.0
+* Changed supported Angular versions to `9+`
+* Update incorrect keydown handling of special keys
+* Improved unit tests coverage
+* Project switched to `strict` mode
 
 ##### 0.2.1
 * Support for Angular 12
