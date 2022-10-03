@@ -12,7 +12,9 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "postinstall": "ngcc",
-    "publish": "npm run build-pkg && npm publish dist/ngx-pattern",
+    "publish:latest": "npm run build-pkg && npm publish dist/ngx-pattern",
+    "publish:v1": "npm run build-pkg && npm publish dist/ngx-pattern --tag v1-stable",
+    "dist-tags": "npm dist-tag ls",
     "gh-pages": "ng build ngx-pattern-demo"
   },
   "dependencies": {
