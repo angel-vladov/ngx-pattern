@@ -1,12 +1,20 @@
 # ngx-pattern
-![ngx-pattern](https://img.shields.io/badge/ngx--pattern-1.0.0-brightgreen.svg)
+![ngx-pattern](https://img.shields.io/badge/ngx--pattern-2.0.0-brightgreen.svg)
 [![License](http://img.shields.io/badge/License-MIT-blue.svg)](http://opensource.org/licenses/MIT)
 
 `ngx-pattern` is a small directive you can use to filter allowed input with regular expressions.
 
 Check **[examples here](https://git.io/JeCwF)**.
 
-Requires **Angular 9+**. _For Angular < 9 use version_ `0.2.1`.
+### Which version to pick
+
+The library has several versions compiled for different angular versions. Make sure to pick the correct one
+
+| Angular Version | ngx-pattern Version | Engine Used |
+|-----------------|---------------------|-------------|
+| < 9             | <= 0.2.1            | View Engine |
+| >= 9  < 12      | ^1.0.0              | View Engine |
+| >= 12           | ^2.0.0              | Partial-Ivy |
 
 ### Installation
 
@@ -39,7 +47,7 @@ After installing, include `NgxPatternModule` in your application module like:
   export class AppModule { }
 ```
 
-# Usage
+### Usage
 
 * You can set up the pattern using a string
 
@@ -58,17 +66,14 @@ After installing, include `NgxPatternModule` in your application module like:
     <input type="text" [ngxPattern]="numbersOnly">
     ```
 
-## FAQ
+### Changelog
 
-#### Working on an older pre Angular 9?
-
-* Switch to version `0.2.1`
-* Versions prior to `1.0.0` work with Angular < 9
-
-#### Changelog
+##### 2.0.0
+* [Partial-Ivy](https://angular.io/guide/creating-libraries) compilation for better compatibility with modern Angular
+* Minimum Angular version changed to `12+`
 
 ##### 1.0.0
-* Changed supported Angular versions to `9+`
+* Minimum Angular version changed to `9+`
 * Update incorrect keydown handling of special keys
 * Improved unit tests coverage
 * Project switched to `strict` mode
